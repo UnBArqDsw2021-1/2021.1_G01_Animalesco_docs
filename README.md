@@ -7,16 +7,16 @@ Repositório para os documentos gerais do grupo Animalesco (Grupo 01)
 **Número do Grupo**: 01<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 18/0015222 | Daniela Soares | 
-| 16/0005191 | Durval Carvalho | 
-| 18/0018604 | Hugo Sobral | 
-| 18/0020251 | João Vitor Lopes de Farias | 
-| 18/0021974 | Leonardo Gomes | 
-| 18/0113992 | Lorrany Souza | 
-| 19/0019158 | Rafael Leão | 
-| 14/0165291 | Vinícius Rodrigues Oliveira | 
+|Matrícula | Aluno | GitHub |
+| -- | -- | -- |
+| 18/0015222 | Daniela Soares | [@daniso123](https://github.com/daniso123) | 
+| 16/0005191 | Durval Carvalho | [@durvalcarvalho](https://github.com/durvalcarvalho) |
+| 18/0018604 | Hugo Sobral | [@KiSobral](https://github.com/KiSobral) |
+| 18/0020251 | João Vitor Lopes de Farias | [@JoaoVitorFarias](https://github.com/JoaoVitorFarias) |
+| 18/0021974 | Leonardo Gomes | [@LeoSilvaGomes](https://github.com/LeoSilvaGomes) |
+| 18/0113992 | Lorrany Souza | [@lorranyoliveira](https://github.com/lorranyoliveira) |
+| 19/0019158 | Rafael Leão | [@Rafaelltm](https://github.com/Rafaelltm) |
+| 14/0165291 | Vinícius Rodrigues Oliveira | [@viniciusoliveira96](https://github.com/viniciusoliveira96) |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
