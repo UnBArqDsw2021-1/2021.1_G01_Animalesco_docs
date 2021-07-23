@@ -18,8 +18,8 @@ Repositório para os documentos gerais do grupo Animalesco (Grupo 01)
 | 19/0019158 | Rafael Leão | [@Rafaelltm](https://github.com/Rafaelltm) |
 | 14/0165291 | Vinícius Rodrigues Oliveira | [@viniciusoliveira96](https://github.com/viniciusoliveira96) |
 
-## Sobre 
-Descreva o seu projeto em linhas gerais. 
+## Sobre :dog:
+Uma aplicação para realizar o controle e acompanhamento para com a saúde dos pets. Os usuários, após se registrarem, podem realizar o cadastro dos seus pets e a partir disso fazer o acompanhamento do bichinho de maneira digital.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
