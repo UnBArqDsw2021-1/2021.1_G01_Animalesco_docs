@@ -1,0 +1,10 @@
+site_name: Animalesco docs
+
+nav:
+  - Home: index.md
+  - Sprints:
+    - Sprint 1:
+      - Planejamento: sprints/sprint1/planejamento.md
+      - Resultados: sprints/sprint1/resultados.md
+
+theme: minty
