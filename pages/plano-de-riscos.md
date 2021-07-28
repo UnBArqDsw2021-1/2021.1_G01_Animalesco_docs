@@ -5,12 +5,13 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 27/07/2021 |  0.1   | Criação do documento | João Vitor Farias |
+| 28/07/2021 |  0.2   | Criação da versão inicial da documentação dos riscos | Hugo Sobral e João Vitor Farias | 
 
 <div align="justify">
 
 ## Introdução
 
-O gerenciamento dos riscos do projeto requer um plano que descreve como os processos de riscos serão estruturados e executados, começando com a identificação e categorização dos possíveis riscos, seguindo com uma análise que avalia a gravidade e impacto dos mesmos no desenvolvimento do projeto. Também é função deste documento fornecer medidas de controle e monitoramento, assim como os responsáveis pelo seu gerenciamento.
+O gerenciamento dos riscos do projeto requer um plano que descreve como os processos de riscos serão estruturados e executados, começando com a identificação e categorização dos possíveis riscos, seguindo com uma análise que avalia a gravidade e impacto dos mesmos no desenvolvimento do projeto. Também é função deste documento fornecer medidas de controle e monitoramento.
 
 ### Processo de gerenciamento dos riscos
 
@@ -27,6 +28,7 @@ No projeto, os riscos serão categorizados em técnico, externo, organizacional 
 - **Gerenciamento de projetos:** Os riscos de gerenciamento do projeto abordam a estimativa, planejamento, controle e a comunicação.
 
 ### Análise quantitativa
+
 
 #### Probabilidade
 
@@ -71,6 +73,19 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 | Muito alto  |  21 a 25  |
 
 ## Documentação dos riscos
+
+| Risco                       | Consequência | Impacto | Probabilidade | Tipo |
+| -----                       | ------------ | ------- | ------------- | ---- |
+| Limitação técnica           | Demora no desenvolvimento do projeto                                        | Alto       | Médio | Técnico |
+| Má gestão dos requisitos    | Desenvolvimento falho do produto                                            | Muito alto | Baixa | Técnico |
+| Baixa qualidade do software | Comprometimento da confiabilidade e integridade do software                 | Muito alto | Médio | Técnico |
+| Má priorização das tarefas  | Confusão e consequente ineficiência na divisão de trabalho                  | Alto       | Alto  | Organizacional |
+| Mudança de escopo | Necessidade de replanejamento e repriorização do projeto | Muito Alto | Baixa | Organizacional |
+| Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Médio      | Médio | Gerenciamento de projeto |
+| Desistência de membros | Sobrecarga de trabalho para o restante da equipe | Alto | Médio | Gerenciamento de projeto |
+| Falta de compatilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Baixo | Gerenciamento de projeto |
+| Baixa Produtividade da equipe | Atraso nas entregas da disciplina | Alto | Médio | Gerenciamento de projeto |
+| Mudança na modalidade de ensino do semestre | Impacto na organização remota da equipe | Muito alto | Muito baixa | Externo |
 
 ## Planejamento de resposta dos riscos
 
