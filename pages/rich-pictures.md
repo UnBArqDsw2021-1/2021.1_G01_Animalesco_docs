@@ -94,6 +94,18 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
     </figcaption>
 </p>
 
+#### 3.4. Rich-Picture da Daniela
+
+<p align='center'>
+    <img src='assets/pages/rich-pictures/rich-picture-dani.jpg'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich-Picture da Daniela</b>
+        <br>
+        <small>Fonte: Rafael, 2021.</small>
+    </figcaption>
+</p>
+
+
 ### 4. Rich-Pictures do grupo
 
 <p align='center'>
