@@ -58,9 +58,56 @@ Além de construir uma visão coletiva do grupo, esse rich-picture também será
 
 ### 3. Rich-Pictures dos integrantes
 
+Nesse tópico é apresentado os rich-pictures criados por cada um dos integrantes.
+
+#### 3.1. Rich-Picture do João Vitor Lopes
+
+<p align='center'>
+    <img src='assets/pages/rich-pictures/rich-picture-example.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich-Picture do João Vitor Lopes</b>
+        <br>
+        <small>Fonte: João Vitor Lopes, 2021.</small>
+    </figcaption>
+</p>
+
+#### 3.2. Rich-Picture do Leonardo Gomes
+
+<p align='center'>
+    <img src='assets/pages/rich-pictures/rich-picture-example.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich-Picture do Leonardo Gomes</b>
+        <br>
+        <small>Fonte: Leonardo Gomes, 2021.</small>
+    </figcaption>
+</p>
+
+
+#### 3.3. Rich-Picture do Rafael
+
+<p align='center'>
+    <img src='assets/pages/rich-pictures/rich-picture-example.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich-Picture do Rafael</b>
+        <br>
+        <small>Fonte: Rafael, 2021.</small>
+    </figcaption>
+</p>
+
 ### 4. Rich-Pictures do grupo
 
+<p align='center'>
+    <img src='assets/pages/rich-pictures/rich-picture-grupo.jpg'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich-Picture do Rafael</b>
+        <br>
+        <small>Fonte: Rafael, 2021.</small>
+    </figcaption>
+</p>
+
 ### 5. Resultados e Conclusões
+
+Essa atividade de elaboração de rich-pictures individuais e depois um rich-picture do grupo colaborou para o entendimento coletivo da aplicação. Após analisar cada um dos rich-pictures produzidos foi possível identificar conjunto de funcionalidades que todos citaram, além de evidenciar agentes importantes no contexto do projeto (clínicas veterinárias e agropecuárias).
 
 ### Bibliografia
 
