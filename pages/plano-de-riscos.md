@@ -13,8 +13,6 @@
 
 O gerenciamento dos riscos do projeto requer um plano que descreve como os processos de riscos serão estruturados e executados, começando com a identificação e categorização dos possíveis riscos, seguindo com uma análise que avalia a gravidade e impacto dos mesmos no desenvolvimento do projeto. Também é função deste documento fornecer medidas de controle e monitoramento.
 
-### Processo de gerenciamento dos riscos
-
 ### Categoria dos riscos
 
 No projeto, os riscos serão categorizados em técnico, externo, organizacional ou gerenciamento de projetos.
@@ -27,8 +25,8 @@ No projeto, os riscos serão categorizados em técnico, externo, organizacional 
 
 - **Gerenciamento de projetos:** Os riscos de gerenciamento do projeto abordam a estimativa, planejamento, controle e a comunicação.
 
-### Análise quantitativa
 
+### Análise quantitativa
 
 #### Probabilidade
 
@@ -66,26 +64,45 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 
 | Prioridade  | Intervalo |
 | :---------: | :-------: |
-| Muito baixo |   1 a 5   |
-|    Baixo    |  6 a 10   |
-|    Médio    |  11 a 15  |
-|    Alto     |  16 a 20  |
-| Muito alto  |  21 a 25  |
+| Muito baixa |   1 a 5   |
+|    Baixa    |  6 a 10   |
+|    Média    |  11 a 15  |
+|    Alta     |  16 a 20  |
+| Muito alta  |  21 a 25  |
 
 ## Documentação dos riscos
 
-| Risco                       | Consequência | Impacto | Probabilidade | Tipo |
-| -----                       | ------------ | ------- | ------------- | ---- |
-| Limitação técnica           | Demora no desenvolvimento do projeto                                        | Alto       | Médio | Técnico |
-| Má gestão dos requisitos    | Desenvolvimento falho do produto                                            | Muito alto | Baixa | Técnico |
-| Baixa qualidade do software | Comprometimento da confiabilidade e integridade do software                 | Muito alto | Médio | Técnico |
-| Má priorização das tarefas  | Confusão e consequente ineficiência na divisão de trabalho                  | Alto       | Alto  | Organizacional |
-| Mudança de escopo | Necessidade de replanejamento e repriorização do projeto | Muito Alto | Baixa | Organizacional |
-| Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Médio      | Médio | Gerenciamento de projeto |
-| Desistência de membros | Sobrecarga de trabalho para o restante da equipe | Alto | Médio | Gerenciamento de projeto |
-| Falta de compatilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Baixo | Gerenciamento de projeto |
-| Baixa Produtividade da equipe | Atraso nas entregas da disciplina | Alto | Médio | Gerenciamento de projeto |
-| Mudança na modalidade de ensino do semestre | Impacto na organização remota da equipe | Muito alto | Muito baixa | Externo |
+### Riscos técnicos
+
+| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
+| -- | ----- | ------------ | ------- | ------------- | ---------- |
+| RST01 | Limitação técnica | Demora no desenvolvimento do projeto | Alto | Média | Média |
+| RST02 | Má gestão dos requisitos | Desenvolvimento falho do produto | Muito alto | Baixa | Baixa |
+| RST03 | Baixa qualidade do software | Comprometimento da confiabilidade e integridade do software | Muito alto | Média | Média |
+
+
+### Riscos organizacionais
+
+| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
+| -- | ----- | ------------ | ------- | ------------- | ---------- |
+| RSO01 | Má priorização das tarefas  | Confusão e consequente ineficiência na divisão de trabalho | Alto | Alta | Alta |
+| RSO02 | Mudança de escopo | Necessidade de replanejamento e repriorização do projeto | Muito Alto | Baixa | Baixa |
+
+### Riscos de gerenciamento de projeto 
+
+| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
+| -- | ----- | ------------ | ------- | ------------- | ---------- |
+| RSGP01 | Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Médio | Média | Média |
+| RSGP02 | Desistência de membros | Sobrecarga de trabalho para o restante da equipe | Alto | Média | Média |
+| RSGP03 | Falta de compatilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Baixa | Baixa |
+| RSGP04 | Baixa Produtividade da equipe | Atraso nas entregas da disciplina | Alto | Média | Média |
+
+
+### Risco externo
+
+| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
+| -- | ----- | ------------ | ------- | ------------- | ---------- |
+| RSE01 | Mudança na modalidade de ensino do semestre | Impacto na organização remota da equipe | Muito alto | Muito baixa | Muito baixa |
 
 ## Planejamento de resposta dos riscos
 
@@ -95,8 +112,11 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 
 - Mitigar
 
-* Aceitar
+- Aceitar
 
 ### Respostas aos riscos
 
 ## Bibliografia
+
+
+</div>
