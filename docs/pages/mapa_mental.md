@@ -7,6 +7,7 @@
 | 29/07/2021 |  0.2   | Definição da Introdução | Leonardo Gomes  |
 | 29/07/2021 |  0.3   | Descrição do Objetivo | Leonardo Gomes e Lorrany Souza |
 | 29/07/2021 |  0.4   | Descrição do mapa mental | Leonardo Gomes e Lorrany Souza |
+| 29/07/2021 |  1.0   | Adição da conclusão e da bibliografia | Leonardo Gomes e Lorrany Souza |
 
 <div align="justify">
 
@@ -27,12 +28,12 @@ principais, os terciários aos secundários e assim sucessivamente.". (SILVA, Mi
 - Etapa 4: Utilize imagens durante o processo.
 
 <p align='center'>
-    <img src='../assets/images/mapa_mental_example.png'>
-    <figcaption align='center'>
-        <b>Figura 1: Mapa mental feito a mão</b>
-        <br>
-        <small>Fonte: http://clakemi.blogspot.com/2007/07/memorizao-atravs-da-tcnica-dos-mapas.html.</small>
-    </figcaption>
+  <img src='../assets/images/mapa_mental_example.png'>
+  <figcaption align='center'>
+      <b>Figura 1: Mapa mental feito a mão</b>
+      <br>
+      <small>Fonte: http://clakemi.blogspot.com/2007/07/memorizao-atravs-da-tcnica-dos-mapas.html.</small>
+  </figcaption>
 </p>
 
 #### 1.2 Valor
@@ -51,34 +52,42 @@ Além de construir uma visão simplista e geral de como foi pensado o projeto e 
 
 #### 3.1 Visão geral do projeto
 
-A visão geral do projeto consiste em definir conceito, aplicativos similares e listar possíveis funcionalidades, stakeholders, plataformas e tecnologias. Essas ideias foram levantadas a partir de um brainstorm feito por toda a equipe, onde foram aceitos quaisquer ideias a respeito do que poderia ser o projeto. O mapa mental a respeito dessa visão pode ser visto abaixo:
+A visão geral do projeto propõe definir conceito, aplicativos similares e listar possíveis funcionalidades, stakeholders, plataformas e tecnologias. Essas ideias foram levantadas a partir de um brainstorm feito por toda a equipe, onde foram aceitos quaisquer ideias a respeito do que poderia ser o projeto. O mapa mental a respeito dessa visão pode ser visto abaixo:
 
 <p align='center'>
-    <img src='../assets/images/mapa_mental_visão_geral.png'>
-    <figcaption align='center'>
-        <b>Figura 2: Mapa mental de visão geral do projeto feito pelo Whimsical</b>
-        <br>
-        <small>Autores: Leonardo Gomes e Lorrany Souza.</small>
-    </figcaption>
+  <img src='../assets/images/mapa_mental_visão_geral.png'>
+  <figcaption align='center'>
+      <b>Figura 2: Mapa mental de visão geral do projeto feito pelo Whimsical</b>
+      <br>
+      <small>Autores: Leonardo Gomes e Lorrany Souza.</small>
+  </figcaption>
 </p>
 
 #### 3.2 Visão geral da equipe
 
-A visão geral da equipe consiste na difinição de possiveis metodologias, tecnologias de gerenciamento e ciclo de vida do projeto. Abarcando futuras decisões, mas agregando valor para conceitos que são definidos ao decorrer do desenvolvimento dos documentos. O mapa mental a respeito dessa visão pode ser visto abaixo:
+A visão geral da equipe propõe definir possiveis metodologias, tecnologias de gerenciamento e ciclo de vida do projeto. Abarcando futuras decisões, mas agregando valor para conceitos que são definidos ao decorrer do desenvolvimento dos documentos. O mapa mental a respeito dessa visão pode ser visto abaixo:
 
 <p align='center'>
-    <img src='../assets/images/mapa_mental_metologia_e_desenvolvimento.png'>
-    <figcaption align='center'>
-        <b>Figura 3: Mapa mental de visão geral da equipe feito pelo Whimsical</b>
-        <br>
-        <small>Autores: Leonardo Gomes e Lorrany Souza.</small>
-    </figcaption>
+  <img src='../assets/images/mapa_mental_metologia_e_desenvolvimento.png'>
+  <figcaption align='center'>
+      <b>Figura 3: Mapa mental de visão geral da equipe feito pelo Whimsical</b>
+      <br>
+      <small>Autores: Leonardo Gomes e Lorrany Souza.</small>
+  </figcaption>
 </p>
 
 ### 4. Resultados e Conclusões
 
-
+O documento aqui exposto teve como objetivo a criação de um mapa mental, que culminou na melhor estruturação das ideias dadas pelos membros da equipe, acerca do projeto de acompanhamento da saúde e rotina de animais de estimação. Foi possível delimitar e esclarecer as ideias, que inicialmente, se apresentavam vagas, mas que agora se tornaram mais lúcidas. Dessa forma, será possível argumentar o porque e como será criado esse projeto e nosso objetivos para a matéria de Arquitetura de Desenho de Software.
 
 ### Bibliografia
+
+1. **Silva, Milena da Costa**. Mapas mentais: uma ferramenta para o desenvolvimento da competência em informação – Rio de Janeiro, 2010.
+
+2. Mapa mental. **Stock**. Disponível em https://unbarqdsw.github.io/2020.1_G12_Stock/#/preTraceability/MapaMental (Último acesso em 29/07/2021)
+
+3. Mapa mental. **QRodizio**. Disponível em https://unbarqdsw.github.io/2020.1_G10_QRodizio/base/mapa_mental.html (Último acesso em 29/07/2021)
+
+4. Como fazer um MAPA MENTAL Passo a Passo | Seja Um Estudante Melhor. Canal **SejaUmaPessoaMelhor** Disponível em https://www.youtube.com/watch?v=m1qW0wPJV1M (Último acesso em 29/07/2021)
 
 </div>
