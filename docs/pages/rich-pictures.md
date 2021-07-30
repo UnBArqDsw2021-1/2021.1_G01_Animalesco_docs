@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 27/07/2021 |  0.1   | Criação do documento | Durval Carvalho |
 | 30/07/2021 |  0.2   | Adição dos demais rich-pictures | Durval Carvalho |
+| 30/07/2021 |  1.0   | Adição das mudanças sugeridas na revisão | Durval Carvalho |
 
 <div align="justify">
 
@@ -64,22 +65,22 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.1. Rich-Picture do João Vitor Lopes
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-example.png'>
+    <img src='../../assets/pages/rich-pictures/rich-picture-joao.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do João Vitor Lopes</b>
         <br>
-        <small>Fonte: João Vitor Lopes, 2021.</small>
+        <small>Autor: João Vitor Lopes, 2021.</small>
     </figcaption>
 </p>
 
 #### 3.2. Rich-Picture do Leonardo Gomes
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-example.png'>
+    <img src='../../assets/pages/rich-pictures/rich-picture-leonardo.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Leonardo Gomes</b>
         <br>
-        <small>Fonte: Leonardo Gomes, 2021.</small>
+        <small>Autor: Leonardo Gomes, 2021.</small>
     </figcaption>
 </p>
 
@@ -87,44 +88,44 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.3. Rich-Picture do Rafael
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-example.png'>
+    <img src='../../assets/pages/rich-pictures/rich-picture-rafael.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Rafael</b>
         <br>
-        <small>Fonte: Rafael, 2021.</small>
+        <small>Autor: Rafael, 2021.</small>
     </figcaption>
 </p>
 
 #### 3.4. Rich-Picture do Vinícius Oliveira
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-vinicius.jpg'>
+    <img src='../../assets/pages/rich-pictures/rich-picture-vinicius.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Vinícius Oliveira</b>
         <br>
-        <small>Fonte: Vinícius Oliveira, 2021.</small>
+        <small>Autor: Vinícius Oliveira, 2021.</small>
     </figcaption>
 </p>
 
 #### 3.5. Rich-Picture da Daniela Soares
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-daniela.jpg'>
+    <img src='../../assets/pages/rich-pictures/rich-picture-daniela.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture da Daniela</b>
         <br>
-        <small>Fonte: Daniela Soares, 2021.</small>
+        <small>Autor: Daniela Soares, 2021.</small>
     </figcaption>
 </p>
 
 #### 3.6. Rich-Picture da Lorrany Souza
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-lorrany-souza.png'>
+    <img src='../../assets/pages/rich-pictures/rich-picture-lorrany-souza.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture da Lorrany</b>
         <br>
-        <small>Fonte: Lorrany Souza, 2021.</small>
+        <small>Autor: Lorrany Souza, 2021.</small>
     </figcaption>
 </p>
 
@@ -132,22 +133,22 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.7. Rich-Picture do Hugo Sobral
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-hugo.jpeg'>
+    <img src='../../assets/pages/rich-pictures/rich-picture-hugo.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Hugo</b>
         <br>
-        <small>Fonte: Hugo Sobral, 2021.</small>
+        <small>Autor: Hugo Sobral, 2021.</small>
     </figcaption>
 </p>
 
 ### 4. Rich-Pictures do grupo
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-grupo.jpg'>
+    <img src='../../assets/pages/rich-pictures/rich-picture-grupo.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Grupo</b>
         <br>
-        <small>Fonte: Durval Carvalho, 2021.</small>
+        <small>Autor: Durval Carvalho, 2021.</small>
     </figcaption>
 </p>
 
