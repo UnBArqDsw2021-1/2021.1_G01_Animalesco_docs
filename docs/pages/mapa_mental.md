@@ -29,7 +29,7 @@ principais, os terciários aos secundários e assim sucessivamente.". (SILVA, Mi
 - Etapa 4: Utilize imagens durante o processo.
 
 <p align='center'>
-  <img src='../assets/images/mapa_mental_example.png'>
+  <img src='../../assets/pages/mapa-mental/mapa_mental_example.png'>
   <figcaption align='center'>
       <b>Figura 1: Mapa mental feito a mão</b>
       <br>
@@ -56,7 +56,7 @@ Além de construir uma visão simplista e geral de como foi pensado o projeto e 
 A visão geral do projeto propõe definir conceito, aplicativos similares e listar possíveis funcionalidades, stakeholders, plataformas e tecnologias. Essas ideias foram levantadas a partir de um brainstorm feito por toda a equipe, onde foram aceitos quaisquer ideias a respeito do que poderia ser o projeto. O mapa mental a respeito dessa visão pode ser visto abaixo:
 
 <p align='center'>
-  <img src='../assets/images/mapa_mental_visão_geral.png'>
+  <img src='../../assets/pages/mapa-mental/mapa_mental_visão_geral.png'>
   <figcaption align='center'>
       <b>Figura 2: Mapa mental de visão geral do projeto feito pelo Whimsical</b>
       <br>
@@ -69,7 +69,7 @@ A visão geral do projeto propõe definir conceito, aplicativos similares e list
 A visão geral da equipe propõe definir possíveis metodologias, tecnologias de gerenciamento e ciclo de vida do projeto. Abarcando futuras decisões, mas agregando valor para conceitos que são definidos ao decorrer do desenvolvimento dos documentos. O mapa mental a respeito dessa visão pode ser visto abaixo:
 
 <p align='center'>
-  <img src='../assets/images/mapa_mental_metologia_e_desenvolvimento.png'>
+  <img src='../../assets/pages/mapa-mental/mapa_mental_metologia_e_desenvolvimento.png'>
   <figcaption align='center'>
       <b>Figura 3: Mapa mental de visão geral da equipe feito pelo Whimsical</b>
       <br>
