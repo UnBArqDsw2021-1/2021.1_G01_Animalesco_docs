@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 27/07/2021 |  0.1   | Criação do documento | Durval Carvalho |
+| 30/07/2021 |  0.2   | Adição dos demais rich-pictures | Durval Carvalho |
 
 <div align="justify">
 
@@ -94,26 +95,59 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
     </figcaption>
 </p>
 
-#### 3.4. Rich-Picture da Daniela
+#### 3.4. Rich-Picture do Vinícius Oliveira
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-dani.jpg'>
+    <img src='assets/pages/rich-pictures/rich-picture-vinicius.jpg'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture da Daniela</b>
+        <b>Figura 1: Rich-Picture do Vinícius Oliveira</b>
         <br>
-        <small>Fonte: Rafael, 2021.</small>
+        <small>Fonte: Vinícius Oliveira, 2021.</small>
     </figcaption>
 </p>
 
+#### 3.5. Rich-Picture da Daniela Soares
+
+<p align='center'>
+    <img src='assets/pages/rich-pictures/rich-picture-daniela.jpg'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich-Picture da Daniela</b>
+        <br>
+        <small>Fonte: Daniela Soares, 2021.</small>
+    </figcaption>
+</p>
+
+#### 3.6. Rich-Picture da Lorrany Souza
+
+<p align='center'>
+    <img src='assets/pages/rich-pictures/rich-picture-lorrany-souza.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich-Picture da Lorrany</b>
+        <br>
+        <small>Fonte: Lorrany Souza, 2021.</small>
+    </figcaption>
+</p>
+
+
+#### 3.7. Rich-Picture do Hugo Sobral
+
+<p align='center'>
+    <img src='assets/pages/rich-pictures/rich-picture-hugo.jpg'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich-Picture do Hugo</b>
+        <br>
+        <small>Fonte: Hugo Sobral, 2021.</small>
+    </figcaption>
+</p>
 
 ### 4. Rich-Pictures do grupo
 
 <p align='center'>
     <img src='assets/pages/rich-pictures/rich-picture-grupo.jpg'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Rafael</b>
+        <b>Figura 1: Rich-Picture do Grupo</b>
         <br>
-        <small>Fonte: Rafael, 2021.</small>
+        <small>Fonte: Durval Carvalho, 2021.</small>
     </figcaption>
 </p>
 
