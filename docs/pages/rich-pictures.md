@@ -132,7 +132,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.7. Rich-Picture do Hugo Sobral
 
 <p align='center'>
-    <img src='assets/pages/rich-pictures/rich-picture-hugo.jpg'>
+    <img src='assets/pages/rich-pictures/rich-picture-hugo.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Hugo</b>
         <br>
