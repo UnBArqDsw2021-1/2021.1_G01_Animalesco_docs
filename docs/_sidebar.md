@@ -5,6 +5,7 @@
 
 - Pré rastreabilidade
   - [Mapa Mental](pages/mapa_mental.md)
+  - [Rich Pictures](pages/rich-pictures.md)
 
 - Sprints
   - Sprint 1
