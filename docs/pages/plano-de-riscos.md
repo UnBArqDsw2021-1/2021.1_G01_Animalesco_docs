@@ -8,18 +8,19 @@
 | 28/07/2021 |  0.2   | Criação da versão inicial da documentação dos riscos | Hugo Sobral e João Vitor Farias |
 | 28/07/2021 |  1.0   | Revisão do texto do documento e inclusão da bibliografia | Hugo Sobral |
 | 29/07/2021 |  1.1   | Ajuste na classificação da prioridade do RSGP01 | Hugo Sobral |
+| 30/07/2021 |  1.2   | Revisão do documento | Durval Carvalho |
 
 <div align="justify">
 
-## Introdução
+## 1. Introdução
 
-O planejamento do gerenciamento dos riscos é o documento responsável pela identificação e mapeamento dos possíveis riscos que podem vir a surgir durante o tempo de execução do projeto. O processo de gerenciamento dos riscos se inicia com a identificação e categorização dos fatores que, por diversos motivos, podem apresentar obstáculos e impecilhos para o pleno desenvolvimento das atividades e tarefas do projeto.
+O documento de planejamento e gerenciamento de riscos é responsável pela identificação e mapeamento dos possíveis riscos e situações que podem surgir durante a execução do projeto. O processo de gerenciamento dos riscos se inicia com a identificação e categorização dos fatores que, por diversos motivos, podem apresentar obstáculos e empecilhos para o pleno desenvolvimento das atividades e tarefas do projeto.
 
 Desta forma, o objetivo deste documento se concentra na identificação e exposição desses fatores de risco para o Projeto Animalesco.
 
 <br/>
 
-### Categoria dos riscos
+### 1.2. Categoria dos riscos
 
 Conceitualmente, os riscos podem ser definidos em diferentes categorias que se ramificam a partir da natureza destes. Estas categorias estão descritas na seguinte lista:
 
@@ -33,29 +34,29 @@ Conceitualmente, os riscos podem ser definidos em diferentes categorias que se r
 
 <br/>
 
-### Análise quantitativa
+### 1.3. Análise quantitativa
 
-#### Probabilidade
+#### 1.3.1. Probabilidade
 
 | Probabilidade | Intervalo | Peso |
 | :-----------: | :-------: | :--: |
-|  Muito baixa  |  0 a 15   |  1   |
-|     Baixa     |  16 a 35  |  2   |
-|     Média     |  36 a 50  |  3   |
-|     Alta      |  51 a 65  |  4   |
+|  Muito baixa  | 0 a 15    |  1   |
+|     Baixa     | 16 a 35   |  2   |
+|     Média     | 36 a 50   |  3   |
+|     Alta      | 51 a 65   |  4   |
 |  Muito alta   | 66 a 100  |  5   |
 
-#### Impacto
+#### 1.3.2. Impacto
 
 |   Impacto   |                  Descrição                  | Peso |
 | :---------: | :-----------------------------------------: | :--: |
-| Muito baixa |              Pouco Expressivo               |  1   |
+| Muito baixo |              Pouco Expressivo               |  1   |
 |    Baixo    |                Pouco impacto                |  2   |
 |    Médio    |                Impacto Médio                |  3   |
 |    Alto     |               Grande impacto                |  4   |
 | Muito alto  | Impacto impede o desenvolvimento do projeto |  5   |
 
-#### Prioridade
+#### 1.3.3. Prioridade
 
 A prioridade determina a urgência que medidas devem ser tomadas para resolver o risco, e é calculada com base no **impacto** e na **probabilidade**.
 
@@ -67,7 +68,7 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 |    **Alto**     |        4        |     8     |    12     |    16    |       20       |
 | **Muito alto**  |        5        |    10     |    15     |    20    |       25       |
 
-#### Nível de prioridade
+#### 1.3.4. Nível de prioridade
 
 | Prioridade  | Intervalo |
 | :---------: | :-------: |
@@ -79,9 +80,9 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 
 <br/>
 
-## Documentação dos riscos
+## 2. Documentação dos riscos
 
-### Riscos técnicos
+### 2.1. Riscos técnicos
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
@@ -90,24 +91,24 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 | RST03 | Baixa qualidade do software | Comprometimento da confiabilidade e integridade do software | Muito alto | Média | Média |
 
 
-### Riscos organizacionais
+### 2.2. Riscos organizacionais
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
 | RSO01 | Má priorização das tarefas  | Confusão e consequente ineficiência na divisão de trabalho | Alto | Alta | Alta |
-| RSO02 | Mudança de escopo | Necessidade de replanejamento e repriorização do projeto | Muito Alto | Baixa | Baixa |
+| RSO02 | Mudança de escopo | Necessidade de replanejamento do projeto e repriorização de requisitos | Muito Alto | Baixa | Baixa |
 
-### Riscos de gerenciamento de projeto 
+### 2.3. Riscos de gerenciamento de projeto
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
 | RSGP01 | Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Médio | Média | Baixa |
 | RSGP02 | Desistência de membros | Sobrecarga de trabalho para o restante da equipe | Alto | Média | Média |
-| RSGP03 | Falta de compatilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Baixa | Baixa |
+| RSGP03 | Falta de compatibilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Baixa | Baixa |
 | RSGP04 | Baixa Produtividade da equipe | Atraso nas entregas da disciplina | Alto | Média | Média |
 
 
-### Risco externo
+### 2.4. Risco externo
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
@@ -118,7 +119,7 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 
 1. Plano de Gerenciamento de Riscos. **Banquinha-Web**. Disponível em https://desenhosoftware-2018-2.github.io/wiki/gerenciamentoRiscos (Último acesso em 28/07/2021).
 
-2. Plano de Riscos. **SpaceShooter**. Disponível em https://github.com/DesenhoMaster2017/SpaceShooter/wiki/Plano-de-Riscos (Últimmo acesso em 28/07/2021).
+2. Plano de Riscos. **SpaceShooter**. Disponível em https://github.com/DesenhoMaster2017/SpaceShooter/wiki/Plano-de-Riscos (Último acesso em 28/07/2021).
 
 3. CONTROLE DE RISCOS. **A Monitoria**. Disponível em https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos/ (Último acesso em 28/07/2021).
 
