@@ -1,7 +1,10 @@
 - [Home](README.md "Animalesco Docs")
 
-- Seminário I
+- Gerenciamento do projeto
   - [Plano de riscos](pages/plano-de-riscos.md)
+
+- Pré rastreabilidade
+  - [Mapa Mental](pages/mapa_mental.md)
 
 - Sprints
   - Sprint 1

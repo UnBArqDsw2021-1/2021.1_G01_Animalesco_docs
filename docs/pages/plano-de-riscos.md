@@ -11,7 +11,7 @@
 
 <div align="justify">
 
-## Introdução
+## 1. Introdução
 
 O planejamento do gerenciamento dos riscos é o documento responsável pela identificação e mapeamento dos possíveis riscos que podem vir a surgir durante o tempo de execução do projeto. O processo de gerenciamento dos riscos se inicia com a identificação e categorização dos fatores que, por diversos motivos, podem apresentar obstáculos e impecilhos para o pleno desenvolvimento das atividades e tarefas do projeto.
 
@@ -19,7 +19,7 @@ Desta forma, o objetivo deste documento se concentra na identificação e exposi
 
 <br/>
 
-### Categoria dos riscos
+## 2. Categoria dos riscos
 
 Conceitualmente, os riscos podem ser definidos em diferentes categorias que se ramificam a partir da natureza destes. Estas categorias estão descritas na seguinte lista:
 
@@ -33,9 +33,9 @@ Conceitualmente, os riscos podem ser definidos em diferentes categorias que se r
 
 <br/>
 
-### Análise quantitativa
+## 3. Análise quantitativa
 
-#### Probabilidade
+### 3.1 Probabilidade
 
 | Probabilidade | Intervalo | Peso |
 | :-----------: | :-------: | :--: |
@@ -45,7 +45,7 @@ Conceitualmente, os riscos podem ser definidos em diferentes categorias que se r
 |     Alta      |  51 a 65  |  4   |
 |  Muito alta   | 66 a 100  |  5   |
 
-#### Impacto
+### 3.2 Impacto
 
 |   Impacto   |                  Descrição                  | Peso |
 | :---------: | :-----------------------------------------: | :--: |
@@ -55,7 +55,7 @@ Conceitualmente, os riscos podem ser definidos em diferentes categorias que se r
 |    Alto     |               Grande impacto                |  4   |
 | Muito alto  | Impacto impede o desenvolvimento do projeto |  5   |
 
-#### Prioridade
+### 3.3 Prioridade
 
 A prioridade determina a urgência que medidas devem ser tomadas para resolver o risco, e é calculada com base no **impacto** e na **probabilidade**.
 
@@ -67,7 +67,7 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 |    **Alto**     |        4        |     8     |    12     |    16    |       20       |
 | **Muito alto**  |        5        |    10     |    15     |    20    |       25       |
 
-#### Nível de prioridade
+### 3.4 Nível de prioridade
 
 | Prioridade  | Intervalo |
 | :---------: | :-------: |
@@ -79,9 +79,9 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 
 <br/>
 
-## Documentação dos riscos
+## 4. Documentação dos riscos
 
-### Riscos técnicos
+### 4.1 Riscos técnicos
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
@@ -90,14 +90,14 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 | RST03 | Baixa qualidade do software | Comprometimento da confiabilidade e integridade do software | Muito alto | Média | Média |
 
 
-### Riscos organizacionais
+### 4.2 Riscos organizacionais
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
 | RSO01 | Má priorização das tarefas  | Confusão e consequente ineficiência na divisão de trabalho | Alto | Alta | Alta |
 | RSO02 | Mudança de escopo | Necessidade de replanejamento e repriorização do projeto | Muito Alto | Baixa | Baixa |
 
-### Riscos de gerenciamento de projeto 
+### 4.3 Riscos de gerenciamento de projeto 
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
@@ -107,14 +107,14 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 | RSGP04 | Baixa Produtividade da equipe | Atraso nas entregas da disciplina | Alto | Média | Média |
 
 
-### Risco externo
+### 4.4 Risco externo
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
 | RSE01 | Mudança na modalidade de ensino do semestre | Impacto na organização remota da equipe | Muito alto | Muito baixa | Muito baixa |
 
 
-## Bibliografia
+## 5. Bibliografia
 
 1. Plano de Gerenciamento de Riscos. **Banquinha-Web**. Disponível em https://desenhosoftware-2018-2.github.io/wiki/gerenciamentoRiscos (Último acesso em 28/07/2021).
 
