@@ -2,6 +2,7 @@
 
 - Pré rastreabilidade
   - [Mapa Mental](pages/mapa_mental.md)
+  - [5W2H](pages/5W2H.md)
 
 - Sprints
   - Sprint 1
