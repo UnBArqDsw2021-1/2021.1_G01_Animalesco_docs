@@ -1,5 +1,8 @@
 - [Home](README.md "Animalesco Docs")
 
+- Gerenciamento do projeto
+  - [Plano de riscos](pages/plano-de-riscos.md)
+
 - Pré rastreabilidade
   - [Mapa Mental](pages/mapa_mental.md)
   - [5W2H](pages/5W2H.md)
