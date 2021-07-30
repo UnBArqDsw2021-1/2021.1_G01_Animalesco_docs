@@ -1,6 +1,6 @@
 # Animalesco
 
-Repositório para a documentação do projeto da displina "Arquitetura e Desenho de Software" da UnB no Semestre 2021/1 do Grupo 01.
+Repositório para a documentação do projeto da disciplina "Arquitetura e Desenho de Software" da UnB no Semestre 2021/1 do Grupo 01.
 
 ## Integrantes do grupo
 
