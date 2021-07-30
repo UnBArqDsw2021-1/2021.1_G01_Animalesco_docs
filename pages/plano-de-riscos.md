@@ -7,6 +7,7 @@
 | 27/07/2021 |  0.1   | Criação do documento | João Vitor Farias |
 | 28/07/2021 |  0.2   | Criação da versão inicial da documentação dos riscos | Hugo Sobral e João Vitor Farias |
 | 28/07/2021 |  1.0   | Revisão do texto do documento e inclusão da bibliografia | Hugo Sobral |
+| 29/07/2021 |  1.1   | Ajuste na classificação da prioridade do RSGP01 | Hugo Sobral |
 
 <div align="justify">
 
@@ -100,7 +101,7 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 
 | ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
 | -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RSGP01 | Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Médio | Média | Média |
+| RSGP01 | Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Médio | Média | Baixa |
 | RSGP02 | Desistência de membros | Sobrecarga de trabalho para o restante da equipe | Alto | Média | Média |
 | RSGP03 | Falta de compatilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Baixa | Baixa |
 | RSGP04 | Baixa Produtividade da equipe | Atraso nas entregas da disciplina | Alto | Média | Média |
