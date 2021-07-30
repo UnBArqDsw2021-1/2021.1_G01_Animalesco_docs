@@ -8,6 +8,7 @@
 | 29/07/2021 |  0.3   | Descrição do Objetivo | Leonardo Gomes e Lorrany Souza |
 | 29/07/2021 |  0.4   | Descrição do mapa mental | Leonardo Gomes e Lorrany Souza |
 | 29/07/2021 |  1.0   | Adição da conclusão e da bibliografia | Leonardo Gomes e Lorrany Souza |
+| 30/07/2021 |  1.1   | Revisão do Documento | Durval Carvalho |
 
 <div align="justify">
 
@@ -15,7 +16,7 @@
 
 Os mapas mentais é uma técnica que “servem para tornar visíveis e claros as idéias chaves em que os gestores devem se centrar para uma atividade de busca da solução de problemas, de pesquisa, de tomadas de decisão em qualquer tipo de organização”. (BELLUZZO, 2006). O uso dessa técnica está totalmente ligada "as funções e operações da mente de encadear, relacionar, comparar, classificar, etc, ou seja, processar, de uma forma geral, as informações coletadas no universo exterior quanto do interior". (SILVA, Milena da Costa, 2010).
 
-O uso dessa técnica se torna extremamente importante, no momento que se há a necessidade de documentar, estrututar e criar fluxos mentais de ideias que possam soar vagas, mas que se estruturam e solidificam com o desenvolvimento de artefatos visuais. Para a criação pode ser usado uma folha de papel ou aplicativos ou sites de criação de fluxo e podem ser feitos em grupo ou individualmente.
+O uso dessa técnica se torna extremamente importante, no momento que se há a necessidade de documentar, estruturar e criar fluxos mentais de ideias que possam soar vagas, mas que se estruturam e solidificam com o desenvolvimento de artefatos visuais. Para a criação pode ser usado uma folha de papel ou aplicativos ou sites de criação de fluxo e podem ser feitos em grupo ou individualmente.
 
 #### 1.1 Elaboração
 
@@ -38,15 +39,15 @@ principais, os terciários aos secundários e assim sucessivamente.". (SILVA, Mi
 
 #### 1.2 Valor
 
-O mapa mental é um documento muito importante para construir, localizar, selecionar, organizar, memorizar, relembrar, sintetizar, aprender e criar ideias, podendo participar a qualquer momento da construção de um projeto. Além disso, é um documento fácil, rapído e de baixo custo, podendo ser feito em papel, celular, computador, quadro branco, etc.
+O mapa mental é um documento muito importante para construir, localizar, selecionar, organizar, memorizar, relembrar, sintetizar, aprender e criar ideias, podendo participar a qualquer momento da construção de um projeto. Além disso, é um documento fácil, rápido e de baixo custo, podendo ser feito em papel, celular, computador, quadro branco, etc.
 
-Para software ele entra como um principal fator de compreenção do produto e de desenvolvimento de ideias a qualquer momento do desenvolvimento, desde de a coleta de requisitos até o _deploy_ da aplicação. Esse documento tende a ser uma ferramenta auxiliar que pode ser usada para criação de outros documentos, servindo como base ou como parte fundamental.
+Para software ele entra como um principal fator de compreensão do produto e de desenvolvimento de ideias a qualquer momento do desenvolvimento, desde de a coleta de requisitos até o _deploy_ da aplicação. Esse documento tende a ser uma ferramenta auxiliar que pode ser usada para criação de outros documentos, servindo como base ou como parte fundamental.
 
 ### 2. Objetivo
 
-Esse documento tem como objetivo elaborar um mapa mental a respeito das ideias inicias a partir de um brainstorm do projeto Animalesco, da disciplina Arquitetura e Desenho de Software, onde foi discutido ideia do produto, funcionalidades, ambiente, dentre outros tópicos. Esse documento servirá como base para ideias futuras e construções de artefas mediante a definição do projeto, metodologia e tecnologias.
+Esse documento tem como objetivo elaborar um mapa mental a respeito das ideias iniciais a partir de um brainstorm do projeto Animalesco, da disciplina Arquitetura e Desenho de Software, onde foi discutido ideia do produto, funcionalidades, ambiente, dentre outros tópicos. Esse documento servirá como base para ideias futuras e construções de artefatos mediante a definição do projeto, metodologia e tecnologias.
 
-Além de construir uma visão simplista e geral de como foi pensado o projeto e suas funcionalidades, abarcando também stakeholders que podem ser atingidos com o mesmo. 
+Além de construir uma visão simplista e geral de como foi pensado o projeto e suas funcionalidades, abarcando também stakeholders que podem ser atingidos com o mesmo.
 
 ### 3. Mapa mental
 
@@ -65,7 +66,7 @@ A visão geral do projeto propõe definir conceito, aplicativos similares e list
 
 #### 3.2 Visão geral da equipe
 
-A visão geral da equipe propõe definir possiveis metodologias, tecnologias de gerenciamento e ciclo de vida do projeto. Abarcando futuras decisões, mas agregando valor para conceitos que são definidos ao decorrer do desenvolvimento dos documentos. O mapa mental a respeito dessa visão pode ser visto abaixo:
+A visão geral da equipe propõe definir possíveis metodologias, tecnologias de gerenciamento e ciclo de vida do projeto. Abarcando futuras decisões, mas agregando valor para conceitos que são definidos ao decorrer do desenvolvimento dos documentos. O mapa mental a respeito dessa visão pode ser visto abaixo:
 
 <p align='center'>
   <img src='../assets/images/mapa_mental_metologia_e_desenvolvimento.png'>
