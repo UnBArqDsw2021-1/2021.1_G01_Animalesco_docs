@@ -4,8 +4,9 @@
   - [Plano de riscos](pages/plano-de-riscos.md)
 
 - **Pré rastreabilidade**
-  - [Mapa Mental](pages/mapa_mental.md)
+  - [Mapa Mental](pages/mapa-mental.md)
   - [Rich Pictures](pages/rich-pictures.md)
+  - [Brainstorming](pages/brainstorming.md)
 
 - **Sprints**
   - Sprint 1
