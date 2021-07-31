@@ -57,7 +57,7 @@ Após 53 dias, foram listadas 11 ideias de projeto. Essas ideias estão listadas
 No dia 18 de julho de 2021, foi realizado um reunião com os integrantes do grupo buscando apresentar as ideias para a equipe. Após a reunião, foram selecionadas as ideias que eram viáveis para escopo da disciplina e foi criada uma enquete para votação.
 
 <p align='center'>
-    <img src='/assets/pages/brainstorming/enquete-escolha-projeto.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/enquete-escolha-projeto.png'>
     <figcaption align='center'>
         <b>Figura 1: Votação para o tema do projeto</b>
         <br>
@@ -127,7 +127,7 @@ O resultado desse Brainstorming foi a seguinte lista de funcionalidades:
 Por fim, o último *Brainstorming* feito até o momento foi para definição do nome do projeto. Para isso, no dia 22 de julho de 2021, foi pedido aos integrantes do grupo para escrever vários potenciais nomes para o projeto no grupo do Telegram e depois foi feito uma enquete para decidir qual nome agradava mais integrantes.
 
 <p align='center'>
-    <img src='/assets/pages/brainstorming/escolha-do-nome.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/escolha-do-nome.png'>
     <figcaption align='center'>
         <b>Figura 2: Votação para o nome do projeto</b>
         <br>

@@ -31,7 +31,7 @@ Por ser um modelo informal, não há consenso sobre sua sintaxe e sobre sua form
 | Bordas do sistema | As bordas do sistema são delimitações da atuação do próprio sistema. O sistema possui um conjunto de operações, tabelas e fluxos, que potencialmente interage com outros sistemas e atores. As bordas servem para delimitar até onde é interno do sistema e onde é externo ao sistema. São geralmente representados por um "núvem" que envolve tudo que o sistema faz. |
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-example.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-example.png'>
     <figcaption align='center'>
         <b>Figura 1: Exemplo de rich picture</b>
         <br>
@@ -65,7 +65,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.1. Rich-Picture do João Vitor Lopes
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-joao.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-joao.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do João Vitor Lopes</b>
         <br>
@@ -76,7 +76,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.2. Rich-Picture do Leonardo Gomes
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-leonardo.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-leonardo.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Leonardo Gomes</b>
         <br>
@@ -88,7 +88,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.3. Rich-Picture do Rafael
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-rafael.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-rafael.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Rafael</b>
         <br>
@@ -99,7 +99,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.4. Rich-Picture do Vinícius Oliveira
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-vinicius.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-vinicius.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Vinícius Oliveira</b>
         <br>
@@ -110,7 +110,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.5. Rich-Picture da Daniela Soares
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-daniela.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-daniela.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture da Daniela</b>
         <br>
@@ -121,7 +121,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.6. Rich-Picture da Lorrany Souza
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-lorrany-souza.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-lorrany-souza.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture da Lorrany</b>
         <br>
@@ -133,7 +133,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.7. Rich-Picture do Hugo Sobral
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-hugo.jpeg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-hugo.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Hugo</b>
         <br>
@@ -144,7 +144,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 ### 4. Rich-Pictures do grupo
 
 <p align='center'>
-    <img src='/assets/pages/rich-pictures/rich-picture-grupo.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/rich-pictures/rich-picture-grupo.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Grupo</b>
         <br>
