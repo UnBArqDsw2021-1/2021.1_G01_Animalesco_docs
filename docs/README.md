@@ -21,7 +21,7 @@ O `Animalesco` é uma aplicação para realizar o controle e acompanhamento para
 
 
 ## Ferramentas utilizadas no projeto
- Icons  |  Nome  | Funcionalidades no projeto|
+ Logo | Nome | Funcionalidades no projeto |
  ---- | ---- | ---- |
 <img src="https://docsify.js.org/_media/icon.svg" alt="Docsify" href="https://docsify.js.org/" width="200"> |  Docsify  | O docsify é um gerador de páginas estáticas sob demanda. No nosso projeto ele foi configurado para realizar o transpilação de arquivos em Markdown para páginas HTML, foi utilizado em conjunto com o github pages. |
 <img src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/github.png" alt="Github" href="https://github.com" width="200"> |    Github    | O Github é uma excelente ferramenta para controle de versionamento e armazenamento dos arquivos de documentação. |
