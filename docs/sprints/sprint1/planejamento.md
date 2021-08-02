@@ -1,11 +1,11 @@
 # Planejamento sprint 1
-> Período: 26/07/2021 até 01/08/2021  
+> Período: 26/07/2021 até 01/08/2021
 > Data da reunião: 26/07/2021
 
 <br/>
 
 ## Objetivo da sprint
-<p text-align="justify">&ensp;&ensp;O objetivo desta sprint é iniciar os trabalhos relativos à disciplina de Arquitetura e desenho de software. Nesta sprint a equipe fica responsável por estudar e desenvolver os artefados independentes de metodologia para a elicitação e definição do produto.</p>
+<p text-align="justify">&ensp;&ensp;O objetivo desta sprint é iniciar os trabalhos relativos à disciplina de Arquitetura e desenho de software. Nesta sprint a equipe fica responsável por estudar e desenvolver os artefatos independentes de metodologia para a elicitação e definição do produto.</p>
 
 <br/>
 
