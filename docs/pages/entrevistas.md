@@ -5,6 +5,8 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 30/07/2021 |  0.1   | Criação do roteiro de entrevista | Hugo Sobral, Daniela Soares, João Vitor, Lorrany Souza e Vinicius Oliveira |
 | 02/08/2021 |  0.2   | Inclusão da introdução, reestruturação do documento e inclusão das entrevistas | Hugo Sobral |
+| 03/08/2021 |  0.3   | Revisão do documento e ajuste da bibliografia | Hugo Sobral |
+| 03/08/2021 |  1.0   | Inclusão dos requisitos elicitados a partir das entrevistas | Hugo Sobral |
 
 <div align="justify">
 
@@ -39,11 +41,53 @@ Desta forma, as entrevistas foram realizadas com o intuito de coletar amostras d
 
 [**Entrevista 5 - Rebeca Diniz, 21 anos**](pages/entrevista_05.md)
 
-## 4. Bibliografia
+[**Entrevista 6 - Gabriela Lopes, 21 anos**](pages/entrevista_06.md)
 
-1. https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
-2. https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/Entrevista
-3. https://unbarqdsw.github.io/2020.1_G12_Stock/#/Elicitation/Entrevista
-4. https://requisitos-habitica.netlify.app/Entrevista
+## 4. Requisitos elicitados a partir das entrevistas
+### 4.1 Requisitos funcionais
+
+|  ID  | NOME |
+| :--: | :--: |
+| RF01 | Cadastro de usuário |
+| RF02 | Login |
+| RF03 | Cadastro de pets do usuário |
+| RF04 | Atualizar dados de pets do usuário |
+| RF05 | Excluir pets dos usuários |
+| RF06 | Registro de passeios do pet |
+| RF07 | Histórico de passeios do pet |
+| RF08 | Registro de banhos do pet |
+| RF09 | Histórico de banhos do pet |
+| RF10 | Registro de idas ao veterinário do pet |
+| RF11 | Histórico de idas ao veterinário do pet |
+| RF12 | Registro de medicação do pet |
+| RF13 | Histórico de medicação do pet |
+| RF14 | Disponibilizar cartão de vacinação digital para o pet |
+| RF15 | Criação de eventos no calendário para idas ao veterinário |
+| RF16 | Criação de eventos no calendário para a vacinação |
+| RF17 | Notificação para medicação |
+
+### 4.2 Requisitos não funcionais
+
+|  ID   | NOME |
+| :--:  | :--: |
+| RNF01 | A aplicação deve estar disponível em celulares Android |
+| RNF02 | A aplicação deve estar disponível em celulares IOS |
+| RNF03 | A aplicação deve estar disponível 24/7 |
+| RNF04 | A aplicação não deve ocupar muito espaço na memória em disco dos celulares |
+| RNF05 | A aplicação deve ser segura |
+| RNF06 | A aplicação deve ser gratuita |
+| RNF07 | A aplicação deve persistir apenas informações relevantes dos pets |
+| RNF08 | A aplicação deve oferecer uma boa experiência de usuário |
+| RNF09 | A aplicação deve ser rápida |
+| RNF10 | A aplicação deve ter uma interface agradável e simples |
+| RNF11 | A aplicação deve ser confiável a termos de informação |
+
+
+##  Bibliografia
+
+1. Técnicas para levantamento de Requisitos. **DevMedia**. Disponível em https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151 (último acesso em 02/08/2021)
+2. BORGES, K.; DUTRA, L.; FREITAS, E. Entrevista. **Pax App**. Disponível em https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/Entrevista (últio acesso em 02/08/2021)
+3. ALVES, G.; DAVI, G.; IGOR, P.; GOUVEIA, M.; PATROCÍNIO, S. Entrevista. **Stock**. Disponível em ttps://unbarqdsw.github.io/2020.1_G12_Stock/#/Elicitation/Entrevista (último acesso em 02/08/2021)
+4. KADER, S. Entrevistas. **Requisitos Habitica**. Disponível em https://requisitos-habitica.netlify.app/Entrevista (último acesso em 02/08/2021)
 
 </div>
