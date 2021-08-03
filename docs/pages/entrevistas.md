@@ -29,20 +29,21 @@ Desta forma, as entrevistas foram realizadas com o intuito de coletar amostras d
 
 ## 3. Entrevistas realizadas
  
-[**Entrevista 1 - Micaella Gouveia, 22 anos**](./entrevista_01.md)
+[**Entrevista 1 - Micaella Gouveia, 22 anos**](pages/entrevista_01.md)
 
-[**Entrevista 2 - Maira Menezes, 20 anos**](./entrevista_02.md)
+[**Entrevista 2 - Maira Menezes, 20 anos**](pages/entrevista_02.md)
 
-[**Entrevista 3 - Anieli Juliana, 21 anos**](./entrevista_03.md)
+[**Entrevista 3 - Anieli Juliana, 21 anos**](pages/entrevista_03.md)
 
-[**Entrevista 4 - Esio Gustavo, 24 anos**](./entrevista_04.md)
+[**Entrevista 4 - Esio Gustavo, 24 anos**](pages/entrevista_04.md)
 
-[**Entrevista 5 - Rebeca Diniz, 21 anos**](./entrevista_05.md)
+[**Entrevista 5 - Rebeca Diniz, 21 anos**](pages/entrevista_05.md)
 
 ## 4. Bibliografia
 
-1. oi
-2. oi
-3. oi
+1. https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
+2. https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/Entrevista
+3. https://unbarqdsw.github.io/2020.1_G12_Stock/#/Elicitation/Entrevista
+4. https://requisitos-habitica.netlify.app/Entrevista
 
 </div>

@@ -10,6 +10,9 @@
   - [Brainstorming](pages/brainstorming.md)
   - [Ishikawa](pages/ishikawa.md)
 
+- **Elicitação**
+  - [Entrevistas](pages/entrevistas.md)
+
 - **Sprints**
   - Sprint 1
     - [Planejamento](sprints/sprint1/planejamento.md)
