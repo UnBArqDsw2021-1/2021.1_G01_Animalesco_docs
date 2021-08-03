@@ -3,7 +3,10 @@
 #### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 02/07/2021 |  0.1   | Criação do documento | Vinicius Oliveira e Daniela Soares |
+| 27/07/2021 |  0.1   | Criação do Diagrama | Vinicius Oliveira e Daniela Soares |
+| 02/08/2021 |  0.2   | Criação do documento | Vinicius Oliveira e Daniela Soares |
+| 02/08/2021 |  0.2   | Atualização do documento | Vinicius Oliveira e Daniela Soares |
+
 
 <div align="justify">
 
@@ -45,3 +48,5 @@ O documento aqui exposto teve como objetivo a criação do diagrama de Ishikawa,
 ### Bibliografia
 
 1. Andrade, Luiza. Metodologias de Gestão - Diagrama de Ishikawa. Disponível em: https://www.siteware.com.br/blog/metodologias/diagrama-de-ishikawa/ (Último acesso em 02/08/2021).
+
+2. Grupo Forlogic. Diagrama de Ishikawa. Disponível em: https://ferramentasdaqualidade.org/diagrama-de-ishikawa/ (Último acesso em 02/08/2021).
