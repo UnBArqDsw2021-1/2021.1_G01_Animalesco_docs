@@ -9,6 +9,9 @@
   - [5W2H](pages/5W2H.md)
   - [Brainstorming](pages/brainstorming.md)
 
+- **Elicitação**
+  - [Brainstorming](pages/brainstorming_elicitation.md)
+
 - **Sprints**
   - Sprint 1
     - [Planejamento](sprints/sprint1/planejamento.md)
