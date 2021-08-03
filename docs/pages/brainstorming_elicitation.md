@@ -1,4 +1,4 @@
-# <center> Mapa Mental
+# <center> Brainstorm para elicitação dos requisitos
 
 #### Histórico de Versão
 |    Data    | Versão | Descrição            |    Autor(es)    |
@@ -6,23 +6,26 @@
 | 30/07/2021 |  0.1   | Criação do documento | Leonardo Gomes  |
 | 30/07/2021 |  0.2   | Criação da Metologia e Introdução | Leonardo Gomes e Durval Carvalho  |
 | 03/08/2021 |  1.0   | Descrição do Brainstorm e requisitos elicitados | Leonardo Gomes  |
+| 03/08/2021 |  1.1   | Revisão do documento | Hugo Sobral |
 
 <div align="justify">
 
 ## 1. Introdução
 
-O **Brainstorming** é uma técnica feita em equipe, que busca explorar a criatividade e o compartilhamento de ideias para resolver problemas ou dar à vida a vários questionamentos e respostas que se não feito em grupo pode não ser tão aproveitado.[1]
+O ***Brainstorming*** é uma técnica feita em equipe que busca explorar a criatividade e o compartilhamento de ideias para resolver problemas ou dar vida a vários questionamentos. O ***Brainstorming*** também cobiça o fornecimento, de maneira ágil, de respostas a perguntas que não podem ser facilmente sanadas em um cenário individualista.[1]
 
-Um das peças fundamentais para a criação do **Brainstorming** é a velocidade que as ideias são expostas e assim surje um pilar fundamental que se baseaia em não criticar as ideias e o fluxo de raciocinio, pois o mesmo podem gerar ideias melhores e mais concisas do que pode ser o objetivo esperado.
+Uma das peças fundamentais para a criação do ***Brainstorming*** é a velocidade com a qual as ideias são expostas e, assim, surge um dos pilares fundamentais para a plena execução da técnica: um ambiente livre de julgamentos e críticas a fluxos de raciocínio. Este se trata de um dos pialeres fundamentais visto que, caso a técnica seja feita de maneira descontraída e informal, esta pode gerar melhores ideias sobre a aplicação e visões de projeto coerentes e concisas.
 
 
 ## 2. Metodologia
 
-O objetivo desse **Brainstorming** é elicitar o máximo de requisitos de uma forma rápida e fácil. Dessa forma, para a criação desse documento utilizamos o [*Jamboard*](https://jamboard.google.com/), site da Google que possibilita o compartilhamento de ideias rápido e fácil por meio de "postite". Foi criada uma dinâmica pelos integrantes Leonardo Gomes e Durval Carvalho, com o objetivo de criar uma dinâmica mais fluida e que possa falar mais ainda do projeto.
+O objetivo deste ***Brainstorming*** é elicitar o máximo de requisitos de uma forma rápida e fácil. Desta forma, para a criação do documento, utilizamos o [*Jamboard*](https://jamboard.google.com/), site da Google que permite o compartilhamento de ideias por meio de *post its*. Assim sendo, foi criado um fluxo de atividades pelos integrantes Leonardo Gomes e Durval Carvalho, com o objetivo de criar uma dinâmica mais fluida e que pudesse fornecer a visão de cada um dos integrantes da equipe acerca do projeto.
 
-Essa dinâmica se baseia em 6 perguntas, sendo elas:
+A dinâmica se baseou na criação de 6 quadros guiados por perguntas específicas com propósitos específicos. Para cada quadro, todos os integrantes tiveram que expor suas ideias e visões da temática em jogo por meio dos "adesivos" disponibilizados pela plataforma. Vale ressaltar que foi determinado um *timebox* para cada quadro a partir da complexidade esperada nas respectivas respostas.
 
-| Perguntas |
+As perguntas dos quadros seguiu a ordem abaixo:
+
+| Pergunta |
 | :-: |
 | Quais informações você gostaria que tivesse na aplicação? |
 | Quais animais a aplicação deveria abordar? |
@@ -32,11 +35,11 @@ Essa dinâmica se baseia em 6 perguntas, sendo elas:
 | Em quais plataformas a aplicação deveria estar presente? |
 
 
-Com essas perguntas temos a intenção de poder coletar requisitos funcionais e não funcionais. Para cada pergunta foi dado 1 minuto para que todos os integrantes pudessem pensar em quantas respostas fossem necessárias para uma mesma pergunta.
+Ao fim de cada quadro, as perguntas foram organizadas e separadas para que fosse possível a coleta dos requisitos funcionais e não funcionais do Animalesco.
 
 ## 3. *Brainstorming*
 
-Esse tópico será apresentado as informações referentes a cada pergunta e o que foi possível coletar das mesmas.
+Esse tópico apresenta as informações e resultados acerca de cada um dos quadros da dinâmica descrita no tópico anterior.
 
 ### 3.1 Quais informações você gostaria que tivesse na aplicação?
 
@@ -176,22 +179,22 @@ O aplicativo não deve apresentar:
 | RF04 | Editar informações do animal |
 | RF05 | Calendário |
 | RF06 | Agendar vacina |
-| RF08 | Remover vacina da agenda |
-| RF09 | Adicionar lembrete de medicação |
-| RF10 | Remover lembrete de medicação |
-| RF11 | Agendar banho |
-| RF12 | Remover banho da agenda |
-| RF13 | Registro ida ao veterinário |
-| RF14 | Registro do peso do animal |
-| RF15 | Registro da altura do animal |
-| RF16 | Gráfico relacionado a altura do animal |
-| RF17 | Gráfico relacionado ao peso do animal |
-| RF18 | Histórico de vacinas |
-| RF19 | Histórico de medicação |
-| RF20 | Histórico de banho |
-| RF21 | Gerar relatório sobre a saúde do animal |
+| RF07 | Remover vacina da agenda |
+| RF08 | Adicionar lembrete de medicação |
+| RF09 | Remover lembrete de medicação |
+| RF10 | Agendar banho |
+| RF11 | Remover banho da agenda |
+| RF12 | Registro ida ao veterinário |
+| RF13 | Registro do peso do animal |
+| RF14 | Registro da altura do animal |
+| RF15 | Gráfico relacionado a altura do animal |
+| RF16 | Gráfico relacionado ao peso do animal |
+| RF17 | Histórico de vacinas |
+| RF18 | Histórico de medicação |
+| RF19 | Histórico de banho |
+| RF20 | Gerar relatório sobre a saúde do animal |
 
-### 4.1 Requisitos não funcionais
+### 4.2 Requisitos não funcionais
 
 | ID | Nome |
 | :-: | :-: |
@@ -201,14 +204,11 @@ O aplicativo não deve apresentar:
 | RNF04 | Seguro |
 | RNF05 | Rápido |
 | RNF06 | Gratuito |
-| RNF08 | Disponivel a todo momento |
-| RNF09 | Compatibilidade com Android |
-| RNF10 | Compatibilidade com IOS |
-| RNF11 | Compatibilidade com Windows phone |
-| RNF12 | Compatibilidade com qualquer navegador WEB |
-
-
-### 4.2 Requisitos não funcionais
+| RNF07 | Disponivel a todo momento |
+| RNF08 | Compatibilidade com Android |
+| RNF09 | Compatibilidade com IOS |
+| RNF10 | Compatibilidade com Windows phone |
+| RNF11 | Compatibilidade com qualquer navegador WEB |
 
 ## Gravações Disponíveis
 
@@ -218,8 +218,8 @@ O aplicativo não deve apresentar:
 
 - [1] WOEBCKEN, Cayo. O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes. Disponível em: https://rockcontent.com/blog/brainstorming/. Último acesso em: 03/08/2021.
 
-- [2] Wiki PAX App: https://pax-app.github.io/Wiki/#/. Último acesso em: 03/08/2021.
+- [2] Wiki. **PAX App**: https://pax-app.github.io/Wiki/#/. Último acesso em: 03/08/2021.
 
-- [3] Wiki Stock App: https://unbarqdsw.github.io/2020.1_G12_Stock/#/. Último acesso em: 03/08/2021.
+- [3] Wiki. **Stock App**: https://unbarqdsw.github.io/2020.1_G12_Stock/#/. Último acesso em: 03/08/2021.
 
 </div>
