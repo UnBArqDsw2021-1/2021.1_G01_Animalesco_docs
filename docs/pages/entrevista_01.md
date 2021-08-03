@@ -27,10 +27,10 @@ Durval Carvalho
 ## 3. Descrição da entrevista
 
 **Pergunta:** Você possui algum pet?<br/>
-**Resposta:** Tenho. Tenho 3.
+**Resposta:** Tenho. Tenho três.
 
 **Pergunta:** Qual a espécie do seu(s) pet(s)?<br/>
-**Resposta:** São 3 cachorros vira-latas.
+**Resposta:** São três cachorros vira-latas.
 
 **Pergunta:** Qual a frequência que você leva seu pet ao veterinário?<br/>
 **Resposta:** Eles fazem as vacinas anuais e quando algum apresenta mal-estar, a gente leva. A última vez que levei foi há 1 mês atrás por conta de uma gastrite.

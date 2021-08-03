@@ -26,13 +26,13 @@ Hugo Sobral
 ## 3. Descrição da entrevista
 
 **Pergunta:** Você possui algum pet?<br/>
-**Resposta:** Eu tenho 3.
+**Resposta:** Eu tenho três.
 
 **Pergunta:** Qual a espécie do seu(s) pet(s)?<br/>
-**Resposta:** São 3 gatos.
+**Resposta:** São três gatos.
 
 **Pergunta:** Qual a frequência que você leva seu pet ao veterinário?<br/>
-**Resposta:** Eu os levo sempre que vejo que eles tem algum problema ou alguma coisa fora do comum. Fora isso eu os levo pra vermifugar, ou vacinar, deve ser coisa de 3 em 3 meses.
+**Resposta:** Eu os levo sempre que vejo que eles tem algum problema ou alguma coisa fora do comum. Fora isso eu os levo pra vermifugar, ou vacinar, deve ser coisa de três em três meses.
 
 **Pergunta:** Qual a frequência que você dá banho no seu pet?<br/>
 **Resposta:** Quando os meus gatos tinham acesso à rua, eu dava banho neles sempre que eles chegavam sujos. Mas agora que eles não tem mais acesso à rua eu não dou banho neles.
