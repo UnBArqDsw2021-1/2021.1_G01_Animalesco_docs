@@ -21,8 +21,12 @@ Para criar o Diagrama de Ishikawa, utilizamos o método 6Ms, que são:
 5. **Material:** como a qualidade e o tipo dos materiais utilizados influenciam o problema?
 6. **Mão de obra:** como as pessoas envolvidas na atividade influenciam o problema?
 
+## 2. Objetivo
 
-## 2. Diagrama de Ishikawa
+O objetivo deste documento é apresentar o digrama de Ishikawa do grupo do projeto Animalesco, da discplina Arquitetura e Desenho de Software, onde foi discutido sobre o principal problema para assim analisar suas principais causas.
+
+
+## 3. Diagrama de Ishikawa
 
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/ishikawa/diagrama-ishikawa.png'>
@@ -33,6 +37,10 @@ Para criar o Diagrama de Ishikawa, utilizamos o método 6Ms, que são:
     </figcaption>
 </p>
 
+
+## 4. Conclusão
+
+O documento aqui exposto teve como objetivo a criação do diagrama de Ishikawa, que alcançou uma melhor visão do problema principal do projeto de acompanhamento da saúde e rotina de animais de estimação. Com isso foi possível visualizar as causas do problema principal de forma mais clara e assim analisar qual a melhor solução. Portanto, será possível argumentar o porque e como será criado esse projeto.      
 
 ### Bibliografia
 
