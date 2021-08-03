@@ -5,7 +5,8 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 27/07/2021 |  0.1   | Criação do Diagrama | Vinicius Oliveira e Daniela Soares |
 | 02/08/2021 |  0.2   | Criação do documento | Vinicius Oliveira e Daniela Soares |
-| 02/08/2021 |  0.2   | Atualização do documento | Vinicius Oliveira e Daniela Soares |
+| 02/08/2021 |  1.0   | Atualização do documento | Vinicius Oliveira e Daniela Soares |
+| 03/08/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 
 <div align="justify">
@@ -32,7 +33,7 @@ O objetivo deste documento é apresentar o digrama de Ishikawa do grupo do proje
 ## 3. Diagrama de Ishikawa
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/ishikawa/diagrama-ishikawa.png'>
+    <img src='../assets/pages/ishikawa/diagrama-ishikawa.png'>
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Ishikawa</b>
         <br>
@@ -50,3 +51,5 @@ O documento aqui exposto teve como objetivo a criação do diagrama de Ishikawa,
 1. Andrade, Luiza. Metodologias de Gestão - Diagrama de Ishikawa. Disponível em: https://www.siteware.com.br/blog/metodologias/diagrama-de-ishikawa/ (Último acesso em 02/08/2021).
 
 2. Grupo Forlogic. Diagrama de Ishikawa. Disponível em: https://ferramentasdaqualidade.org/diagrama-de-ishikawa/ (Último acesso em 02/08/2021).
+
+</div>
