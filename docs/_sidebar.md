@@ -2,7 +2,7 @@
 
 - **Gerenciamento do projeto**
   - [Plano de riscos](pages/plano-de-riscos.md)
-  - [Metodologia do projeto](pages/project-methodology.md)
+  - [Metodologia do projeto](pages/metodologia-do-projeto.md)
 
 - **Pré rastreabilidade**
   - [Mapa mental](pages/mapa-mental.md)
