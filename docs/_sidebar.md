@@ -9,6 +9,11 @@
   - [Rich pictures](pages/rich-pictures.md)
   - [5W2H](pages/5W2H.md)
   - [Brainstorming](pages/brainstorming.md)
+  - [Ishikawa](pages/ishikawa.md)
+
+- **Elicitação**
+  - [Entrevistas](pages/entrevistas.md)
+  - [Brainstorming](pages/brainstorming_elicitation.md)
 
 - **Sprints**
   - Sprint 1
