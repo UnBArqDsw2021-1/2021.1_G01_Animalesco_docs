@@ -11,6 +11,7 @@
   - [Ishikawa](pages/ishikawa.md)
 
 - **Elicitação**
+  - [Entrevistas](pages/entrevistas.md)
   - [Brainstorming](pages/brainstorming_elicitation.md)
 
 - **Sprints**

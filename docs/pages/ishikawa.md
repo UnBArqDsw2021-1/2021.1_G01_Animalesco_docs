@@ -13,7 +13,7 @@
 
 ## 1. Introdução
 
-Diagrama de `Ishikawa`, também conhecido como diagrama espinha de peixe, diagrama causa e efeito dentre outros nomes, foi criado em 1943 pelo engenheiro químico Kaoru Ishikawa [1], esse diagrama é muito usado para auxiliar na organização e no raciocínio da equipe. 
+Diagrama de `Ishikawa`, também conhecido como diagrama espinha de peixe, diagrama causa e efeito dentre outros nomes, foi criado em 1943 pelo engenheiro químico Kaoru Ishikawa [1], esse diagrama é muito usado para auxiliar na organização e no raciocínio da equipe.
 A utlização do diagrama parte de que todo problema tem uma causa específica, assim eliminar a causa-raiz significa eliminar o problema.
 
 Para criar o Diagrama de Ishikawa, utilizamos o método 6Ms, que são:
@@ -33,7 +33,7 @@ O objetivo deste documento é apresentar o digrama de Ishikawa do grupo do proje
 ## 3. Diagrama de Ishikawa
 
 <p align='center'>
-    <img src='../assets/pages/ishikawa/diagrama-ishikawa.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/ishikawa/diagrama-ishikawa.png'>
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Ishikawa</b>
         <br>
@@ -44,7 +44,7 @@ O objetivo deste documento é apresentar o digrama de Ishikawa do grupo do proje
 
 ## 4. Conclusão
 
-O documento aqui exposto teve como objetivo a criação do diagrama de Ishikawa, que alcançou uma melhor visão do problema principal do projeto de acompanhamento da saúde e rotina de animais de estimação. Com isso foi possível visualizar as causas do problema principal de forma mais clara e assim analisar qual a melhor solução. Portanto, será possível argumentar o porque e como será criado esse projeto.      
+O documento aqui exposto teve como objetivo a criação do diagrama de Ishikawa, que alcançou uma melhor visão do problema principal do projeto de acompanhamento da saúde e rotina de animais de estimação. Com isso foi possível visualizar as causas do problema principal de forma mais clara e assim analisar qual a melhor solução. Portanto, será possível argumentar o porque e como será criado esse projeto.
 
 ### Bibliografia
 
