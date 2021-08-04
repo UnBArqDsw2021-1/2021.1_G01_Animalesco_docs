@@ -12,13 +12,13 @@
 
 <div align="justify">
 
-### 1. Introdução
+## 1. Introdução
 
 Os mapas mentais é uma técnica que “servem para tornar visíveis e claros as idéias chaves em que os gestores devem se centrar para uma atividade de busca da solução de problemas, de pesquisa, de tomadas de decisão em qualquer tipo de organização”. (BELLUZZO, 2006). O uso dessa técnica está totalmente ligada "as funções e operações da mente de encadear, relacionar, comparar, classificar, etc, ou seja, processar, de uma forma geral, as informações coletadas no universo exterior quanto do interior". (SILVA, Milena da Costa, 2010).
 
 O uso dessa técnica se torna extremamente importante, no momento que se há a necessidade de documentar, estruturar e criar fluxos mentais de ideias que possam soar vagas, mas que se estruturam e solidificam com o desenvolvimento de artefatos visuais. Para a criação pode ser usado uma folha de papel ou aplicativos ou sites de criação de fluxo e podem ser feitos em grupo ou individualmente.
 
-#### 1.1 Elaboração
+### 1.1 Elaboração
 
 Mesmo parecendo um documento livre para modificação, existe alguns etapas que envolve a construção de um mapa mental, segundo Buzan (2005):
 
@@ -37,21 +37,21 @@ principais, os terciários aos secundários e assim sucessivamente.". (SILVA, Mi
   </figcaption>
 </p>
 
-#### 1.2 Valor
+### 1.2 Valor
 
 O mapa mental é um documento muito importante para construir, localizar, selecionar, organizar, memorizar, relembrar, sintetizar, aprender e criar ideias, podendo participar a qualquer momento da construção de um projeto. Além disso, é um documento fácil, rápido e de baixo custo, podendo ser feito em papel, celular, computador, quadro branco, etc.
 
 Para software ele entra como um principal fator de compreensão do produto e de desenvolvimento de ideias a qualquer momento do desenvolvimento, desde de a coleta de requisitos até o _deploy_ da aplicação. Esse documento tende a ser uma ferramenta auxiliar que pode ser usada para criação de outros documentos, servindo como base ou como parte fundamental.
 
-### 2. Objetivo
+## 2. Objetivo
 
 Esse documento tem como objetivo elaborar um mapa mental a respeito das ideias iniciais a partir de um brainstorm do projeto Animalesco, da disciplina Arquitetura e Desenho de Software, onde foi discutido ideia do produto, funcionalidades, ambiente, dentre outros tópicos. Esse documento servirá como base para ideias futuras e construções de artefatos mediante a definição do projeto, metodologia e tecnologias.
 
 Além de construir uma visão simplista e geral de como foi pensado o projeto e suas funcionalidades, abarcando também stakeholders que podem ser atingidos com o mesmo.
 
-### 3. Mapa mental
+## 3. Mapa mental
 
-#### 3.1 Visão geral do projeto
+### 3.1 Visão geral do projeto
 
 A visão geral do projeto propõe definir conceito, aplicativos similares e listar possíveis funcionalidades, stakeholders, plataformas e tecnologias. Essas ideias foram levantadas a partir de um brainstorm feito por toda a equipe, onde foram aceitos quaisquer ideias a respeito do que poderia ser o projeto. O mapa mental a respeito dessa visão pode ser visto abaixo:
 
@@ -64,7 +64,7 @@ A visão geral do projeto propõe definir conceito, aplicativos similares e list
   </figcaption>
 </p>
 
-#### 3.2 Visão geral da equipe
+### 3.2 Visão geral da equipe
 
 A visão geral da equipe propõe definir possíveis metodologias, tecnologias de gerenciamento e ciclo de vida do projeto. Abarcando futuras decisões, mas agregando valor para conceitos que são definidos ao decorrer do desenvolvimento dos documentos. O mapa mental a respeito dessa visão pode ser visto abaixo:
 
@@ -77,11 +77,11 @@ A visão geral da equipe propõe definir possíveis metodologias, tecnologias de
   </figcaption>
 </p>
 
-### 4. Resultados e Conclusões
+## 4. Resultados e Conclusões
 
 O documento aqui exposto teve como objetivo a criação de um mapa mental, que culminou na melhor estruturação das ideias dadas pelos membros da equipe, acerca do projeto de acompanhamento da saúde e rotina de animais de estimação. Foi possível delimitar e esclarecer as ideias, que inicialmente, se apresentavam vagas, mas que agora se tornaram mais lúcidas. Dessa forma, será possível argumentar o porque e como será criado esse projeto e nosso objetivos para a matéria de Arquitetura de Desenho de Software.
 
-### Bibliografia
+## Bibliografia
 
 1. **Silva, Milena da Costa**. Mapas mentais: uma ferramenta para o desenvolvimento da competência em informação – Rio de Janeiro, 2010.
 
