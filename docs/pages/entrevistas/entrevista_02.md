@@ -1,4 +1,4 @@
-# Entrevista 4
+# Entrevista 2
 
 #### Histórico de versão
 |    Data    | Versão | Descrição            |    Autor(es)    |
@@ -7,53 +7,54 @@
 
 ## 1. Metadados da entrevista
 ### Nome
-Esio Gustavo
+Maira Menezes
 
 ### Idade
-24 Anos
+20 Anos
 
 ### Data da realização da entrevista
-02/08/2021
+01/08/2021
 
 ### Entrevistador
 Hugo Sobral
 
 ## 2. Áudio da entrevista
 <audio controls>
-  <source src="../assets/pages/entrevistas/entrevista-com-o-esio-02-08-2021.m4a" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/entrevistas/entrevista-com-a-maira-01-08-2021.m4a" type="audio/mpeg">
 </audio>
 
 ## 3. Descrição da entrevista
 
 **Pergunta:** Você possui algum pet?<br/>
-**Resposta:** Tenho sim.
+**Resposta:** Eu tenho três.
 
 **Pergunta:** Qual a espécie do seu(s) pet(s)?<br/>
-**Resposta:** Tenho o Luke há um ano. Ele é um Yorkshire Terrier.
+**Resposta:** São três gatos.
 
 **Pergunta:** Qual a frequência que você leva seu pet ao veterinário?<br/>
-**Resposta:** Eu levo ele quando eu vejo algum problema ou quando é época de vacinação. Cerca de 6 em 6 meses.
+**Resposta:** Eu os levo sempre que vejo que eles tem algum problema ou alguma coisa fora do comum. Fora isso eu os levo pra vermifugar, ou vacinar, deve ser coisa de três em três meses.
 
 **Pergunta:** Qual a frequência que você dá banho no seu pet?<br/>
-**Resposta:** Semanalmente no petshop.
+**Resposta:** Quando os meus gatos tinham acesso à rua, eu dava banho neles sempre que eles chegavam sujos. Mas agora que eles não tem mais acesso à rua eu não dou banho neles.
 
 **Pergunta:** Você realiza algum controle das datas de ida do seu pet aos estabelecimentos das perguntas anteriores?<br/>
-**Resposta:** Não.
+**Resposta:** Não exatamente. Apenas quando são datas muito próximas ou urgentes que eu marco no celular.
 
 **Pergunta:** Seu pet toma algum tipo de medicação?<br/>
 **Resposta:** Não.
 
 **Pergunta:** O seu pet possui carteira de vacinação?<br/>
-**Resposta:** Tem.
+**Resposta:** Um deles tem, é a gatinha que tá há mais tempo comigo. E os outros dois que eu adotei mais recentemente ainda não tem porque eu não precisei levar eles no veterinário.
 
 **Pergunta:** Seu pet está com a vacinação e com as medicações (como vermífugos e anti-pulgas) em dia?<br/>
-**Resposta:** Tá sim.
+**Resposta:** A minha mais velha tá com tudo em dia. Os mais novos estão vermifugados mas eu não tenho certeza sobre as vacinas.
 
 **Pergunta:** Como você faz o controle das vacinações e medicações do seu pet?<br/>
-**Resposta:** Pelo próprio cartão de vacinação.
+**Resposta:** Eu confesso que é meio difícil. Não tem muito controle. É mais pela carteirinha de vacinação, eu olho periodicamente para verificar se as datas estão próximas.
 
 **Pergunta:** Já te ocorreu de, por algum motivo, esquecer de fornecer a medicação ou levar seu pet para a vacinação?<br/>
-**Resposta:** Já.
+**Resposta:** Já aconteceu sim.
 
 **Pergunta:** Você acharia interessante ter um App que realiza o controle das medicações que fornece um resumo das idas do seu pet ao veterinário/petshop?<br/>
-**Resposta:** Seria interessante. Seria bom que o aplicativo e notificasse ou criasse algum evento na minha agenda, se tivesse essa funcionalidade eu usaria.
+**Resposta:** Um aplicativo assim seria muito útil. Eu usaria um aplicativo assim!
+
