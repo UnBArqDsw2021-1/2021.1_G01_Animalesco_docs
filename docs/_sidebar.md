@@ -2,10 +2,11 @@
 
 - **Gerenciamento do projeto**
   - [Plano de riscos](pages/plano-de-riscos.md)
+  - [Metodologia do projeto](pages/metodologia-do-projeto.md)
 
 - **Pré rastreabilidade**
-  - [Mapa Mental](pages/mapa-mental.md)
-  - [Rich Pictures](pages/rich-pictures.md)
+  - [Mapa mental](pages/mapa-mental.md)
+  - [Rich pictures](pages/rich-pictures.md)
   - [5W2H](pages/5W2H.md)
   - [Brainstorming](pages/brainstorming.md)
   - [Ishikawa](pages/ishikawa.md)
