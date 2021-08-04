@@ -7,12 +7,13 @@
 | 02/08/2021 |  0.2   | Inclusão da introdução, reestruturação do documento e inclusão das entrevistas | Hugo Sobral |
 | 03/08/2021 |  0.3   | Revisão do documento e ajuste da bibliografia | Hugo Sobral |
 | 03/08/2021 |  1.0   | Inclusão dos requisitos elicitados a partir das entrevistas | Hugo Sobral |
+| 04/08/2021 |  1.1   | Revisão do documento | Durval Carvalho |
 
 <div align="justify">
 
 ## 1. Introdução
 
-A entrevista é uma técnica de elicitação de requisitos  que provê uma fácil utilização e que retorna bons resultados à termos de obtenção de recursos e insumos a um determinado projeto de software. As entrevistas são baseadas em um roteiro de perguntas que deve ser feito a uma pessoa que se enquadra no perfil de usuário do projeto, tais pessoas também podem ser denominadas de _Stakeholders_, contudo, não se deve restringir a abrangência dos _Stakeholders_ apenas para os usuários. Para o caso do Animalesco, o perfil de usuário foi traçado e formulado através de outra técnica de elicitação, o Questionário.    
+A entrevista é uma técnica de elicitação de requisitos  que provê uma fácil utilização e que retorna bons resultados à termos de obtenção de recursos e insumos a um determinado projeto de software. As entrevistas são baseadas em um roteiro de perguntas que deve ser feito a uma pessoa que se enquadra no perfil de usuário do projeto, tais pessoas também podem ser denominadas de _Stakeholders_, contudo, não se deve restringir a abrangência dos _Stakeholders_ apenas para os usuários. Para o caso do Animalesco, o perfil de usuário foi traçado e formulado através de outra técnica de elicitação, o Questionário.
 Desta forma, as entrevistas foram realizadas com o intuito de coletar amostras de dados úteis para a melhor compreensão das necessidades do aplicativo.
 
 ## 2. Roteiro de entrevista
@@ -26,22 +27,22 @@ Desta forma, as entrevistas foram realizadas com o intuito de coletar amostras d
 7. O seu pet possui carteira de vacinação?
 8. Seu pet está com a vacinação e com as medicações (como vermífugos e anti-pulgas) em dia?
 9. Como você faz o controle das vacinações e medicações do seu pet?
-10. Já te ocorreu de, por algum motivo, esquecer de fornecer a medicação ou levar seu pet para a vacinação? 
+10. Já te ocorreu de, por algum motivo, esquecer de fornecer a medicação ou levar seu pet para a vacinação?
 11. Você acharia interessante ter um App que realiza o controle das medicações que fornece um resumo das idas do seu pet ao veterinário/petshop?
 
 ## 3. Entrevistas realizadas
- 
-[**Entrevista 1 - Micaella Gouveia, 22 anos**](pages/entrevista_01.md)
 
-[**Entrevista 2 - Maira Menezes, 20 anos**](pages/entrevista_02.md)
+[**Entrevista 1 - Micaella Gouveia, 22 anos**](pages/entrevistas/entrevista_01.md)
 
-[**Entrevista 3 - Anieli Juliana, 21 anos**](pages/entrevista_03.md)
+[**Entrevista 2 - Maira Menezes, 20 anos**](pages/entrevistas/entrevista_02.md)
 
-[**Entrevista 4 - Esio Gustavo, 24 anos**](pages/entrevista_04.md)
+[**Entrevista 3 - Anieli Juliana, 21 anos**](pages/entrevistas/entrevista_03.md)
 
-[**Entrevista 5 - Rebeca Diniz, 21 anos**](pages/entrevista_05.md)
+[**Entrevista 4 - Esio Gustavo, 24 anos**](pages/entrevistas/entrevista_04.md)
 
-[**Entrevista 6 - Gabriela Lopes, 21 anos**](pages/entrevista_06.md)
+[**Entrevista 5 - Rebeca Diniz, 21 anos**](pages/entrevistas/entrevista_05.md)
+
+[**Entrevista 6 - Gabriela Lopes, 21 anos**](pages/entrevistas/entrevista_06.md)
 
 ## 4. Requisitos elicitados a partir das entrevistas
 ### 4.1 Requisitos funcionais
@@ -65,6 +66,7 @@ Desta forma, as entrevistas foram realizadas com o intuito de coletar amostras d
 | RF15 | Criação de eventos no calendário para idas ao veterinário |
 | RF16 | Criação de eventos no calendário para a vacinação |
 | RF17 | Notificação para medicação |
+| RF18 | A aplicação deve ter integração com os principais aplicativos de agenda |
 
 ### 4.2 Requisitos não funcionais
 
@@ -87,7 +89,7 @@ Desta forma, as entrevistas foram realizadas com o intuito de coletar amostras d
 
 1. Técnicas para levantamento de Requisitos. **DevMedia**. Disponível em https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151 (último acesso em 02/08/2021)
 2. BORGES, K.; DUTRA, L.; FREITAS, E. Entrevista. **Pax App**. Disponível em https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/Entrevista (últio acesso em 02/08/2021)
-3. ALVES, G.; DAVI, G.; IGOR, P.; GOUVEIA, M.; PATROCÍNIO, S. Entrevista. **Stock**. Disponível em ttps://unbarqdsw.github.io/2020.1_G12_Stock/#/Elicitation/Entrevista (último acesso em 02/08/2021)
+3. ALVES, G.; DAVI, G.; IGOR, P.; GOUVEIA, M.; PATROCÍNIO, S. Entrevista. **Stock**. Disponível em https://unbarqdsw.github.io/2020.1_G12_Stock/#/Elicitation/Entrevista (último acesso em 02/08/2021)
 4. KADER, S. Entrevistas. **Requisitos Habitica**. Disponível em https://requisitos-habitica.netlify.app/Entrevista (último acesso em 02/08/2021)
 
 </div>
