@@ -14,6 +14,7 @@
 - **Elicitação**
   - [Entrevistas](pages/entrevistas.md)
   - [Brainstorming](pages/brainstorming_elicitation.md)
+  - [Questionário](pages/questionario.md)
 
 - **Sprints**
   - Sprint 1
