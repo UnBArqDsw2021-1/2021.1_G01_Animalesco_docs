@@ -36,6 +36,10 @@
   height: 150px;
 }
 
+.folder {
+  cursor: pointer;
+}
+
 /* NavBar style */
 .app-nav > ul li {
   padding: 6px;
