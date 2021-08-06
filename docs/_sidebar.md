@@ -18,6 +18,7 @@
 
 - **Modelagem**
   - [Backlog do produto](pages/backlog-do-produto.md)
+  - [Priorização](pages/priorizacao.md)
 
 - **Sprints**
   - Sprint 1
