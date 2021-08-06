@@ -14,6 +14,10 @@
 - **Elicitação**
   - [Entrevistas](pages/entrevistas.md)
   - [Brainstorming](pages/brainstorming_elicitation.md)
+  - [Questionário](pages/questionario.md)
+
+- **Modelagem**
+  - [Backlog do produto](pages/backlog-do-produto.md)
 
 - **Sprints**
   - Sprint 1
