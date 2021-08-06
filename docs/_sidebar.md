@@ -1,8 +1,9 @@
 - [Home](README.md "Animalesco Docs")
 
-- **Gerenciamento do projeto**
+- **Projeto**
   - [Plano de riscos](pages/plano-de-riscos.md)
   - [Metodologia do projeto](pages/metodologia-do-projeto.md)
+  - [Modelagem BPMN](pages/bpmn.md)
 
 - **Pré rastreabilidade**
   - [Mapa mental](pages/mapa-mental.md)
