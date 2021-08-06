@@ -8,6 +8,8 @@
   - [Metodologia do projeto](pages/metodologia-do-projeto.md)
   - [Modelagem BPMN](pages/bpmn.md)
 
+---
+
 - **Pré rastreabilidade**
   - [Mapa mental](pages/mapa-mental.md)
   - [Rich pictures](pages/rich-pictures.md)
@@ -23,6 +25,13 @@
 - **Modelagem**
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
+
+
+---
+
+
+- **Entregas**
+  - [Entrega I](pages/entregas/entrega1.md)
 
 - **Sprints**
   - Sprint 1

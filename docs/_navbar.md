@@ -1,1 +1,1 @@
-- [E I](pages/entregas/entrega1.md)
+- [Entrega I](pages/entregas/entrega1.md)

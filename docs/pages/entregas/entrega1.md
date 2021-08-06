@@ -1,29 +1,39 @@
-## Entrega 1
+# Entrega 1
 
-1.[Brainstorming de pré-rastreabilidade](pages/brainstorming.md)
+## Documentos livres de metodologia
 
-2.[Mapa mental](pages/mapa-mental.md)
+01. [Brainstorming de pré-rastreabilidade](pages/brainstorming.md)
 
-3.[Rich pictures](pages/rich-pictures.md)
+02. [Mapa mental](pages/mapa-mental.md)
 
-4.[5W2H](pages/5W2H.md)
+03. [Rich pictures](pages/rich-pictures.md)
 
-5.[Ishikawa](pages/ishikawa.md)
+04. [5W2H](pages/5W2H.md)
 
-6.[Plano de riscos](pages/plano-de-riscos.md)
+05. [Ishikawa](pages/ishikawa.md)
 
-7.[Metodologia do projeto](pages/metodologia-do-projeto.md)
+06. [Plano de riscos](pages/plano-de-riscos.md)
 
-8.[Modelagem BPMN](pages/bpmn.md)
+## Elicitação
 
-9.[Manual de Identidade Visual](pages/identidade_visual.md)
+07. [Entrevistas](pages/entrevistas.md)
 
-10.[Entrevistas](pages/entrevistas.md)
+08. [Brainstorming de elicitação](pages/brainstorming_elicitation.md)
 
-11.[Brainstorming de elicitação](pages/brainstorming_elicitation.md)
+09. [Questionário](pages/questionario.md)
 
-12.[Questionário](pages/questionario.md)
+## Modelagem
 
-13.[Backlog do produto](pages/backlog-do-produto.md)
+10. [Backlog do produto](pages/backlog-do-produto.md)
 
-14.[Priorização](pages/priorizacao.md)
+11. [Priorização](pages/priorizacao.md)
+
+## Metodologias, processos e abordagens
+
+12. [Metodologia do projeto](pages/metodologia-do-projeto.md)
+
+13. [Modelagem BPMN](pages/bpmn.md)
+
+## Iniciativas extras
+
+14. [Manual de Identidade Visual](pages/identidade_visual.md)
