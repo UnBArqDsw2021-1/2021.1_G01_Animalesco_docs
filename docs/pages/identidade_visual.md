@@ -4,7 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 02/08/2021 |  0.1   | Criação da logo | Leonardo Gomes |
-| 05/08/2021 |  1.0   | Cria;'ao do Manual de Identidade Visual | Leonardo Gomes |
+| 05/08/2021 |  1.0   | Criação do Manual de Identidade Visual | Leonardo Gomes |
 
 <div align="justify">
 
