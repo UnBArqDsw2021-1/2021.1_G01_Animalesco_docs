@@ -5,7 +5,7 @@
   - [Metodologia do projeto](pages/metodologia-do-projeto.md)
 
 - **Modelagem**
-  - [Baseline de Requisitos](pages/backlog-do-produto.md)
+  - [Backlog do produto](pages/backlog-do-produto.md)
 
 - **Pré rastreabilidade**
   - [Mapa mental](pages/mapa-mental.md)

@@ -7,6 +7,7 @@
 | 04/08/2021 | 0.1 | Estrutura inicial do documento | Rafael Leão e João Vitor Farias |
 | 05/08/2021 | 0.2 | Revisão do documento | Hugo Sobral |
 | 05/08/2021 | 0.3 | Reestruturação do backlog | Hugo Sobral |
+| 05/08/2021 | 1.0 | Revisão do documento e inclusão da bibliografia | Hugo Sobral |
 
 ## 1. Introdução
 O _backlog do produto_, tradução livre de _product backlog_, é um artefato descrito pela metodologia Scrum que consiste em uma lista de tarefas que descrevem as funcionalidades e comportamentos que são esperados do produto quando este alcança a conjuntura de conclusão. O _backlog do produto_ se organiza de maneira a separar as atividades por diferentes granularidades, estas são:
@@ -178,3 +179,9 @@ Os requisitos não funcionais são aqueles que não interferem diretamente no de
 
 
 ### Bibliografia
+
+1. Como fazer o Product Backlog. **Project Builder**, 2017. Disponível em: https://www.projectbuilder.com.br/blog/como-fazer-o-product-backlog/ (último acesso em 05/08/2021)
+2. VENTURA, Plínio. Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). **Até o Momento**, 2021. Disponível em https://www.ateomomento.com.br/epic-feature-e-user-story/ (último acesso em 05/08/2021)
+3. SCRUM, Metodologia Ágil. Disponível em: https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)#Product_Backlog (Último acesso em 05/08/2021)
+4. Backlog do Produto. **Stock**. Disponível em: https://unbarqdsw.github.io/2020.1_G12_Stock/#/Modeling/Backlog (Último acesso em 05/08/2021)
+6. Product Backlog V3. **Requisitos Habitica**. Disponível em: https://requisitos-habitica.netlify.app/BacklogV3 (Último acesso em 05/08/2021)
