@@ -3,9 +3,10 @@
 - **Produto**
   - [Manual de Identidade Visual](pages/identidade_visual.md)
 
-- **Gerenciamento do projeto**
+- **Projeto**
   - [Plano de riscos](pages/plano-de-riscos.md)
   - [Metodologia do projeto](pages/metodologia-do-projeto.md)
+  - [Modelagem BPMN](pages/bpmn.md)
 
 - **Pré rastreabilidade**
   - [Mapa mental](pages/mapa-mental.md)
@@ -18,6 +19,10 @@
   - [Entrevistas](pages/entrevistas.md)
   - [Brainstorming](pages/brainstorming_elicitation.md)
   - [Questionário](pages/questionario.md)
+
+- **Modelagem**
+  - [Backlog do produto](pages/backlog-do-produto.md)
+  - [Priorização](pages/priorizacao.md)
 
 - **Sprints**
   - Sprint 1
