@@ -8,14 +8,15 @@
 | 05/08/2021 |  0.2   | Criação do quadro de histórias do usuario | Daniela Soares  |
 | 05/08/2021 |  0.3   | Priorização dos requisitos | Lorrany Oliveira e Daniela Soares  |
 | 05/08/2021 |  1.0   | Ajuste no histórico de versão e Revisão do documento | Leonardo Gomes  |
+| 06/08/2021 |  1.1   | Revisão do documento | Hugo Sobral |
 
 <div align="justify">
 
 ## 1. Introdução
 
-A priorização de requisitos é um procedimento fundamental na hora da produção de um software, além de ser um dos fatores que minimiza a possibilidade de ocorrer uma falha na produção da aplicação. Isso ocorre porque, por meio de um __sistema de prioridades__, você analisa todos os requisitos e determina qual tem uma prioridade maior a ser implementada, e assim você cria algo similar a uma ordem de implementação.
+A priorização de requisitos é um procedimento fundamental na hora da produção de um software, além de ser um dos fatores que minimiza a possibilidade de ocorrer uma falha na produção da aplicação. Isso ocorre porque, por meio de um __sistema de prioridades__, é possível realizar a análise de todos os requisitos e a devida priorização das tarefas, quase como uma ordem de implementação.
 
-A criação dessa técnica depende de diversos fatores, como por exemplo, os tipos de tecnologias que você estará utilizando, qual o objetivo que você deseja atingir, o contexto que você está inserido, entre outros. Desta forma, existem diversas técnicas que podem ser utilizadas para colaborar na priorização de requisitos, a qual deve ser escolhida com base no que mais se adequa ao seu projeto.
+A execução de uma priorização deve levar em conta diversos fatores, como por exemplo, os diferentes tipos de tecnologias utilizados; qual o objetivo almejado; o determinado contexto do projeto; e entre outros. Desta forma, existem diversas técnicas que podem ser utilizadas para colaborar na priorização de requisitos, a qual deve ser escolhida com base na que mais se adequa ao projeto.
 
 <br/>
 
