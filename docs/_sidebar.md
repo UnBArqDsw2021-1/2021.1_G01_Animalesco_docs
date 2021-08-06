@@ -1,5 +1,8 @@
 - [Home](README.md "Animalesco Docs")
 
+- **Produto**
+  - [Manual de Identidade Visual](pages/identidade_visual.md)
+
 - **Projeto**
   - [Plano de riscos](pages/plano-de-riscos.md)
   - [Metodologia do projeto](pages/metodologia-do-projeto.md)
