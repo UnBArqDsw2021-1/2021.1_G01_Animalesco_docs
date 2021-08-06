@@ -59,7 +59,7 @@
 </p>
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/desenvolvimento.oga"></source>
+    <source type="audio/oga" src="../assets/audios/bpmn/desenvolvimento.oga"></source>
 </audio>
 
 ## Daily
@@ -99,6 +99,12 @@
     </figcaption>
 </p>
 
+
+<audio controls="controls">
+    <source type="audio/mp3" src="../assets/audios/bpmn/sprint-review.mp3"></source>
+</audio>
+
+
 ## Sprint Retrospective
 
 <p align='center'>
@@ -111,7 +117,7 @@
 </p>
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/sprint-retrospective.oga"></source>
+    <source type="audio/oga" src="../assets/audios/bpmn/sprint-retrospective.oga"></source>
 </audio>
 
 ## Planning Poker
