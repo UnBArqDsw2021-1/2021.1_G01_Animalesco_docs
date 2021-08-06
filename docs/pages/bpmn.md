@@ -1,5 +1,9 @@
 # <center> Modelagem BPMN
 
+BPMN (Business Process Model and Notation) é uma representação gráfica feita a partir de ícones que simbolizam o fluxo do processo. 
+
+Por meio da notação BPMN a equipe Animalesco criou o mapeamento dos processos utilizados. Os diagramas presentes nesse documento envolvem o processo inteiro, assim como diagramas de subprocessos com o intuito de um melhor compreendimento dos processos e aplicar de forma padronizada dentro da equipe.
+
 #### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
@@ -17,6 +21,10 @@
         <small>Autor: Vinícius, 2021.</small>
     </figcaption>
 </p>
+
+<audio controls="controls">
+    <source type="audio/mp3" src="../assets/audios/bpmn/diagrama-geral.oga"></source>
+</audio>
 
 ## Definição do Projeto
 
@@ -46,6 +54,10 @@
         <small>Autor: Durval, 2021.</small>
     </figcaption>
 </p>
+
+<audio controls="controls">
+    <source type="audio/mp3" src="../assets/audios/bpmn/definicao-projeto.aac"></source>
+</audio>
 
 ## Desenvolvimento
 
@@ -135,3 +147,10 @@
     </figcaption>
 </p>
 
+<audio controls="controls">
+    <source type="audio/mp3" src="../assets/audios/bpmn/planning-poker.oga"></source>
+</audio>
+
+## Referências
+
+HEFLO: Ferramenta para criação de diagramas BPMN - https://www.heflo.com/pt-br/tour-heflo-bpm/ Acesso em 04/08/2021
