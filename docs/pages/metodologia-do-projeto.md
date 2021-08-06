@@ -104,11 +104,11 @@ Extreme Programming é uma metodologia com foco em agilidade de equipes e qualid
 
 No nosso contexto, as seguintes ferramentas do XP foram adotadas e adaptadas:
 
-#### **3.3.1 Small Releases
+#### **3.3.1 Small Releases**
 
 Todas as tarefas do projeto são planejadas para serem `pequenos entregáveis`, para que assim 1 pessoa consiga entregar dentro do time-box do projeto.
 
-#### **3.3.2 Refactoring
+#### **3.3.2 Refactoring**
 
 Todos os entregáveis do projeto são revisados por membros do grupo que não estiveram envolvidos na criação, dessa forma reduzindo o enviesamento e aumentando a qualidade do artefato.
 
