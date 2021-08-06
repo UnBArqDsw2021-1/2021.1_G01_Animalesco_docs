@@ -4,9 +4,6 @@
   - [Plano de riscos](pages/plano-de-riscos.md)
   - [Metodologia do projeto](pages/metodologia-do-projeto.md)
 
-- **Modelagem**
-  - [Backlog do produto](pages/backlog-do-produto.md)
-
 - **Pré rastreabilidade**
   - [Mapa mental](pages/mapa-mental.md)
   - [Rich pictures](pages/rich-pictures.md)
@@ -18,6 +15,9 @@
   - [Entrevistas](pages/entrevistas.md)
   - [Brainstorming](pages/brainstorming_elicitation.md)
   - [Questionário](pages/questionario.md)
+
+- **Modelagem**
+  - [Backlog do produto](pages/backlog-do-produto.md)
 
 - **Sprints**
   - Sprint 1

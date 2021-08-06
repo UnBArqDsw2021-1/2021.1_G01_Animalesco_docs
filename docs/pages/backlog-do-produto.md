@@ -8,6 +8,7 @@
 | 05/08/2021 | 0.2 | Revisão do documento | Hugo Sobral |
 | 05/08/2021 | 0.3 | Reestruturação do backlog | Hugo Sobral |
 | 05/08/2021 | 1.0 | Revisão do documento e inclusão da bibliografia | Hugo Sobral |
+| 05/08/2021 | 1.1 | Revisão do documento | Leonardo Gomes |
 
 ## 1. Introdução
 O _backlog do produto_, tradução livre de _product backlog_, é um artefato descrito pela metodologia Scrum que consiste em uma lista de tarefas que descrevem as funcionalidades e comportamentos que são esperados do produto quando este alcança a conjuntura de conclusão. O _backlog do produto_ se organiza de maneira a separar as atividades por diferentes granularidades, estas são:
@@ -24,13 +25,13 @@ Já as _user stories_ definem pedaços atômicos de funcionalidades. São as _us
 
 ## 2. Metodologia
 
-A partir das técnicas de elicitação realizadas pela equipe, foi possível realizar o mapeamento dos requisitos funcionais e não funcionais do projeto. Os insumos levantados pelas técnicas de [brainstorming](), [questionário]() e [entrevistas]() foram a base para a identificação das necessidades do Animalesco como solução computacional.
+A partir das técnicas de elicitação realizadas pela equipe, foi possível realizar o mapeamento dos requisitos funcionais e não funcionais do projeto. Os insumos levantados pelas técnicas de [brainstorming](/pages/brainstorming.md), [questionário](/pages/questionario.md) e [entrevistas](/pages/entrevistas.md) foram a base para a identificação das necessidades do Animalesco como solução computacional.
 
 Desta forma, foram realizados encontros em equipe para a identificação destes requisitos e devida tradução para o formato do _backlog do produto_, isto é, a escrita das necessidades do projeto de acordo com a granularização descrita pelo artefado de backlog.
 
 ## 3. Objetivo
 
-Este documento tem como objetivo a identificação e devido agrupamento dos requisitos do Animalesco. Este documento apresenta, por meio de tabelas, as estruturas atômicas de tarefas relacionadas à cada um dos temas identificados anteriormente pelas técnicas de elicitação utilizadas pela equipe.
+Este documento tem como objetivo a identificação e devido agrupamento dos requisitos do Animalesco. Este documento apresenta, por meio de tabelas, as estruturas atômicas de tarefas relacionadas a cada um dos temas identificados anteriormente pelas técnicas de elicitação utilizadas pela equipe.
 
 ## 4. Requisitos funcionais
 
