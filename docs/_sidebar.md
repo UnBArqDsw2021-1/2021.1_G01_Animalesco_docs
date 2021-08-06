@@ -37,3 +37,5 @@
   - Sprint 1
     - [Planejamento](sprints/sprint1/planejamento.md)
     - [Resultados](sprints/sprint1/resultados.md)
+  - Sprint 2
+    - [Planejamento](sprints/sprint2/planejamento.md)

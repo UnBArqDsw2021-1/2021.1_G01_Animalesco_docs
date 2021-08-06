@@ -8,7 +8,11 @@
 
 <div align="justify">
 
+<<<<<<< HEAD
 <embed src="../assets/pages/identidade_visual/manual_de_identidade_visual.pdf" width="800px" height="500px" />
+=======
+<embed src="https://unbarqdsw2021-1.github.io/2021.1_G01_Animalesco_docs/assets/pages/identidade_visual/manual_de_identidade_visual.pdf" width="800px" height="500px" />
+>>>>>>> 52b4db8... Adjust pdf link on identity visual
 
 Autor: Leonardo da Silva Gomes
 
