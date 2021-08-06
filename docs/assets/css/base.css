@@ -26,6 +26,7 @@
   background: none;
 }
 
+/* Sidebar style */
 .search {
   display: none;
 }
@@ -33,4 +34,12 @@
 .app-name-link > img {
   margin-top: 1.5em;
   height: 150px;
+}
+
+/* NavBar style */
+.app-nav > ul li {
+  padding: 6px;
+  color: var(--cover-button-color);
+  border: var(--cover-button-border);
+  border-radius: var(--cover-button-border-radius);
 }
