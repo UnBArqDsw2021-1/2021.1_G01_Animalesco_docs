@@ -57,15 +57,10 @@ O presente documento tem como objetivo a demostração do resultado da aplicaç�
 |  EP02   |  FT05   | US16  |   usuário    |   registar quando o medicamento foi dado  |   manter o histórico atualizado   | Must  |
 |  EP02   |  FT06   | US17  |   usuário    |   visualizar as vacinas do pet  |   me informar   | Must  |
 |  EP02   |  FT06   | US18  |   usuário    |   registrar as vacinas que o pet tomau  |   manter o dados atualizados   | Must  |
-|  EP02   |  FT06   | US19  |   usuário    |   adicionar lembre da vacinação  |   não esquecer a data   | Should  |
-|  EP02   |  FT06   | US20  |   usuário    |    apagar as vacinas  |   remover as informações   | Could  |
-|  EP03   |  FT07   | US21  |   usuário    |   registrar o peso do pet  |   manter os dados atualizados  | Must  |
-|  EP03   |  FT07   | US22  |   usuário    |   registrar o tamanho do pet  |   manter os dados atualizados   | Must  |
-|  EP03   |  FT07   | US23  |   usuário    |   visualizar um gráfico com o histórico do peso do meu pet  |   acompanhar sua evolução   | Could  |
-|  EP03   |  FT07   | US24  |   usuário    |   visualizar um gráfico com o histórico do tamanho do meu pet  |   acompanhar sua evolução.   | Could  |
-|  EP03   |  FT08   | US25  |   usuário    |   registrar dados sobre as visitas ao veterinário  |   manter o registro da saúde do pet   | Must  |
-|  EP03   |  FT08   | US26  |   usuário    |   visualizar histórico de visitas ao veterinário  |   me manter informado   | Must  |
-|  EP03   |  FT08   | US27  |   usuário    |   visualizar um relátorio sobre a saúde do pet  |   ter acesso fácil a isso   | Should  |
+|  EP02   |  FT06   | US19  |   usuário    |    apagar as vacinas  |   remover as informações   | Could  |
+|  EP03   |  FT08   | US20  |   usuário    |   registrar dados sobre as visitas ao veterinário  |   manter o registro da saúde do pet   | Must  |
+|  EP03   |  FT08   | US21  |   usuário    |   visualizar histórico de visitas ao veterinário  |   me manter informado   | Must  |
+|  EP03   |  FT08   | US22  |   usuário    |   visualizar um relátorio sobre a saúde do pet  |   ter acesso fácil a isso   | Should  |
 
 ## 5. Priorização dos Requisitos não funcionais 
 
