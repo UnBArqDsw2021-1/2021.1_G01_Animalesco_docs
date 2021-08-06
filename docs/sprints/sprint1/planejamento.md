@@ -1,5 +1,5 @@
-# Planejamento sprint 1
-> Período: 26/07/2021 até 01/08/2021
+# <center> Planejamento sprint 1
+> Período: 26/07/2021 até 01/08/2021   
 > Data da reunião: 26/07/2021
 
 <br/>
