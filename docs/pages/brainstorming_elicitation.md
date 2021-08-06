@@ -44,7 +44,7 @@ Esse tópico apresenta as informações e resultados acerca de cada um dos quadr
 ### 3.1 Quais informações você gostaria que tivesse na aplicação?
 
 <p align='center'>
-  <img src='../assets/pages/brainstorming/informacoes.jpg'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/informacoes.jpg'>
   <figcaption align='center'>
       <b>Figura 1: Brainstorming referente a pergunta "Quais informações você gostaria que tivesse na aplicação?"</b>
       <br>
@@ -67,7 +67,7 @@ Esse tópico apresenta as informações e resultados acerca de cada um dos quadr
 ### 3.2 Quais animais a aplicação deveria abordar? 
 
 <p align='center'>
-  <img src='../assets/pages/brainstorming/animais.jpg'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/animais.jpg'>
   <figcaption align='center'>
       <b>Figura 1: Brainstorming referente a pergunta "Quais animais a aplicação deveria abordar?"</b>
       <br>
@@ -89,7 +89,7 @@ Possiveis animais:
 ### 3.3 Quais funcionalidades a aplicação deveria ter?
 
 <p align='center'>
-  <img src='../assets/pages/brainstorming/funcionalidades.jpg'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/funcionalidades.jpg'>
   <figcaption align='center'>
       <b>Figura 1: Brainstorming referente a pergunta "Quais funcionalidades a aplicação deveria ter?"</b>
       <br>
@@ -111,7 +111,7 @@ Possiveis animais:
 ### 3.4 Quais funcionalidades não deveriam estar presentes?
 
 <p align='center'>
-  <img src='../assets/pages/brainstorming/nao_funcionalidades.jpg'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/nao_funcionalidades.jpg'>
   <figcaption align='center'>
       <b>Figura 1: Brainstorming referente a pergunta "Quais funcionalidades não deveriam estar presentes?"</b>
       <br>
@@ -130,7 +130,7 @@ O aplicativo não deve apresentar:
 ### 3.5 Cite características positivas que você gostaria que tivesse na aplicação?
 
 <p align='center'>
-  <img src='../assets/pages/brainstorming/caracteristicas.jpg'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/caracteristicas.jpg'>
   <figcaption align='center'>
       <b>Figura 1: Brainstorming referente a pergunta "Cite características positivas que você gostaria que tivesse na aplicação?"</b>
       <br>
@@ -152,7 +152,7 @@ O aplicativo não deve apresentar:
 ### 3.6 Em quais plataformas a aplicação deveria estar presente?
 
 <p align='center'>
-  <img src='../assets/pages/brainstorming/plataformas.jpg'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/plataformas.jpg'>
   <figcaption align='center'>
       <b>Figura 1: Brainstorming referente a pergunta "Em quais plataformas a aplicação deveria estar presente?"</b>
       <br>

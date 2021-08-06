@@ -15,11 +15,11 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 ## 1. Descrição Geral
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/diagrama-geral.oga"></source>
+    <source type="audio/mp3" src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/audios/bpmn/diagrama-geral.oga"></source>
 </audio>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/descricao-geral.jpeg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/descricao-geral.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Descrição Geral</b>
         <br>
@@ -31,11 +31,11 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 ## 2. Definição do Projeto
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/definicao-projeto.aac"></source>
+    <source type="audio/mp3" src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/audios/bpmn/definicao-projeto.aac"></source>
 </audio>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/definicao-projeto1.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/definicao-projeto1.jpg'>
     <figcaption align='center'>
         <b>Figura 2: Diagrama de Definição do Projeto</b>
         <br>
@@ -44,7 +44,7 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 </p>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/definicao-projeto2.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/definicao-projeto2.jpg'>
     <figcaption align='center'>
         <b>Figura 3: Diagrama de Definição do Projeto</b>
         <br>
@@ -53,7 +53,7 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 </p>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/definicao-projeto3.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/definicao-projeto3.jpg'>
     <figcaption align='center'>
         <b>Figura 4: Diagrama de Definição do Projeto</b>
         <br>
@@ -65,11 +65,11 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 ## 3. Desenvolvimento
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/desenvolvimento.oga"></source>
+    <source type="audio/mp3" src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/audios/bpmn/desenvolvimento.oga"></source>
 </audio>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/desenvolvimento.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/desenvolvimento.jpg'>
     <figcaption align='center'>
         <b>Figura 5: Diagrama de Desenvolvimento</b>
         <br>
@@ -81,11 +81,11 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 ## 4. Daily
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/daily.mp3"></source>
+    <source type="audio/mp3" src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/audios/bpmn/daily.mp3"></source>
 </audio>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/daily.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/daily.png'>
     <figcaption align='center'>
         <b>Figura 6: Diagrama de Daily</b>
         <br>
@@ -97,11 +97,11 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 ## 5. Sprint Planning
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/sprint-planning.mp3"></source>
+    <source type="audio/mp3" src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/audios/bpmn/sprint-planning.mp3"></source>
 </audio>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/sprint-planning.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/sprint-planning.png'>
     <figcaption align='center'>
         <b>Figura 7: Diagrama de Sprint Planning</b>
         <br>
@@ -113,11 +113,11 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 ## 6. Sprint Review
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/sprint-review.mp3"></source>
+    <source type="audio/mp3" src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/audios/bpmn/sprint-review.mp3"></source>
 </audio>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/sprint-review.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/sprint-review.png'>
     <figcaption align='center'>
         <b>Figura 8: Diagrama de Sprint Review</b>
         <br>
@@ -129,11 +129,11 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 ## 7. Sprint Retrospective
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/sprint-retrospective.oga"></source>
+    <source type="audio/mp3" src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/audios/bpmn/sprint-retrospective.oga"></source>
 </audio>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/sprint-retrospective.jpeg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/sprint-retrospective.jpeg'>
     <figcaption align='center'>
         <b>Figura 9: Diagrama de Sprint Retrospective</b>
         <br>
@@ -145,11 +145,11 @@ A equipe do projeto Animalesco, por meio da notação BPMN, criou um mapeamento 
 ## 8. Planning Poker
 
 <audio controls="controls">
-    <source type="audio/mp3" src="../assets/audios/bpmn/planning-poker.oga"></source>
+    <source type="audio/mp3" src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/audios/bpmn/planning-poker.oga"></source>
 </audio>
 
 <p align='center'>
-    <img src='../assets/pages/bpmn/planning-poker.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/bpmn/planning-poker.jpg'>
     <figcaption align='center'>
         <b>Figura 10: Diagrama de Planning Poker</b>
         <br>

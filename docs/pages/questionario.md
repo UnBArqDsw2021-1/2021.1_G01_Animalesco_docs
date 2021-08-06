@@ -42,7 +42,7 @@ Uma vez que as perguntas principais que o grupo estava interessado em saber fora
 Após a conclusão do formulário, foram contabilizadas 16 perguntas, no seguinte fluxo:
 
 <p align='center'>
-  <img src='../assets/pages/questionario/fluxo_do_questionario.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/fluxo_do_questionario.png'>
   <figcaption align='center'>
       <b>Figura 1: Fluxo de perguntas do questionário</b>
       <br>
@@ -86,7 +86,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.1 Pergunta 1
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta1.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta1.png'>
   <figcaption align='center'>
       <b>Figura 2: </b>
       <br>
@@ -97,7 +97,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.2 Pergunta 2
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta2.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta2.png'>
   <figcaption align='center'>
       <b>Figura 3: </b>
       <br>
@@ -108,7 +108,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.3 Pergunta 3
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta3.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta3.png'>
   <figcaption align='center'>
       <b>Figura 4: </b>
       <br>
@@ -119,7 +119,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.4 Pergunta 4
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta4.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta4.png'>
   <figcaption align='center'>
       <b>Figura 5: </b>
       <br>
@@ -130,7 +130,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.5 Pergunta 5
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta5.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta5.png'>
   <figcaption align='center'>
       <b>Figura 6: </b>
       <br>
@@ -141,7 +141,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.6 Pergunta 6
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta6.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta6.png'>
   <figcaption align='center'>
       <b>Figura 7: </b>
       <br>
@@ -152,7 +152,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.7 Pergunta 7
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta7.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta7.png'>
   <figcaption align='center'>
       <b>Figura 8: </b>
       <br>
@@ -163,7 +163,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.8 Pergunta 8
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta8.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta8.png'>
   <figcaption align='center'>
       <b>Figura 9: </b>
       <br>
@@ -174,7 +174,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.9 Pergunta 9
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta9.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta9.png'>
   <figcaption align='center'>
       <b>Figura 10: </b>
       <br>
@@ -185,7 +185,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.10 Pergunta 10
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta10.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta10.png'>
   <figcaption align='center'>
       <b>Figura 11: </b>
       <br>
@@ -196,7 +196,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.11 Pergunta 11
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta11.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta11.png'>
   <figcaption align='center'>
       <b>Figura 12: </b>
       <br>
@@ -207,7 +207,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.12 Pergunta 12
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta12.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta12.png'>
   <figcaption align='center'>
       <b>Figura 13: </b>
       <br>
@@ -218,7 +218,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.13 Pergunta 13
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta13.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta13.png'>
   <figcaption align='center'>
       <b>Figura 14: </b>
       <br>
@@ -230,7 +230,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.14 Pergunta 14
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta14.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta14.png'>
   <figcaption align='center'>
       <b>Figura 15: </b>
       <br>
@@ -241,7 +241,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.15 Pergunta 15
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta15.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta15.png'>
   <figcaption align='center'>
       <b>Figura 16: </b>
       <br>
@@ -252,7 +252,7 @@ No total foram obtidas 95 respostas, porém somente 86 delas serão úteis para 
 #### 3.1.16 Pergunta 16
 
 <p align='center'>
-  <img src='../assets/pages/questionario/pergunta16.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/questionario/pergunta16.png'>
   <figcaption align='center'>
       <b>Figura 17: </b>
       <br>

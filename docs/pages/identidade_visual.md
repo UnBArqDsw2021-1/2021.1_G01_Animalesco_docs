@@ -8,7 +8,7 @@
 
 <div align="justify">
 
-<embed src="../assets/pages/identidade_visual/manual_de_identidade_visual.pdf" width="800px" height="500px" />
+<embed src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/identidade_visual/manual_de_identidade_visual.pdf" width="800px" height="500px" />
 
 Autor: Leonardo da Silva Gomes
 
