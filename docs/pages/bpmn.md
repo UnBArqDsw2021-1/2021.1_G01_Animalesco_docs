@@ -4,8 +4,8 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 05/08/2021 |  0.1   | Criação do documento  | Vinicius Oliveira |
-| 05/08/2021 |  0.1   | Adição de diagramas do BPMN  | Vinicius Oliveira |
-| 05/08/2021 |  0.1   | Adição de áudios explicativos dos BPMN  | Vinicius Oliveira |
+| 05/08/2021 |  0.2   | Adição de diagramas do BPMN  | Vinicius Oliveira |
+| 05/08/2021 |  0.3   | Adição de áudios explicativos dos BPMN  | Vinicius Oliveira |
 
 ## Descrição Geral
 
@@ -59,7 +59,7 @@
 </p>
 
 <audio controls="controls">
-    <source type="audio/oga" src="../assets/audios/bpmn/desenvolvimento.oga"></source>
+    <source type="audio/mp3" src="../assets/audios/bpmn/desenvolvimento.oga"></source>
 </audio>
 
 ## Daily
@@ -87,6 +87,10 @@
         <small>Autor: João, 2021.</small>
     </figcaption>
 </p>
+
+<audio controls="controls">
+    <source type="audio/mp3" src="../assets/audios/bpmn/sprint-planning.mp3"></source>
+</audio>
 
 ## Sprint Review
 
@@ -117,7 +121,7 @@
 </p>
 
 <audio controls="controls">
-    <source type="audio/oga" src="../assets/audios/bpmn/sprint-retrospective.oga"></source>
+    <source type="audio/mp3" src="../assets/audios/bpmn/sprint-retrospective.oga"></source>
 </audio>
 
 ## Planning Poker
