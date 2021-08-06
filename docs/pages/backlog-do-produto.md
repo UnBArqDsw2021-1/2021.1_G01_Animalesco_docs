@@ -6,6 +6,7 @@
 |------|--------|-----------|-------|
 | 04/08/2021 | 0.1 | Estrutura inicial do documento | Rafael Leão e João Vitor Farias |
 | 05/08/2021 | 0.2 | Revisão do documento | Hugo Sobral |
+| 05/08/2021 | 0.3 | Reestruturação do backlog | Hugo Sobral |
 
 ## 1. Introdução
 O _backlog do produto_, tradução livre de _product backlog_, é um artefato descrito pela metodologia Scrum que consiste em uma lista de tarefas que descrevem as funcionalidades e comportamentos que são esperados do produto quando este alcança a conjuntura de conclusão. O _backlog do produto_ se organiza de maneira a separar as atividades por diferentes granularidades, estas são:
@@ -40,68 +41,121 @@ Vale ressaltar que as user stories seguem o padrão de papel-ação-valor:
 desejo __uma ação__
 para que __um benefício/valor__.*
 
-### 4.1 Épicos
-É uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto.
+<style>
+tr {
+    background-color: white;
+}
+.markdown-section td.backlog {
+    border: 3px solid #EBEBEB;
+}
 
-| ID  | Épico|
-| --- | ----- |
-| EP01 | Gerenciamento de usuário |
-| EP02 | Gerenciamento de pet |
-| EP03 | Acompanhamento de idas ao veterinário|
 
-### 4.2 Features
-Uma feature é uma funcionalidade do sistema que entrega um benefício ou resolve um problema real do cliente.
+table, td.backlog{
+  border-collapse: collapse;
+  background-color: white;
+}
+</style>
 
-|ID |Feature | ID Épico |
-|------ |-- | ----- |
-|FT01| Cadastro de usuário |EP01|
-|FT02| Fazer login |EP01|
-|FT03| Cadastro de pet |EP02|
-|FT04| Controle banhos |EP02|
-|FT05| Controle de medicamentos |EP02|
-|FT06| Controle de vacinas|EP02|
-|FT07| Controle de medidas |EP03|
-|FT08| Controle de idas ao veterinário|EP03|
+<table style="width: 933px; background-color:white">
+<tbody>
+<!-- Cabeçalho -->
+<tr style="height: 43px; background-color:white">
+    <td class="backlog" style="width: 35px; height: 43px;">Epics</td class="backlog">
+    <td class="backlog" style="width: 35px; height: 43px;">Features</td class="backlog">
+    <td class="backlog" style="width: 475px; height: 43px;">User stories</td class="backlog">
+</tr>
 
-### 4.3 Histórias de usuários
-Histórias de usuário é uma descrição curta, informal e em linguagem simples do que um usuário quer fazer dentro de um produto de software para obter algo que ele considere valioso.
+<!-- Epic usuário -->
+<!-- Feature perfil -->
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 35px; height: 138px;" rowspan="5">Usuário</td class="backlog">
+    <td class="backlog" style="width: 35px; height: 69px; " rowspan="5">Perfil</td class="backlog">
+    <td class="backlog" style="width: 475px; height: 23px;">Eu como <b>usuário</b> desejo poder <b>realizar cadastro</b> para ter <b>acesso a aplicação</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>apagar meus dados</b> para <b>remover o perfil</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>alterar meus dados</b> para <b>manter o perfil atualizado</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>realizar login</b> para <b>ter acesso ao app</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>resgatar minha senha</b> para <b>recuperar o login</b>.</td class="backlog">
+</tr>
 
-As histórias de usuários normalmente seguem o padrão de papel-função-benefício (ou modelo):
+<!-- Epic pet -->
+<!-- Feature cadastro -->
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 35px; height: 460px; " rowspan="42">Pet</td class="backlog">
+    <td class="backlog" style="width: 35px; height: 253px; " rowspan="3">Cadastro</td class="backlog">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo poder <b>cadastrar meu(s) pet(s)</b> na aplicação para <b>realizar o controle das informaçoẽs dele(s)</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo poder <b>alterar os dados do(s) meu(s) pet(s)</b> para <b>manter o(s) perfil(is) atualizado(s)</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo poder <b>deletar o(s) registro(s) do(s) meu(s) pet(s)</b> para <b>removê-lo(s) do app.</b></td class="backlog">
+</tr>
 
->*Como um __tipo de usuário__,
-eu quero __uma ação__
-para que __um benefício/valor__*
+<!-- Feature banho -->
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 35px; height: 253px; " rowspan="4">Banho</td class="backlog">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu com <b>usuário</b> desejo poder <b>registrar os banhos do(s) meu(s) pet(s)</b> para <b>manter o controle</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo poder <b>acessar o histórico de banho(s) do(s) meu(s) pet(s)</b> para <b>saber quando dar banho novamente.</b></td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>adicionar lembrete sobre o(s) banho(s)</b> para <b>não esquecer dele(s)</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>deletar o(s) banho(s) do(s) pet(s)</b> para <b>remover a(s) informação(ões)</b>.</td class="backlog">
+</tr>
 
-|ID | História de usuário | ID Feature |
-|---| ------------------- | ---------- |
-|US01| Eu como __usuário__ desejo poder realizar o __cadastro__ para ter acesso a aplicação. |FT01|
-|US02|Eu como __usuário__ desejo __alterar__ meus dados para manter o perfil atualizado.  |FT01|
-|US03| Eu como __usuário__ desejo __apagar__ meus dados para remover o perfil.| FT01|
-|US04|Eu como __usuário__ desejo poder realizar __login__ para acessar a aplicação. |FT02|
-|US05| Eu como __usuário__ desejo __resgatar__ a senha para realizar o login.|FT02|
-|US06| Eu como __usuário__ desejo poder __cadastrar__ meu(s) pet(s) na aplicação para realizar o controle das informaçoẽs dele(s).|FT03|
-|US07| Eu como __usuário__ desejo poder __alterar__ os dados do(s) meu(s) pet(s) para manter o(s) perfil(is) atualizado(s).|FT03|
-|US08| Eu como __usuário__ desejo poder __deletar__ o(s) registro(s) do(s) meu(s) pet(s) para remover os dados da aplicação.|FT03|
-|US09| Eu com __usuário__ desejo poder __registrar__ os banhos do(s) meu(s) pet(s) para manter o controle.| FT04 |
-|US10| Eu como __usuário__ desejo poder __acessar__ o histórico de banho(s) do(s) meu(s) pet(s) para saber quando dar banho novamente.|FT04|
-|US11| Eu como __usuário__ desejo __adicionar__ lembrete sobre o(s) banho(s) para não esquecer dele(s). | FT04|
-|US12|Eu como __usuário__ desejo __deletar__ o(s) banho(s) do(s) pet(s) para remover a(s) informação(ões). | FT04|
-|US13| Eu como __usuário__ desejo __registrar__ um medicamento para realizar o controle dele. |FT05|
-|US14| Eu como __usuário__ desejo __adicionar__ um lembrete para não esquecer o horário da administração do medicamento.|FT05|
-|US15| Eu como __usuário__ desejo poder __remover__ o medicamento quando finalizar o seu período de administração.|FT05|
-|US16| Eu como __usuário__ desejo __registar__ quando o medicamento foi dado para manter o histórico atualizado. |FT05|
-|US17| Eu como __usuário__ desejo __adicionar__ um lembrete para não esquecer o horário da administração do medicamento.|FT05|
-|US18|Eu como __usuário__ desejo __visualizar__ as vacinas do pet para me informar. |FT06|
-|US19| Eu como __usuário__ desejo __registrar__ as vacinas que o pet tomau para manter o dados atualizados. |FT06|
-|US20| Eu como __usuário__ desejo __adicionar__ lembre da vacinação para não esquecer a data.|FT06|
-|US21| Eu como __usuário__ desejo __apagar__ as vacinas para remover as informações. |FT06|
-|US22| Eu como __usuário__ desejo __registrar__ o peso do pet para manter os dados atualizados.|FT07|
-|US23|Eu como __usuário__ desejo __registrar__ o tamanho do pet para manter os dados atualizados.|FT07|
-|US24| Eu como __usuário__ desejo __visualizar__ um gráfico com o histórico do peso do meu pet para acompanhar sua evolução.|FT07|
-|US25|Eu como __usuário__ desejo __visualizar__ um gráfico com o histórico do tamanho do meu pet para acompanhar sua evolução.|FT07|
-|US26|Eu como __usuário__ desejo __registrar__ dados sobre as visitas ao __veterinário__ para manter o registro da saúde do pet.|FT08|
-|US27|Eu como __usuário__ desejo __visualizar__ histórico de visitas ao veterinário para me manter informado. |FT08|
-|US28|Eu como __usuário__ desejo __visualizar__ um relátorio sobre a saúde do pet para ter acesso fácil a isso.|FT08|
+
+<!-- Feature medicaentos -->
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 35px; height: 253px; " rowspan="4">Medicamentos</td class="backlog">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>registrar um medicamento</b> para <b>realizar o controle dele</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo adicionar um lembrete</b> para <b>não esquecer o horário da administração do medicamento</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo poder <b>remover o medicamento</b> quando finalizar o seu período de administração para <b>manter o controle da saúde do meu pet atualizado</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>registar quando o medicamento foi dado</b> para <b>manter o histórico atualizado.</b></td class="backlog">
+</tr>
+
+<!-- Feature vacinação -->
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 35px; height: 253px; " rowspan="3">Carteira de vacina</td class="backlog">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>visualizar as vacinas do pet</b> para <b>me informar.</b></td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>registrar as vacinas que o pet tomou</b> para <b>manter o dados atualizados.</b></td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>apagar as vacinas</b> para <b>remover as informações</b>.</td class="backlog">
+</tr>
+
+
+<!-- Feature veterinária -->
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 35px; height: 253px; " rowspan="3">Idas a veterinárias</td class="backlog">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>registrar dados sobre as visitas</b> ao veterinário para <b>manter o registro da saúde do pet</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>visualizar histórico de visitas</b> ao veterinário para me <b>manter informado</b>.</td class="backlog">
+</tr>
+<tr style="height: 23px;">
+    <td class="backlog" style="width: 475px;; height: 23px;">Eu como <b>usuário</b> desejo <b>agendar notificações de retorno</b> a veterinária para que eu possa <b>ser lembrado da futura visita</b>.</td class="backlog">
+</tr>
+</tbody>
+</table>
 
 
 ## 5. Requisitos não funcionais
@@ -120,4 +174,7 @@ Os requisitos não funcionais são aqueles que não interferem diretamente no de
 | RNF09 | A aplicação deve ser rápida |
 | RNF10 | A aplicação deve ter uma interface agradável e simples |
 | RNF11 | A aplicação deve ser confiável em termos de informação |
-| RNF12 | Autenticação de usuário|
+| RNF12 | A aplicação deve realizar autenticação de usuário|
+
+
+### Bibliografia
