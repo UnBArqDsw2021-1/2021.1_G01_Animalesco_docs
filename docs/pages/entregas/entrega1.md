@@ -37,3 +37,13 @@
 ## Iniciativas extras
 
 14. [Manual de Identidade Visual](pages/identidade_visual.md)
+
+## Gravações disponíveis
+
+### Documentos livres de metodologias
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UN5PH8gHxm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Metodologias, processos e abordagens
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aPQiEKWV9fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
