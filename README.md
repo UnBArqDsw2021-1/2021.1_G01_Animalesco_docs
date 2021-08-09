@@ -22,7 +22,21 @@ Repositório para os documentos gerais do grupo Animalesco (Grupo 01)
 Uma aplicação para realizar o controle e acompanhamento para com a saúde dos pets. Os usuários, após se registrarem, podem realizar o cadastro dos seus pets e a partir disso fazer o acompanhamento do bichinho de maneira digital.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/main-page.png'>
+</p>
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/page-1.png'>
+</p>
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/page-2.png'>
+</p>
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/page-3.png'>
+</p>
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione o(s)s vídeo(s) da Primeira Entrega.
