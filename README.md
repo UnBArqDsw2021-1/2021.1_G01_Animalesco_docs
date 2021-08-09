@@ -41,12 +41,19 @@ Uma aplicação para realizar o controle e acompanhamento para com a saúde dos 
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UN5PH8gHxm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<p align='center'>
+    <a href="https://youtu.be/UN5PH8gHxm4" target="_blank">
+        <img src="https://user-images.githubusercontent.com/31013187/128701255-dc6451b7-76ff-45b2-b7c6-04ff6941eb12.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aPQiEKWV9fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<p align='center'>
+    <a href="https://youtu.be/aPQiEKWV9fI" target="_blank">
+        <img src="https://user-images.githubusercontent.com/31013187/128701330-dfb94ec2-ce55-4dd1-abfb-6d5b2b5413b0.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
