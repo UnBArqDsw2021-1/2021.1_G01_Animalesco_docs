@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 12/08/2021 |  0.1   | Criação do documento | Daniela Soares  |
+| 12/08/2021 |  0.2   | Revisão do documento | João Vitor Lopes |
 
 ## 1 Introdução
 <div align="justify">
