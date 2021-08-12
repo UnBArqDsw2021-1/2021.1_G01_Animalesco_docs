@@ -56,7 +56,7 @@ Um pet pode fazer várias visitas ao veterinario assim como em uma visita ao vet
 </div>
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/MER.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/71-EntidadeRelacionamento/docs/assets/images/der.png'>
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Entidade Relacionamento</b>
         <br>
