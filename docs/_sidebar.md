@@ -29,6 +29,7 @@
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
   - [Diagrama de sequência](pages/diagrama-de-sequencia.md)
+  - [Diagrama de pacotes](pages/diagrama-de-pacotes.md)
 
 ---
 
