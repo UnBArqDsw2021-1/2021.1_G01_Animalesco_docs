@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-Segundo o dicionário, classe pode ter diferentes significados como por exemplo: categoria, seção, ordem, grupos ou divisões, mas o que seria classes inseridas no conceito de programação? Ela é uma forma de definir um tipo de dado dentro de linguagens orientadas a objetos, sendo a mesma composta por comportamentos e dados, sendo de suma importância para essas linguagens. Desta forma, existe um diagrama de classes que foi criado pela Unified Modeling Language (UML), a qual a classe é simbolizada por um retângulo, o qual possui entre suas divisões, o nome da classe, os atributos da classe e os metódos da classe.    
+Segundo o dicionário, classe pode ter diferentes significados como por exemplo: categoria, seção, ordem, grupos ou divisões, mas o que seria classes inseridas no conceito de programação? Ela é um modo de determinar um tipo de dado dentro de linguagens orientadas a objetos, sendo a mesma composta por comportamentos e dados, sendo de suma importância para essas linguagens. Desta forma, existe um diagrama de classes que foi criado pela Unified Modeling Language (UML), a qual a classe é simbolizada por um retângulo, o qual possui entre suas divisões, o nome da classe, os atributos da classe e os metódos da classe.    
 
 
 ##  Bibliografia
