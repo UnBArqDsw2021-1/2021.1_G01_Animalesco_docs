@@ -68,8 +68,9 @@ Um pet não pode ter varias alturas, assim como uma altura não pode pertencer a
 
 </div>
 
+
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/71-EntidadeRelacionamento/docs/assets/images/der.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/71-EntidadeRelacionamento/docs/assets/images/mer.png'>
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Entidade Relacionamento</b>
         <br>
