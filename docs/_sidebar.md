@@ -1,6 +1,7 @@
 - [Home](README.md "Animalesco Docs")
 
 - **Produto**
+
   - [Manual de Identidade Visual](pages/identidade_visual.md)
 
 - **Projeto**
@@ -11,6 +12,7 @@
 ---
 
 - **Pré rastreabilidade**
+
   - [Mapa mental](pages/mapa-mental.md)
   - [Rich pictures](pages/rich-pictures.md)
   - [5W2H](pages/5W2H.md)
@@ -18,6 +20,7 @@
   - [Ishikawa](pages/ishikawa.md)
 
 - **Elicitação**
+
   - [Entrevistas](pages/entrevistas.md)
   - [Brainstorming](pages/brainstorming_elicitation.md)
   - [Questionário](pages/questionario.md)
@@ -26,12 +29,12 @@
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
   - [Diagrama de Estados](pages/state-diagram.md)
-
+  - [Diagrama de sequência](pages/diagrama-de-sequencia.md)
 
 ---
 
-
 - **Entregas**
+
   - [Entrega I](pages/entregas/entrega1.md)
 
 - **Sprints**
