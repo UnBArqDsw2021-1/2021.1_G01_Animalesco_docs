@@ -28,6 +28,7 @@
 - **Modelagem**
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
+  - [Diagrama de Estados](pages/state-diagram.md)
   - [Diagrama de sequência](pages/diagrama-de-sequencia.md)
 
 ---
