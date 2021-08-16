@@ -78,6 +78,17 @@ Dentro da gama dos diagramas dinâmicos, destaca-se o **Diagrama de Atividades**
     </figcaption>
 </p>
 
+### 3.6 Visitas ao consultório veterinário
+
+<p align='center'>
+    <img src='../assets/pages/diagrama_de_atividades/consultas_vet-atividades.png'>
+    <figcaption align='center'>
+        <b>Figura 6: Diagrama de atividades - visitas ao consultório veterinário</b>
+        <br>
+        <small>Autor: Hugo Sobral.</small>
+    </figcaption>
+</p>
+
 ## 4. Conclusão
 
 
