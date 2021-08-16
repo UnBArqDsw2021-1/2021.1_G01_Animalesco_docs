@@ -8,6 +8,7 @@
 | 16/08/2021 |  0.3   | Inclusão do diagrama de cadastro de usuários | Hugo Sobral |
 | 16/08/2021 |  0.4   | Inclusão do diagrama de banhos de pets | Hugo Sobral |
 | 16/08/2021 |  0.5   | Inclusão do diagrama de medicação de pets | Hugo Sobral |
+| 16/08/2021 |  0.6   | Inclusão do diagrama de cartão de vacinação de pets | Hugo Sobral |
 
 <div align="justify">
 
@@ -61,6 +62,17 @@ Dentro da gama dos diagramas dinâmicos, destaca-se o **Diagrama de Atividades**
     <img src='../assets/pages/diagrama_de_atividades/controle_medicacao-atividades.png'>
     <figcaption align='center'>
         <b>Figura 4: Diagrama de atividades - controle de medicação do pet</b>
+        <br>
+        <small>Autor: Hugo Sobral.</small>
+    </figcaption>
+</p>
+
+### 3.5 Cartão de vacinação digital do pet
+
+<p align='center'>
+    <img src='../assets/pages/diagrama_de_atividades/cartao_vacinacao-atividades.png'>
+    <figcaption align='center'>
+        <b>Figura 5: Diagrama de atividades - cartão de vacinação digital do pet</b>
         <br>
         <small>Autor: Hugo Sobral.</small>
     </figcaption>
