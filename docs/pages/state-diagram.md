@@ -24,7 +24,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 #### 2.1. Diagrama de Estados de Perfil
 <p align='center'>
-    <img src='https://i.imgur.com/n8ev2sw.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/state-diagram/Diagrama_de_Estados_de_Perfil.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Estados de Perfil</b>
         <br>
@@ -35,7 +35,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 #### 2.2. Digrama de Estados de Banhos de Pet
 <p align='center'>
-    <img src='https://i.imgur.com/WlEwMrr.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/state-diagram/Diagrama_de_Estados_de_Banhos_de_Pet.jpeg'>
     <figcaption align='center'>
         <b>Figura 2: Digrama de Estados de Banhos de Pet</b>
         <br>
@@ -46,7 +46,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 #### 2.3. Diagrama de Estados de Cadastro de Pet
 <p align='center'>
-    <img src='https://i.imgur.com/JnY8lVg.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/state-diagram/Diagrama_de_Estados_de_Cadastro_de_Pets.jpeg'>
     <figcaption align='center'>
         <b>Figura 3: Diagrama de Estados de Cadastro de Pet</b>
         <br>
@@ -57,7 +57,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 #### 2.4. Diagrama de Estados de Medicamentos de Pet
 <p align='center'>
-    <img src='https://i.imgur.com/mnMiqMe.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/state-diagram/Diagrama_de_Estados_de_Medicamentos_de_Pet.jpeg'>
     <figcaption align='center'>
         <b>Figura 4: Diagrama de Estados de Medicamentos de Pet</b>
         <br>
@@ -68,7 +68,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 #### 2.5. Diagrama de Estados de Vacinas
 <p align='center'>
-    <img src='https://i.imgur.com/lcPXenr.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/state-diagram/Diagrama_de_Estados_de_Vacinas_de_Pet.jpeg'>
     <figcaption align='center'>
         <b>Figura 5: Diagrama de Estados de Vacinas</b>
         <br>
@@ -79,7 +79,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 #### 2.6. Diagrama de Estados de Visitas ao Veterinário
 <p align='center'>
-    <img src='https://i.imgur.com/Pg2LxQn.jpg'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/state-diagram/Diagrama_de_Estados_de_Visitas_ao_Veterinário.jpeg'>
     <figcaption align='center'>
         <b>Figura 6: Diagrama de Estados de Visitas ao Veterinário</b>
         <br>
