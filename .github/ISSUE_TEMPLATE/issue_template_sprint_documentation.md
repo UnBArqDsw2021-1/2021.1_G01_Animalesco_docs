@@ -15,11 +15,11 @@ about: Template padrão para documentar as atividades e responsáveis da sprint
 
 ### Tarefas da sprint
 
-| Issue | Responsável | Concluída | Causa |
-| :-    | :-          | :-        | :-    | 
-| #(id da issue) | @(nome do responsável) | | |
-| #(id da issue) | @(nome do responsável) | | |
-| #(id da issue) | @(nome do responsável) | | |
+| Issue | Responsável | Revisor | Concluída | Causa |
+| :-    | :-          | :-      | :-        | :-    | 
+| #(id da issue) | @(nome do responsável) | @(nome do revisor) | | |
+| #(id da issue) | @(nome do responsável) | @(nome do revisor) | | |
+| #(id da issue) | @(nome do responsável) | @(nome do revisor) | | |
 ️
 
 <!-- ✔️✖️⚠️ -->
