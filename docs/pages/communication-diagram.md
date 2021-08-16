@@ -9,8 +9,10 @@
 | 15/08/2021 |  0.3   | Criação do diagrama de comunicação da criação do pet | Leonardo Gomes |
 | 15/08/2021 |  0.4   | Criação do diagrama de comunicação do calendário do pet | Leonardo Gomes |
 | 16/08/2021 |  0.5   | Criação do documento | Leonardo Gomes |
-| 16/08/2021 |  0.6   | Escrita do tópico Introdução | Leonardo Gomes |
-| 16/08/2021 |  0.7   | Escrita do tópico Metodologia | Leonardo Gomes |
+| 16/08/2021 |  0.6   | Adição da Bibliografia | Leonardo Gomes |
+| 16/08/2021 |  0.7   | Escrita do tópico Introdução | Leonardo Gomes |
+| 16/08/2021 |  0.8   | Escrita do tópico Metodologia | Leonardo Gomes |
+| 16/08/2021 |  1.0   | Escrita da conclusão e adição dos diagramas | Leonardo Gomes |
 
 <div align="justify">
 
@@ -70,6 +72,37 @@ Message é representado como uma linha no diagrama de comunicação, possui uma 
     </figcaption>
 </p>
 
+## 3. Diagramas de comunicação
+
+Para a criação desse diagrama foi utilizado [Lucid](https://lucid.app/).
+
+### 3.1 Criação do pet
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/createPet.png'>
+    <figcaption align='center'>
+        <b>Figura 4: Diagrama de comunicação da criação do pet</b>
+        <br>
+        <small>Autor: Leonardo Gomes</small>
+    </figcaption>
+</p>
+
+### 3.2 Calendário do pet
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet.png'>
+    <figcaption align='center'>
+        <b>Figura 5: Diagrama de comunicação do calendário do pet</b>
+        <br>
+        <small>Autor: Leonardo Gomes</small>
+    </figcaption>
+</p>
+
+## 4. Conclusão
+
+Nesse documento podemos ter uma sintese do contexto do sistema sinalizando os principais objetos e sua comunicação.
+
+Com os dois diagramas dinâmicos cirados conseguimos poderemos ter uma maior facilidade e alinhamento em relação ao desenvolvimento, ou seja, tendo impacto diretamente na qualidade do produto.
 
 ## Bibliografia
 
