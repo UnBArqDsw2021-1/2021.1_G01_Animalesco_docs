@@ -7,10 +7,11 @@
 | 14/08/2021 |  0.2   | Escrita do Tópico de introdução | Rafael Leão |
 | 14/08/2021 |  0.3   | Elaboração dos diagramas de Estado | Rafael Leão |
 | 15/08/2021 |  1.0   | Escrita do Tópico de Conclusão | Rafael Leão |
+| 16/08/2021 |  1.1   | Revisão do Documento | Durval Carvalho |
 
 ## Introdução
 
-Um diagrama de estados, por vezes conhecido como diagrama de máquina de estados, é um tipo de diagrama comportamental na Linguagem de modelagem unificada (UML) que mostra transições entre vários objetos.
+Um diagrama de estados, por vezes conhecido como diagrama de máquina de estados, é um tipo de diagrama comportamental na Linguagem de Modelagem Unificada (UML) que mostra transições entre vários objetos.
 
 Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As principais aplicações são as seguintes:
 - Descrever objetos orientados a eventos em um sistema reativo.
