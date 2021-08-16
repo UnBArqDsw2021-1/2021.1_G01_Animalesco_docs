@@ -19,12 +19,23 @@ Dentro da gama dos diagramas dinâmicos, destaca-se o **Diagrama de Atividades**
 
 ## 3. Diagrama de Atividades
 
-### 3.1 Cadastro de pets
+### 3.1 Cadastro de usuário
+
+<p align='center'>
+    <img src='../assets/pages/diagrama_de_atividades/cadastro_de_usuario-atividades.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Diagrama de atividades - cadastro de usuário</b>
+        <br>
+        <small>Autor: Hugo Sobral.</small>
+    </figcaption>
+</p>
+
+### 3.2 Cadastro de pets
 
 <p align='center'>
     <img src='../assets/pages/diagrama_de_atividades/cadastro_de_pet-atividades.png'>
     <figcaption align='center'>
-        <b>Figura 1: Diagrama de atividades - cadastro de pet</b>
+        <b>Figura 2: Diagrama de atividades - cadastro de pet</b>
         <br>
         <small>Autor: Hugo Sobral.</small>
     </figcaption>
