@@ -12,6 +12,7 @@
 | 13/08/2021 |  0.7   | Criação da v1.0 do diagrama de componentes | Durval Carvalho |
 | 13/08/2021 |  0.8   | Escrita do tópico de Introdução e Metodologia | Durval Carvalho |
 | 13/08/2021 |  1.0   | Escrita do tópico de Conclusão | Durval Carvalho |
+| 16/08/2021 |  1.1   | Revisão do Documento | Leonardo Gomes |
 <!-- TODO: Melhor detalhar os  -->
 
 <div align="justify">
