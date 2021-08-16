@@ -29,8 +29,9 @@
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
   - [Diagrama de Estados](pages/state-diagram.md)
-  - [Diagrama de sequência](pages/diagrama-de-sequencia.md)
+  - [Diagrama de Sequência](pages/diagrama-de-sequencia.md)
   - [Diagrama de Componentes](pages/component-diagram.md)
+  - [Diagrama de Comunicação](pages/communication-diagram.md)
 
 ---
 
