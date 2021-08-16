@@ -30,7 +30,6 @@ Representa os banhos registrados no sistema APP Animalesco. A ocorrência da ent
 #### 2.1.4 Entidade MEDICAMENTOS
 Representa os medicamentos registrados no sistema APP Animalesco. A ocorrência da entidade medicamentos terá associado os seguintes atributos: **idMedicamentos**, **nomeMedicamento**, **dataInicio**, **dataFinal**, **perioAplicacao(periodicidadeHoras)**.
 
-
 #### 2.1.5 Entidade CARTEIRAVACINA
 Representa as carteiras de vacinação registradas no sistema APP Animalesco. A ocorrência da entidade carteiraVacina terá associado os seguintes atributos: **idCarteira**,**nomeVacina**, **dataDose**, **dataRepetirDose**.
 
