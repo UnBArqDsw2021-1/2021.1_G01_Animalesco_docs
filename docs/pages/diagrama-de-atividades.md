@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 16/08/2021 |  0.1   | Confecção inicial do documento | Hugo Sobral |
+| 16/08/2021 |  0.2   | Inclusão do diagrama de cadastro de pets | Hugo Sobral |
 
 <div align="justify">
 
@@ -17,6 +18,17 @@ Dentro da gama dos diagramas dinâmicos, destaca-se o **Diagrama de Atividades**
 
 
 ## 3. Diagrama de Atividades
+
+### 3.1 Cadastro de pets
+
+<p align='center'>
+    <img src='../assets/pages/diagrama_de_atividades/cadastro_de_pet-atividades.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Diagrama de atividades - cadastro de pet</b>
+        <br>
+        <small>Autor: Hugo Sobral.</small>
+    </figcaption>
+</p>
 
 
 ## 4. Conclusão
