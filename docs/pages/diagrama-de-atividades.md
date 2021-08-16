@@ -5,6 +5,8 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 16/08/2021 |  0.1   | Confecção inicial do documento | Hugo Sobral |
 | 16/08/2021 |  0.2   | Inclusão do diagrama de cadastro de pets | Hugo Sobral |
+| 16/08/2021 |  0.3   | Inclusão do diagrama de cadastro de usuários | Hugo Sobral |
+| 16/08/2021 |  0.4   | Inclusão do diagrama de banhos de pets | Hugo Sobral |
 
 <div align="justify">
 
@@ -41,6 +43,16 @@ Dentro da gama dos diagramas dinâmicos, destaca-se o **Diagrama de Atividades**
     </figcaption>
 </p>
 
+### 3.3 Banhos do pet
+
+<p align='center'>
+    <img src='../assets/pages/diagrama_de_atividades/banhos-atividades.png'>
+    <figcaption align='center'>
+        <b>Figura 3: Diagrama de atividades - banhos do pet</b>
+        <br>
+        <small>Autor: Hugo Sobral.</small>
+    </figcaption>
+</p>
 
 ## 4. Conclusão
 
