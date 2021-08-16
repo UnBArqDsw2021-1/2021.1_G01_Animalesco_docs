@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            |    Autor(es)    |
 | :--------: | :----: | :------------------: | :-------------: |
 | 14/08/2021 |  0.1   | Criação do documento | Lorrany Souza   |
+| 15/08/2021 |  0.2   | Revisão do documento | Daniela Soares   |
 
 <div align="justify">
 
