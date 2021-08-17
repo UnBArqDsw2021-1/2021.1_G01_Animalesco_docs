@@ -33,6 +33,7 @@
   - [Diagrama de Estados](pages/state-diagram.md)
   - [Diagrama de Componentes](pages/component-diagram.md)
   - [Diagrama de Comunicação](pages/communication-diagram.md)
+  - [Diagrama de Pacotes](pages/diagrama-de-pacotes.md)
 
 ---
 
