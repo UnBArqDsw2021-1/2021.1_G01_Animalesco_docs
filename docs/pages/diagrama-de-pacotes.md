@@ -1,10 +1,12 @@
-# <center> Brainstorming
+# <center> Diagrama de Pacotes
 
 ### Histórico de Versão
 
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 15/08/2021 |  0.1   | Criação do documento | Vinícius Oliveira |
+| 16/08/2021 |  0.2   | Revisão do documento | Hugo              |
+| 16/08/2021 |  0.3   | Ajustes no diagrama  | Vinícius Oliveira |
 
 <div align="justify">
 
@@ -16,7 +18,7 @@ O diagrama de pacotes é uma diagrama usado em UML (Unified Modeling Language), 
 
 O objetivo deste documento é apresentar o digrama de Pacotes do grupo do projeto Animalesco, da discplina Arquitetura e Desenho de Software, onde mostra a estrutura do sistema de software, que descreve os componentes do software, suas interfaces e suas dependências.
 
-## 3. Diagrama de sequência
+## 3. Diagrama de Pacotes
 
 O diagrama foi desenvolvido de acordo com os Framework Node.Js para o BackEnd e React Native para o FrontEnd.
 
@@ -28,6 +30,24 @@ O diagrama foi desenvolvido de acordo com os Framework Node.Js para o BackEnd e 
         <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
     </figcaption>
 </p>
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-pacote/pacote-back.png'>
+    <figcaption align='center'>
+        <b>Figura 2: Diagrama pacote Back-End</b>
+        <br>
+        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
+    </figcaption>
+</p>    
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-pacote/pacote-front.png'>
+    <figcaption align='center'>
+        <b>Figura 3: Diagrama pacote Front-End</b>
+        <br>
+        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
+    </figcaption>
+</p>  
 
 ## 4. Bibliografia
 
