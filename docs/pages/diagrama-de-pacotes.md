@@ -6,7 +6,7 @@
 | :--------: | :----: | :------------------: | :---------------: |
 | 15/08/2021 |  0.1   | Criação do documento | Vinícius Oliveira |
 | 16/08/2021 |  1.0   | Revisão do documento | Hugo Sobral       |
-| 16/08/2021 |  0.3   | Ajustes no diagrama  | Vinícius Oliveira |
+| 16/08/2021 |  1.1   | Ajustes no diagrama  | Vinícius Oliveira |
 
 <div align="justify">
 
