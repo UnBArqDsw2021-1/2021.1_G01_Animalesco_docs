@@ -1,0 +1,9 @@
+version: '3'
+services: 
+  docsify:
+    image: littlstar/docker-docsify
+    volumes:
+      - ./docs:/usr/local/docsify
+    ports:
+      - 3000:3000
+      

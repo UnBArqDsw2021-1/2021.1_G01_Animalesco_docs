@@ -30,6 +30,9 @@
   - [Priorização](pages/priorizacao.md)
   - [Diagrama de sequência](pages/diagrama-de-sequencia.md)
   - [Diagrama de atividades](pages/diagrama-de-atividades.md)
+  - [Diagrama de Estados](pages/state-diagram.md)
+  - [Diagrama de Componentes](pages/component-diagram.md)
+  - [Diagrama de Comunicação](pages/communication-diagram.md)
 
 ---
 
