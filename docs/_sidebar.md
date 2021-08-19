@@ -8,6 +8,7 @@
   - [Plano de riscos](pages/plano-de-riscos.md)
   - [Metodologia do projeto](pages/metodologia-do-projeto.md)
   - [Modelagem BPMN](pages/bpmn.md)
+  - [Configuração do bot das dailies](pages/telegram-daily-bot.md)
 
 ---
 
@@ -28,8 +29,8 @@
 - **Modelagem**
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
-  - [Diagrama de sequência](pages/diagrama-de-sequencia.md)
-  - [Diagrama de atividades](pages/diagrama-de-atividades.md)
+  - [Diagrama de Sequência](pages/diagrama-de-sequencia.md)
+  - [Diagrama de Atividades](pages/diagrama-de-atividades.md)
   - [Diagrama de Estados](pages/state-diagram.md)
   - [Diagrama de Componentes](pages/component-diagram.md)
   - [Diagrama de Comunicação](pages/communication-diagram.md)

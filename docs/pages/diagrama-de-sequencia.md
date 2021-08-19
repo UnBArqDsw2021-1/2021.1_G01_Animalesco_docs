@@ -4,8 +4,8 @@
 
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
-| 15/08/2021 |  0.1   | Criação do documento | João Vitor Farias |
-| 16/08/2021 |  1.0   | Criação do documento | Leonardo Gomes |
+| 15/08/2021 |  1.0   | Criação do documento | João Vitor Farias |
+| 16/08/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 <div align="justify">
 
