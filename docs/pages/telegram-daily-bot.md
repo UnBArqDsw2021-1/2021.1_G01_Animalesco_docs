@@ -7,7 +7,8 @@
 | 16/08/2021 |  0.2   | Definição do uso da plataforma IFTTT | Durval Carvalho |
 | 17/08/2021 |  0.3   | Configuração do Applet escolhido | Durval Carvalho |
 | 17/08/2021 |  0.4   | Teste se a configuração funcionou no horário correto | Durval Carvalho |
-| 18/07/2021 |  1.0   | Criação do documento de relatório | Durval Carvalho |
+| 18/08/2021 |  1.0   | Criação do documento de relatório | Durval Carvalho |
+| 18/08/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 
 <div align="justify">
@@ -16,7 +17,7 @@
 
 Em uma organização que adote abordagens ágeis em seus processos é comum a prática de pequenas reuniões, para que assim seja feito um acompanhamento das atividades realizadas.
 
-No livro SCUM, A arte de fazer o dobro do trabalho na metade do tempo, Jeff Sutherland, denominam essas pequenas reuniões como `Dailies`. Além das reuniões diárias, os autores definem um conjunto de 4 regras que tais reuniões devem atender, sendo elas:
+No livro SCRUM, A arte de fazer o dobro do trabalho na metade do tempo, Jeff Sutherland, denominam essas pequenas reuniões como `Dailies`. Além das reuniões diárias, os autores definem um conjunto de 4 regras que tais reuniões devem atender, sendo elas:
 
 * As reuniões não devem durar mais de 15 minutos.
 * Todos os membros da equipe devem participar

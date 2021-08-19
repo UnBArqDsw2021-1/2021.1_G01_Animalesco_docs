@@ -1,4 +1,4 @@
-# <center> Mapa Mental
+# <center> Entrevistas
 
 #### Histórico de Versão
 |    Data    | Versão | Descrição            |    Autor(es)    |
@@ -8,6 +8,7 @@
 | 03/08/2021 |  0.3   | Revisão do documento e ajuste da bibliografia | Hugo Sobral |
 | 03/08/2021 |  1.0   | Inclusão dos requisitos elicitados a partir das entrevistas | Hugo Sobral |
 | 04/08/2021 |  1.1   | Revisão do documento | Durval Carvalho |
+| 18/08/2021 |  1.2   | Ajuste no título do documento | Leonardo Gomes |
 
 <div align="justify">
 
