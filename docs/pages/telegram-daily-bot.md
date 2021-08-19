@@ -1,4 +1,4 @@
-# <center> Configuração da Daily de Bots
+# <center> Configuração do Bot da Daily
 
 #### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
