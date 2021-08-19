@@ -45,17 +45,17 @@ Representa o altura registrado no sistema APP Animalesco. A ocorrência da entid
 ### 2.2 Relacionamentos
 
 #### 2.2.1 USUARIO - tem – PET
-Um usuário pode ter vários pets, mas um pet não pertencer a vários usuários. **Cardinalidade: n : m**.
+Um usuário pode ter vários pets, mas um pet não pertencer a vários usuários. **Cardinalidade: 1 : n**.
 
 #### 2.2.2 PET - toma – BANHO
 Um pet pode tomar vários banhos, mas um  um banho não  pode limpar vários pets. 
-**Cardinalidade: n : m**.
+**Cardinalidade: 0 : n**.
 
 #### 2.2.3 PET - toma -  MEDICAMENTOS
 Um pet pode tomar vários medicamentos, assim como um medicamento pode pertencer a vários pets. **Cardinalidade: n : m**.
 
 #### 2.2.4 PET - tem – CARTEIRAVACINA
-Um pet pode ter várias carteiras de vacinas mas uma carteira de vacina não pode ter  vários pets. **Cardinalidade: n : m**.
+Um pet pode ter várias carteiras de vacinas mas uma carteira de vacina não pode ter  vários pets. **Cardinalidade: 1 : n**.
 
 #### 2.2.5 PET - faz -  VISITASVETERINARIO
 Um pet pode fazer várias visitas ao veterinario mas uma visita é realizada por apenas um pet. **Cardinalidade: n : m**.
