@@ -6,6 +6,7 @@
 | :--------: | :----: | :------------------: | :---------------: |
 | 12/08/2021 |  0.1   | Criação do documento | Daniela Soares  |
 | 12/08/2021 |  0.2   | Revisão do documento | João Vitor Lopes |
+| 15/08/2021 |  1.0   | Corrigindo documento | Daniela Soares |
 
 ## 1 Introdução
 <div align="justify">
@@ -21,14 +22,13 @@ SISTEMA APP ANIMALESCO – Descrito pelas Entidades USUARIO, PET, BANHO, MEDICAM
 Representa os usuarios que deseja manter no sistema APP Animalesco. A ocorrêcia da entidade usuario terá associado os seguintes atributos: **idUsuario**, **nome**, **email**, **senha**.
 
 #### 2.1.2 Entidade PET
-Representa os pets que deseja manter no sistema APP Animaslesco. A ocorrência da entidade pet terá associado os seguintes atributos: **idPet**, **nome**, **dataNascimento(idade)**, **peso**, **altura**, **especie**, **raca**, **sexo**.
+Representa os pets que deseja manter no sistema APP Animaslesco. A ocorrência da entidade pet terá associado os seguintes atributos: **idPet**, **nome**, **dataNascimento(idade)**, **especie**, **raca**, **sexo**.
 
 #### 2.1.3 Entidade BANHO
 Representa os banhos registrados no sistema APP Animalesco. A ocorrência da entidade banho terá associado os seguintes atributos: **idBanho**,  **dataBanho**, **horaBanho**, **banhoCasa**, **banhoPetShop**.
 
 #### 2.1.4 Entidade MEDICAMENTOS
 Representa os medicamentos registrados no sistema APP Animalesco. A ocorrência da entidade medicamentos terá associado os seguintes atributos: **idMedicamentos**, **nomeMedicamento**, **dataInicio**, **dataFinal**, **perioAplicacao(periodicidadeHoras)**.
-
 
 #### 2.1.5 Entidade CARTEIRAVACINA
 Representa as carteiras de vacinação registradas no sistema APP Animalesco. A ocorrência da entidade carteiraVacina terá associado os seguintes atributos: **idCarteira**,**nomeVacina**, **dataDose**, **dataRepetirDose**.
@@ -39,7 +39,7 @@ Representa as visitas ao veterinario registradas no sistema APP Animalesco. A oc
 #### 2.1.7 Entidade PESO
 Representa o peso registrado no sistema APP Animalesco. A ocorrência da entidade peso terá associado os seguintes atributos: **idPeso**, **idPet**, **pesoPet**, **dataPesagem**.
 
-#### 2.1.8 Entidade PESO
+#### 2.1.8 Entidade ALTURA
 Representa o altura registrado no sistema APP Animalesco. A ocorrência da entidade altura terá associado os seguintes atributos: **idAltura**, **idPet**, **alturaPet**, **dataMedicao**.
 
 ### 2.2 Relacionamentos
