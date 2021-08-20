@@ -58,15 +58,15 @@ A equipe ainda não está utilizando está métrica.
 
 ### O que teve de bom na Sprint 3?
 
-<img src='../../assets/sprints/retrospectiva_positiva_sprint3.png'>
+<img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/4cf174dfa244118c5a3e88ce409a78b825f080cc/docs/assets/sprints/retrospectiva_positiva_sprint3.png'>
 
 ### O que aconteceu na Sprint 3 que podemos melhorar?
 
-<img src='../../assets/sprints/retrospectiva_negativa_sprint3.png'>
+<img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/4cf174dfa244118c5a3e88ce409a78b825f080cc/docs/assets/sprints/retrospectiva_negativa_sprint3.png'>
 
 ### Possíveis planos de ação para os pontos negativos
 
-<img src='../../assets/sprints/retrospectiva_melhoria_sprint3.png'>
+<img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/4cf174dfa244118c5a3e88ce409a78b825f080cc/docs/assets/sprints/retrospectiva_melhoria_sprint3.png'>
 
 
 <br />

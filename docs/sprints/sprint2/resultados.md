@@ -58,15 +58,15 @@ A equipe ainda não está utilizando está métrica.
 
 ### O que teve de bom na Sprint 2?
 
-<img src='../../assets/sprints/retrospectiva_positiva_sprint2.png'>
+<img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/4cf174dfa244118c5a3e88ce409a78b825f080cc/docs/assets/sprints/retrospectiva_positiva_sprint2.png'>
 
 ### O que aconteceu na Sprint 2 que podemos melhorar?
 
-<img src='../../assets/sprints/retrospectiva_negativa_sprint2.png'>
+<img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/4cf174dfa244118c5a3e88ce409a78b825f080cc/docs/assets/sprints/retrospectiva_negativa_sprint2.png'>
 
 ### Possíveis planos de ação para os pontos negativos
 
-<img src='../../assets/sprints/retrospectiva_melhoria_sprint2.png'>
+<img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/4cf174dfa244118c5a3e88ce409a78b825f080cc/docs/assets/sprints/retrospectiva_melhoria_sprint2.png'>
 
 ## Observações
 Durante o desenvolvimento da Sprint 2, houve o empenho de desenvolvimento de uam iniciativa extra para a realização da estilização da Wiki do repositório para que esta se adequasse ao design idealizado pela equipe. Tal tarefa ficou documentada na issue de ["Estilização do github pages"](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues/42) e o responsável por esta foi o Leonardo Gomes.
