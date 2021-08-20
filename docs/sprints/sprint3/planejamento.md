@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 19/08/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 20/08/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 ## Objetivo da sprint
 Esta sprint apresenta como objetivo trazer a tona alguns dos vários diagramas disponíveis por meio da notação de modelagem UML. Dentre os diagramas da sprint, destacam-se diversos que se encaixam tanto no grupo estático quanto no grupo dinâmico. A partir dos diagramas confeccionados, espera-se como resultado que a equipe desenvolva um melhor senso crítico à nível de detalhes de implementação e comportamentais da solução computacional.

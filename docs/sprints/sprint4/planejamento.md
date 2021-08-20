@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 19/08/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 20/08/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 ## Objetivo da sprint
 Esta sprint tem como objetivo realizar a modelagem a nível dos requisitos da aplicação, a partir das noções obtidas por meio das modelagens UML realizadas na sprint anterior.
