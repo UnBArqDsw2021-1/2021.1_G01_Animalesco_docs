@@ -8,7 +8,7 @@
 | 18/08/2021 |  0.2   | Introdução e Objetivo| Vinícius Oliveira |
 | 19/08/2021 |  0.3   | Inclusão do diagrama | Vinícius Oliveira |
 | 20/08/2021 |  0.4   | Melhoria do tópico de introdução | Durval Carvalho |
-| 20/08/2021 |  0.4   | Melhoria do tópico de Objetivo | Durval Carvalho |
+| 20/08/2021 |  1.0   | Melhoria do tópico de Objetivo | Durval Carvalho |
 
 <div align="justify">
 
