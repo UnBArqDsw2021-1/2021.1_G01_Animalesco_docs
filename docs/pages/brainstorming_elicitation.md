@@ -7,6 +7,7 @@
 | 30/07/2021 |  0.2   | Criação da Metologia e Introdução | Leonardo Gomes e Durval Carvalho  |
 | 03/08/2021 |  1.0   | Descrição do Brainstorm e requisitos elicitados | Leonardo Gomes  |
 | 03/08/2021 |  1.1   | Revisão do documento | Hugo Sobral |
+| 19/08/2021 |  1.2   | Melhoria da escrita dos requisitos | Durval Carvalho |
 
 <div align="justify">
 
@@ -14,7 +15,7 @@
 
 O ***Brainstorming*** é uma técnica feita em equipe que busca explorar a criatividade e o compartilhamento de ideias para resolver problemas ou dar vida a vários questionamentos. O ***Brainstorming*** também cobiça o fornecimento, de maneira ágil, de respostas a perguntas que não podem ser facilmente sanadas em um cenário individualista.[1]
 
-Uma das peças fundamentais para a criação do ***Brainstorming*** é a velocidade com a qual as ideias são expostas e, assim, surge um dos pilares fundamentais para a plena execução da técnica: um ambiente livre de julgamentos e críticas a fluxos de raciocínio. Este se trata de um dos pialeres fundamentais visto que, caso a técnica seja feita de maneira descontraída e informal, esta pode gerar melhores ideias sobre a aplicação e visões de projeto coerentes e concisas.
+Uma das peças fundamentais para a criação do ***Brainstorming*** é a velocidade com a qual as ideias são expostas e, assim, surge um dos pilares fundamentais para a plena execução da técnica: um ambiente livre de julgamentos e críticas a fluxos de raciocínio. Este se trata de um dos pilares fundamentais visto que, caso a técnica seja feita de maneira descontraída e informal, esta pode gerar melhores ideias sobre a aplicação e visões de projeto coerentes e concisas.
 
 
 ## 2. Metodologia
@@ -64,7 +65,7 @@ Esse tópico apresenta as informações e resultados acerca de cada um dos quadr
 - Controle de altura do animal
 - Controle de banhos (agenda, lembrete, histórico)
 
-### 3.2 Quais animais a aplicação deveria abordar? 
+### 3.2 Quais animais a aplicação deveria abordar?
 
 <p align='center'>
   <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/brainstorming/animais.jpg'>
@@ -173,42 +174,42 @@ O aplicativo não deve apresentar:
 
 | ID | Nome |
 | :-: | :-: |
-| RF01 | Login |
-| RF02 | Cadastro |
+| RF01 | Realizar Login dos Usuários Cadastradps |
+| RF02 | Cadastrar Usuários |
 | RF03 | Registrar animal |
 | RF04 | Editar informações do animal |
-| RF05 | Calendário |
-| RF06 | Agendar vacina |
-| RF07 | Remover vacina da agenda |
+| RF05 | Mostrar calendário com todos os eventos de um certo período |
+| RF06 | Agendar eventos de vacinação |
+| RF07 | Remover eventos de vacinação |
 | RF08 | Adicionar lembrete de medicação |
 | RF09 | Remover lembrete de medicação |
 | RF10 | Agendar banho |
 | RF11 | Remover banho da agenda |
-| RF12 | Registro ida ao veterinário |
-| RF13 | Registro do peso do animal |
-| RF14 | Registro da altura do animal |
-| RF15 | Gráfico relacionado a altura do animal |
-| RF16 | Gráfico relacionado ao peso do animal |
-| RF17 | Histórico de vacinas |
-| RF18 | Histórico de medicação |
-| RF19 | Histórico de banho |
+| RF12 | Registrar ida ao veterinário |
+| RF13 | Registrar peso do peso do animal |
+| RF14 | Registrar a altura do animal |
+| RF15 | Mostrar gráfico do crescimento do animal (altura) |
+| RF16 | Mostrar gráfico da variação do peso do animal |
+| RF17 | Mostrar histórico de vacinas tomadas |
+| RF18 | Mostrar histórico de medicação tomadas |
+| RF19 | Mostrar histórico de banho tomados |
 | RF20 | Gerar relatório sobre a saúde do animal |
 
 ### 4.2 Requisitos não funcionais
 
 | ID | Nome |
 | :-: | :-: |
-| RNF01 | Interface fácil e intuitiva |
-| RNF02 | Interface bonita |
-| RNF03 | Leve |
-| RNF04 | Seguro |
-| RNF05 | Rápido |
-| RNF06 | Gratuito |
-| RNF07 | Disponivel a todo momento |
-| RNF08 | Compatibilidade com Android |
-| RNF09 | Compatibilidade com IOS |
-| RNF10 | Compatibilidade com Windows phone |
-| RNF11 | Compatibilidade com qualquer navegador WEB |
+| RNF01 | A interface deve intuitiva e de rápido aprendizado |
+| RNF02 | A interface deve ser bonita |
+| RNF03 | O aplicativo deve ser leve, para que assim funcione em smartphones com 8GB de armazenamento |
+| RNF04 | O aplicativo deve ser seguro, e as informações dos usuários devem ser anonimadas e criptografadas |
+| RNF05 | O aplicativo deve ser rápido para realizar as requisições do usuário |
+| RNF06 | O aplicativo deve ser gratuíto |
+| RNF07 | O aplicativo deve está disponível para uso a maior parte do tempo |
+| RNF08 | O aplicativo deve ser compatível com a plataforma Sistema Operacional Android |
+| RNF09 | O aplicativo deve ser compatível com a plataforma Sistema Operacional IOS |
+| RNF10 | O aplicativo deve ser compatível com a plataforma Sistema Operacional Windows Phone |
+| RNF11 | O aplicativo deve ser compatível com as versões mais recentes dos principais navegadores web (Chrome, Safari e Firefox) |
 
 ## Gravações Disponíveis
 
