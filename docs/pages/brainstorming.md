@@ -89,7 +89,11 @@ Após a definição do tema do projeto e o uso das principais aplicações com t
 
 Para isso, no dia 21 de julho de 2021, foi criado um documento *google docs*, onde todos os integrantes do grupo poderia rapidamente acrescentar novas funcionalidades na lista e também conseguiria visualizar as contribuições dos demais integrantes em tempo real.
 
-O documento criado está acessível no [link](assets/pages/brainstorming/definicao-de-tema-desenho.pdf).
+O documento criado está acessível no <a target="_blank" href="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/pages/brainstorming/definicao-de-tema-desenho.pdf"> link. </a>
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/main-page.png'>
+</p>
 
 O resultado desse Brainstorming foi a seguinte lista de funcionalidades:
 
