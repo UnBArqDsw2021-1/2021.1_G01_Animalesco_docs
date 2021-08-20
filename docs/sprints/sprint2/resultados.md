@@ -44,7 +44,7 @@ Não houveram dívidas técnicas durante essa sprint.
 ## Métricas da sprint
 
 ### Quadro de conhecimento
-O quadro de conhecimento ainda não foi implementado para a sprint 1
+O quadro de conhecimento ainda não foi implementado para a sprint 2
 
 ### Burndown
 A equipe ainda não está utilizando esta métrica.

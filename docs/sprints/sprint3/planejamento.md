@@ -1,6 +1,6 @@
 # <center> Planejamento sprint 3
 > Período: 09/08/2021 até 16/08/2021  
-> Data da reunião: 16/08/2021
+> Data da reunião: 09/08/2021
 
 <br/>
 
@@ -34,7 +34,7 @@ Esta sprint apresenta como objetivo trazer a tona alguns dos vários diagramas d
 | [#72](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues/72) | Documentação dos resultados da sprint 2 e planejamento da sprint 3 | 2 | Hugo Sobral | Revisor em aberto |
 
 
-#### Pontuação da sprint: 53
+#### Pontuação da sprint: 55
 
 <br/>
 
