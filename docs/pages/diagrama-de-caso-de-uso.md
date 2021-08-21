@@ -49,7 +49,7 @@ O presente documento tem como objetivo demostrar os casos de uso do aplicativo a
 | UC11 | [Registrar visita ao veterinário](casos-de-uso/UC11.md)|
 | UC12 | [Adicionar lembrete](casos-de-uso/UC12.md)|
 
-## 4. Bibliografia
+## 5. Bibliografia
 
 1. UML Use Case Diagrams. **UML Diagrams**. Disponível em: https://www.uml-diagrams.org/use-case-diagrams.html (último acesso em 18/08/2021)
 2. VENTURA, Plínio. Caso de Uso - Include, Extend e Generalização. **Até o Momento**, 2021. Disponível em: https://www.ateomomento.com.br/caso-de-uso-include-extend-e-generalizacao/ (último acesso em 18/08/2021)
