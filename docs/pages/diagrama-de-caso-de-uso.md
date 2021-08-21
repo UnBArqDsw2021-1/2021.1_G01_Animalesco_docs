@@ -17,7 +17,7 @@
 
 O diagrama de caso de uso é um diagrama da linguagem de modelagem unificada(UML), que tem como intuito representar de forma resumida as interações dos usuários com o sistema. Como ele é uma forma de representação resumida, os especifialistas recomendam fazer o uso dele juntamente com caso de uso retratados de forma de texto, sendo assim uma forma de completar o mesmo. 
 
-## 2. Ojetivo
+## 2. Objetivo
 
 O presente documento tem como objetivo demostrar os casos de uso do aplicativo animalesco. Sendo o mesmo representado por meio do diagrama de caso de uso, que é composto por atores, associações e casos de uso. Além disso, os casos de uso também é representado de forma descrita em texto, complementando o diagrama, como o recomendado por especialista.    
 
