@@ -11,10 +11,6 @@
 | 21/08/2021 |  0.5   | Criação da introdução | Lorrany Oliveira |
 | 21/08/2021 |  0.6   | Criação dos objetivos | Lorrany Oliveira |
 
-
-
-
-
 <div align="justify">
 
 ## 1. Introdução
