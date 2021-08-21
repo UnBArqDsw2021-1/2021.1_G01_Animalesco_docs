@@ -7,10 +7,16 @@
 | 17/08/2021 |  0.1   |        Criação do documento        | João Vitor Farias |
 | 18/08/2021 |  0.2   | Adição do diagrama de caso de uso  | João Vitor Farias |
 | 20/08/2021 |  0.3   | Especificação do UC01, UC02 e UC03 | João Vitor Farias |
+| 21/08/2021 |  0.4   | Especificação do UC07, UC08,UC09, UC10, UC11 e UC12 | Lorrany Oliveira  |
+
 
 <div align="justify">
 
 ## 1. Introdução
+
+
+
+
 
 ## 2. Diagrama de caso de uso
 
@@ -33,12 +39,12 @@
 | UC04 | Visualizar perfil usuário                 |
 | UC05 | Cadastrar pet                             |
 | UC06 | Visualizar pefil pet                      |
-| UC07 | Registrar medidas                         |
-| UC08 | Registrar banho                           |
-| UC09 | Controlar medicamento                     |
-| UC10 | Visualizar vacinas                        |
-| UC11 | Registrar visita ao veterinário           |
-| UC12 | Adicionar lembrete                        |
+| UC07 | [Registrar medidas](casos-de-uso/UC07.md) |
+| UC08 | [Registrar banho](casos-de-uso/UC08.md)   |
+| UC09 | [Controlar medicamento](casos-de-uso/UC09.md)|
+| UC10 | [Visualizar vacinas](casos-de-uso/UC10.md)|
+| UC11 | [Registrar visita ao veterinário](casos-de-uso/UC11.md)|
+| UC12 | [Adicionar lembrete](casos-de-uso/UC12.md)|
 
 ## 4. Bibliografia
 
