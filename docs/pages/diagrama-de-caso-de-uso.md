@@ -29,7 +29,7 @@
 | ---- | ----------------------------------------- |
 | UC01 | [Cadastrar usuário](casos-de-uso/UC01.md) |
 | UC02 | [Realizar login](casos-de-uso/UC02.md)    |
-| UC03 | Recuperar senha                           |
+| UC03 | [Recuperar senha](casos-de-uso/UC03.md)   |
 | UC04 | Visualizar perfil usuário                 |
 | UC05 | Cadastrar pet                             |
 | UC06 | Visualizar pefil pet                      |
