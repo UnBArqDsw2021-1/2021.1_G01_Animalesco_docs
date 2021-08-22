@@ -41,7 +41,7 @@ O presente documento tem como objetivo demostrar os casos de uso do aplicativo a
 | UC02 | [Realizar login](casos-de-uso/UC02.md)                  |
 | UC03 | [Recuperar senha](casos-de-uso/UC03.md)                 |
 | UC04 | [Visualizar perfil usuário](casos-de-uso/UC04.md)       |
-| UC05 | Cadastrar pet                                           |
+| UC05 | [Cadastrar pet](casos-de-uso/UC05.md)                   |
 | UC06 | Visualizar pefil pet                                    |
 | UC07 | [Registrar medidas](casos-de-uso/UC07.md)               |
 | UC08 | [Registrar banho](casos-de-uso/UC08.md)                 |
