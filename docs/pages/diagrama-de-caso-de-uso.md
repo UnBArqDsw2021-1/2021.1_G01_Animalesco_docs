@@ -11,16 +11,17 @@
 | 21/08/2021 |  0.5   |                Criação da introdução                 | Lorrany Oliveira  |
 | 21/08/2021 |  0.6   |                Criação dos objetivos                 | Lorrany Oliveira  |
 | 22/08/2021 |  0.7   |          Especificação do UC04, UC05 e UC06          | João Vitor Farias |
+| 22/08/2021 |  0.8   |               Atualização do documento               | João Vitor Farias |
 
 <div align="justify">
 
 ## 1. Introdução
 
-O diagrama de caso de uso é um diagrama da linguagem de modelagem unificada(UML), que tem como intuito representar de forma resumida as interações dos usuários com o sistema. Como ele é uma forma de representação resumida, os especifialistas recomendam fazer o uso dele juntamente com caso de uso retratados de forma de texto, sendo assim uma forma de completar o mesmo.
+O diagrama de caso de uso é um diagrama da linguagem de modelagem unificada (UML), que tem como intuito representar de forma resumida as interações dos usuários com o sistema. Como ele é uma forma de representação resumida, os especifialistas recomendam fazer o uso dele juntamente com caso de uso retratados de forma de texto, sendo assim uma forma de complementar o mesmo.
 
 ## 2. Objetivo
 
-O presente documento tem como objetivo demostrar os casos de uso do aplicativo animalesco. Sendo o mesmo representado por meio do diagrama de caso de uso, que é composto por atores, associações e casos de uso. Além disso, os casos de uso também é representado de forma descrita em texto, complementando o diagrama, como o recomendado por especialista.
+O presente documento tem como objetivo demostrar os casos de uso do aplicativo animalesco. Sendo o mesmo representado por meio do diagrama de caso de uso, que é composto por atores, associações e casos de uso. Além disso, os casos de uso também são descritos em forma de texto, de modo a complementar o diagrama.
 
 ## 3. Diagrama de caso de uso
 
