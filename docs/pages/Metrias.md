@@ -16,7 +16,7 @@ O grupo 1 utilizou o zenHub para configura e medir a velocidade média de trabal
 Quando estiver se preparando para um sprint, você adicionará seus problemas estimados e solicitações de pull para um Milestone. Você pode dar ao Milestone um nome descritivo e não se esqueça de definir uma data de início e uma data de término! A maioria das equipes escolhe duas ou quatro semanas.
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/milestone.png'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/84-DescricaoMetricas/docs/assets/pages/m%C3%A9tricas/milestone.png?raw=true'>
 
 </p> 
 
@@ -25,7 +25,7 @@ Depois de concluir alguns sprints, você terá alguns dados históricos em seus 
 O ZenHub exibirá automaticamente até sete marcos recentes, além dos marcos atuais. Passe o mouse sobre cada barra para ver mais detalhes. A linha azul denota o número médio de pontos da história (estimativas) fechados em cada Marco - os pontos da história abertos não contam para esse total.
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/velocity.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/84-DescricaoMetricas/docs/assets/pages/m%C3%A9tricas/velocity.png'>
 
 </p> 
 
@@ -34,7 +34,7 @@ O ZenHub exibirá automaticamente até sete marcos recentes, além dos marcos at
 Outra métrica que a equipe abordou foi o Burndown. Ele é um grafico que mostra também como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto.
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/burndown.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/84-DescricaoMetricas/docs/assets/pages/m%C3%A9tricas/burndown.png'>
 
 </p> 
 No gráfico de Brurndown, temos dois eixos: o eixo horizontal X, que representa o tempo de um sprint, e o eixo Y, que representa o esforço necessário para completar o sprint, geralmente medido no Scrum como Story Points (pontos de histórias).
