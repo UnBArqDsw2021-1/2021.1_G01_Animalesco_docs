@@ -1,6 +1,6 @@
 # <center> Planejamento sprint 2
 > Período: 02/08/2021 até 08/08/2021  
-> Data da reunião: 02/00/2021
+> Data da reunião: 02/08/2021
 
 <br/>
 

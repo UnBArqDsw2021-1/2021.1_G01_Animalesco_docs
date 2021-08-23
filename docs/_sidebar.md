@@ -49,3 +49,9 @@
     - [Resultados](sprints/sprint1/resultados.md)
   - Sprint 2
     - [Planejamento](sprints/sprint2/planejamento.md)
+    - [Resultados](sprints/sprint2/resultados.md)
+  - Sprint 3
+    - [Planejamento](sprints/sprint3/planejamento.md)
+    - [Resultados](sprints/sprint3/resultados.md)
+  - Sprint 4
+    - [Planejamento](sprints/sprint4/planejamento.md)
