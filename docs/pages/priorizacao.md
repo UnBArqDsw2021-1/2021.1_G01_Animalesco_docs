@@ -9,6 +9,7 @@
 | 05/08/2021 |  0.3   | Priorização dos requisitos | Lorrany Oliveira e Daniela Soares  |
 | 05/08/2021 |  1.0   | Ajuste no histórico de versão e Revisão do documento | Leonardo Gomes  |
 | 06/08/2021 |  1.1   | Revisão do documento | Hugo Sobral |
+| 22/08/2021 |  1.2   | Adição da priorização de novas user stories | Hugo Sobral e Leonardo Gomes |
 
 <div align="justify">
 
@@ -45,9 +46,9 @@ O presente documento tem como objetivo a demostração do resultado da aplicaç�
 |  Épico  | Feature |  ID   |   Eu como    |   Desejo  |   Para   | Prioridade  |
 | :-----: | :----:  |:-----:| :----------: | :-------: |:--------:| :---------: |
 |  EP01   |  FT01   | US01  |   usuário    |   poder realizar o cadastro | ter acesso a aplicação    |   Must    |
-|  EP01   |  FT01   | US02  |   usuário    |   apagar meus dados  |   remover o perfil   |   Should   |
-|  EP01   |  FT01   | US03  |   usuário    |   alterar meus dados | manter o perfil atualizado      |   Should      |
-|  EP01   |  FT01   | US04  |   usuário    |   poder realizar login  |    acessar a aplicação   | Must  |
+|  EP01   |  FT01   | US02  |   usuário    |   alterar meus dados | manter o perfil atualizado      |   Should      |
+|  EP01   |  FT01   | US03  |   usuário    |   poder realizar login  |    acessar a aplicação   | Must  |
+|  EP01   |  FT01   | US04  |   usuário    |   apagar meus dados  |   remover o perfil   |   Should   |
 |  EP01   |  FT01   | US05  |   usuário    |   resgatar a senha  |   realizar o login   |  Should  |
 |  EP02   |  FT02   | US06  |   usuário    |   poder cadastrar meu(s) pet(s) na aplicação  |   realizar o controle das informaçoẽs dele(s)   | Must  |
 |  EP02   |  FT02   | US07  |   usuário    |   poder alterar os dados do(s) meu(s) pet(s)  |   manter o(s) perfil(is) atualizado(s)   | Must  |
@@ -57,15 +58,17 @@ O presente documento tem como objetivo a demostração do resultado da aplicaç�
 |  EP02   |  FT03   | US11  |   usuário    |   adicionar lembrete sobre o(s) banho(s)  |    não esquecer dele(s)   |  Should  |
 |  EP02   |  FT03   | US12  |   usuário    |   deletar o(s) banho(s) do(s) pet(s)  |   remover a(s) informação(ões)   |  Could  |
 |  EP02   |  FT04   | US13  |   usuário    |   registrar um medicamento  |   realizar o controle dele   | Must  |
-|  EP02   |  FT04   | US14  |   usuário    |   adicionar um lembrete  |   não esquecer o horário da administração do medicamento   | Must  |
-|  EP02   |  FT04   | US15  |   usuário    |   poder remover o medicamento  |   quando finalizar o seu período de administração   | Must  |
-|  EP02   |  FT04   | US16  |   usuário    |   registar quando o medicamento foi dado  |   manter o histórico atualizado   | Must  |
-|  EP02   |  FT05   | US17  |   usuário    |   visualizar as vacinas do pet  |   me informar   | Must  |
-|  EP02   |  FT05   | US18  |   usuário    |   registrar as vacinas que o pet tomau  |   manter o dados atualizados   | Must  |
-|  EP02   |  FT05   | US19  |   usuário    |   apagar as vacinas  |   remover as informações   | Should  |
-|  EP02   |  FT06   | US20  |   usuário    |   registrar dados sobre as visitas ao veterinário  |   manter o registro da saúde do pet   | Must  |
-|  EP02   |  FT06   | US21  |   usuário    |   visualizar histórico de visitas ao veterinário  |   me manter informado   | Must  |
-|  EP02   |  FT06   | US22  |   usuário    |   agendar notificações de retorno  |   ser lembrado da futura visita   | Must  |
+|  EP02   |  FT04   | US14  |   usuário    |   registrar quando o medicamento foi dado | para manter o histórico atualizado | Must  |
+|  EP02   |  FT04   | US15  |   usuário    |   adicionar um lembrete  |   não esquecer o horário da administração do medicamento   | Must  |
+|  EP02   |  FT04   | US16  |   usuário    |   poder remover o medicamento  |   quando finalizar o seu período de administração   | Must  |
+|  EP02   |  FT04   | US17  |   usuário    |   remover uma dose de medicação registrada  |   manter o controle da saúde do meu pet atualizado   | Could  |
+|  EP02   |  FT04   | US18  |   usuário    |   acessar o histórico de medicações do meu pet para realizar o acompanhamento  | com a saúde do meu pet | Must  |
+|  EP02   |  FT05   | US19  |   usuário    |   registrar as vacinas que o pet tomau  |   manter o dados atualizados   | Must  |
+|  EP02   |  FT05   | US20  |   usuário    |   visualizar as vacinas do pet  |   me informar   | Must  |
+|  EP02   |  FT05   | US21  |   usuário    |   apagar as vacinas  |   remover as informações   | Should  |
+|  EP02   |  FT06   | US22  |   usuário    |   registrar dados sobre as visitas ao veterinário  |   manter o registro da saúde do pet   | Must  |
+|  EP02   |  FT06   | US23  |   usuário    |   visualizar histórico de visitas ao veterinário  |   me manter informado   | Must  |
+|  EP02   |  FT06   | US24  |   usuário    |   agendar notificações de retorno  |   ser lembrado da futura visita   | Must  |
 
 ## Bibliografia
 
