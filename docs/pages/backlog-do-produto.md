@@ -1,4 +1,4 @@
-# Backlog do produto
+# <center> Backlog do produto
 
 ## Histórico de versão
 
@@ -11,21 +11,22 @@
 | 05/08/2021 | 1.1 | Revisão do documento | Leonardo Gomes |
 | 22/08/2021 | 1.2 | Refatoração da introdução | Hugo Sobral e Leonardo Gomes |
 | 22/08/2021 | 1.3 | Adição do tema e das tasks no backlog | Hugo Sobral e Leonardo Gomes |
-| 22/08/2021 | 1.4 | refatoração de histórias de usuário | Hugo Sobral e Leonardo Gomes |
+| 22/08/2021 | 1.4 | Refatoração de histórias de usuário | Hugo Sobral e Leonardo Gomes |
+| 23/08/2021 | 2.0 | Revisão final do documento | Durval Carvalho |
 
 ## 1. Introdução
-O _backlog do produto_, tradução livre de _product backlog_, é um artefato descrito pela metodologia Scrum que consiste em uma lista de tarefas que descrevem as funcionalidades e comportamentos que são esperados do produto quando este alcança a conjuntura de conclusão. O _backlog do produto_ se organiza de maneira a separar as atividades por diferentes granularidades, estas são:
-- Theme;
-- Epics;
-- Features;
-- User stories;
-- Tasks.
+O _backlog do produto_, tradução livre de _product backlog_, é um artefato descrito pela metodologia SCRUM que consiste em uma lista de tarefas que descrevem as funcionalidades e comportamentos que são esperados do produto quando este alcança a conjuntura de conclusão. O _backlog do produto_ se organiza de maneira a separar as atividades por diferentes granularidades, sendo elas:
+- _Theme_ (Temas);
+- _Epics_ (Épicos);
+- _Features_ (Funcionalidade);
+- _User stories_ (História de usuários);
+- _Tasks_ (Tarefas).
 
-Os _Themes_, também denotados como _Investment Themes_, são a granularidade mais alta de um backlog. Os themes estabelecem a relação direta entre o investimento; de esforço, financeiro ou de recursos; e os objetivos do projeto. Isto é, os themes ficam responsáveis por guiar a visão dos epics, das features e do restante da granularidade do produto. Em linhas gerais, os themes descrevem a visão do produto, estes representam os princípios que agregam valor à aplicação.
+Os _Themes_, também denotados como _Investment Themes_, são a granularidade mais alta de um backlog. Os _themes_ estabelecem a relação direta entre o investimento; de esforço, financeiro ou de recursos; e os objetivos do projeto. Isto é, os _themes_ ficam responsáveis por guiar a visão dos _epics_, das _features_ e do restante da granularidade do produto. Em linhas gerais, os _themes_ descrevem a visão do produto, estes representam os princípios que agregam valor à aplicação.
 
-Os _epics_ são as estruturas mais complexas a termos de granularidade de um backlog. Os epics abrigam um conjunto de _features_.
+Os _epics_ são as estruturas mais complexas a termos de granularidade de um backlog. Os _epics_ abrigam um conjunto de _features_.
 
-As _features_, por sua vez, descrevem um conjunto de funcionalidades e requisitos não funcionam para o projeto. Uma _feature_ agrupa um conjunto de _user stories_. Ao se realizar uma analogia à termos computacionais, temos que as _features_ são quase como componentes de um módulo; para este caso fictício, os módulos seriam definidos como os _epics_; que podem ser dividos em estruturas atômicas. 
+As _features_, por sua vez, descrevem um conjunto de funcionalidades e requisitos não funcionam para o projeto. Uma _feature_ agrupa um conjunto de _user stories_. Ao se realizar uma analogia à termos computacionais, temos que as _features_ são quase como componentes de um módulo; para este caso fictício, os módulos seriam definidos como os _epics_; que podem ser divididos em estruturas atômicas.
 
 Já as _user stories_ definem pedaços atômicos de funcionalidades. São as _user stories_ que guiam a delegação de tarefas para as sprints do projeto (o conceito de sprints e o processo de delegação de tarefas foi descrito no [documento de metodologia](pages/metodologia-do-projeto.md)).
 
@@ -36,7 +37,7 @@ As _tasks_ são a granularidade de mais baixo nível de um backlog. Estas descre
 
 A partir das técnicas de elicitação realizadas pela equipe, foi possível realizar o mapeamento dos requisitos funcionais e não funcionais do projeto. Os insumos levantados pelas técnicas de [brainstorming](/pages/brainstorming.md), [questionário](/pages/questionario.md) e [entrevistas](/pages/entrevistas.md) foram a base para a identificação das necessidades do Animalesco como solução computacional.
 
-Desta forma, foram realizados encontros em equipe para a identificação destes requisitos e devida tradução para o formato do _backlog do produto_, isto é, a escrita das necessidades do projeto de acordo com a granularização descrita pelo artefado de backlog.
+Desta forma, foram realizados encontros em equipe para a identificação destes requisitos e devida tradução para o formato do _backlog do produto_, isto é, a escrita das necessidades do projeto de acordo com a granularização descrita pelo artefato de backlog.
 
 ## 3. Objetivo
 
@@ -44,7 +45,7 @@ Este documento tem como objetivo a identificação e devido agrupamento dos requ
 
 ## 4. Requisitos funcionais
 
-Os requisitos funcionais foram descritos por meio de uma tabela que os classifica em epics, features e user stories.
+Os requisitos funcionais foram descritos por meio de uma tabela que os classifica em _epics_, features e user stories.
 
 Vale ressaltar que as user stories seguem o padrão de papel-ação-valor:
 
@@ -71,11 +72,11 @@ table, td.backlog{
 <tbody>
 <!-- Cabeçalho -->
 <tr style="height: 43px; background-color:white">
-    <td class="backlog" style="width: 10px; height: 43px;">Theme</td class="backlog">
-    <td class="backlog" style="width: 10px; height: 43px;">Epics</td class="backlog">
-    <td class="backlog" style="width: 10px; height: 43px;">Features</td class="backlog">
-    <td class="backlog" style="width: 475px; height: 43px;">User stories</td class="backlog">
-    <td class="backlog" style="width: 475px; height: 43px;">Tasks</td class="backlog">
+    <td class="backlog" style="width: 10px; text-align: center; font-weight: bold; height: 43px;">Theme</td class="backlog">
+    <td class="backlog" style="width: 10px;  text-align: center; font-weight: bold; height: 43px;">Epics</td class="backlog">
+    <td class="backlog" style="width: 10px;  text-align: center; font-weight: bold; height: 43px;">Features</td class="backlog">
+    <td class="backlog" style="width: 475px;  text-align: center; font-weight: bold; height: 43px;">User stories</td class="backlog">
+    <td class="backlog" style="width: 475px;  text-align: center; font-weight: bold; height: 43px;">Tasks</td class="backlog">
 </tr>
 
 <!-- Epic usuário -->
@@ -404,14 +405,14 @@ Os requisitos não funcionais são aqueles que não interferem diretamente no de
 | RNF09 | A aplicação deve ser rápida |
 | RNF10 | A aplicação deve ter uma interface agradável e simples |
 | RNF11 | A aplicação deve ser confiável em termos de informação |
-| RNF12 | A aplicação deve realizar autenticação de usuário|
+| RNF12 | A aplicação deve realizar autenticação de usuário |
 
 
 ### Bibliografia
 
 1. Como fazer o Product Backlog. **Project Builder**, 2017. Disponível em: https://www.projectbuilder.com.br/blog/como-fazer-o-product-backlog/ (último acesso em 05/08/2021)
-2. VENTURA, Plínio. Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). **Até o Momento**, 2021. Disponível em https://www.ateomomento.com.br/epic-feature-e-user-story/ (último acesso em 05/08/2021)
+2. VENTURA, Plínio. Epic, Feature e User Story (Épico, Funcionalidade e História de Usuário). **Até o Momento**, 2021. Disponível em https://www.ateomomento.com.br/epic-feature-e-user-story/ (último acesso em 05/08/2021)
 3. SCRUM, Metodologia Ágil. Disponível em: https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)#Product_Backlog (Último acesso em 05/08/2021)
 4. Backlog do Produto. **Stock**. Disponível em: https://unbarqdsw.github.io/2020.1_G12_Stock/#/Modeling/Backlog (Último acesso em 05/08/2021)
-5. LEFFINGWELL, D. _Agile Software Requirements_: Lean Requirements Practives for Teams, Programs, and the Enterprise. Addison-Wesley Professional, 2011.
+5. LEFFINGWELL, D. _Agile Software Requirements_: Lean Requirements Practices for Teams, Programs, and the Enterprise. Addison-Wesley Professional, 2011.
 6. Product Backlog V3. **Requisitos Habitica**. Disponível em: https://requisitos-habitica.netlify.app/BacklogV3 (Último acesso em 05/08/2021)
