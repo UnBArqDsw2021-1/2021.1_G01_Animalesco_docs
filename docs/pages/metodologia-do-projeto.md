@@ -5,6 +5,10 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 02/08/2021 |  0.1   | Criação do documento | Durval Carvalho |
 | 04/08/2021 |  1.0   | Revisão e reestruturação do documento | Hugo Sobral |
+| 19/08/2021 |  1.1   | Pesquisa das ferramentas de métricas | Daniela Soares |
+| 20/08/2021 |  1.2   | Criação do tópico Métricas| Daniela Soares |
+| 22/08/2021 |  1.3   | Elaboração do tópico Métricas| Daniela Soares |
+| 23/08/2021 |  2.0   | Revisão do documento | Durval Carvalho |
 
 <div align="justify">
 
@@ -26,18 +30,18 @@ Todas as metodologias adotadas durante esse projeto tem relação com dois princ
 >
 > -- <cite> Manifesto Ágil [1] </cite>
 
-A partir de decisões tomadas em conjunto e com base nestes princípios, foram utilizado partes de várias metodologias já conhecidas como Scrum e XP. Estas estruturas atômicas foram utilizadas em conjunto e de forma customizada a fim de formar metodologia híbrida que melhor se adaptasse ao nosso contexto.
+A partir de decisões tomadas em conjunto e com base nestes princípios, foram utilizado partes de várias metodologias já conhecidas como SCRUM e XP. Estas estruturas atômicas foram utilizadas em conjunto e de forma customizada a fim de formar metodologia híbrida que melhor se adaptasse ao nosso contexto.
 
-### 3.1 Scrum
+### 3.1 SCRUM
 
-O Scrum é um _framework_ de gerenciamento de projetos, da organização ao desenvolvimento ágil de produtos complexos e adaptativos com o mais alto valor possível, através de várias técnicas, utilizando desde o início de 1990 e que atualmente é utilizado em mais de 60% dos projetos ágeis em todo o mundo. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
+O SCRUM é um _framework_ de gerenciamento de projetos, da organização ao desenvolvimento ágil de produtos complexos e adaptativos com o mais alto valor possível, através de várias técnicas, utilizando desde o início de 1990 e que atualmente é utilizado em mais de 60% dos projetos ágeis em todo o mundo. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 Essa metodologia define várias atividades que devem ocorrer durante o processo de desenvolvimento. No nosso contexto foram adotadas as seguintes atividades: **_Product Backlog_**, **_Sprints_**, **_Sprint Planning_**, **_Sprint Review_** e **_Daily Meeting_**.
 
 
 #### **3.1.1 Product Backlog**
 
-Product backlog é um dos artefatos descritos pelo Scrum. Este artefato é uma lista dinâmica de requisitos do projeto, ou seja, são as atividades e limitações que o projeto deve realizar ou está sujeito para que seja bem sucedido. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
+Product backlog é um dos artefatos descritos pelo SCRUM. Este artefato é uma lista dinâmica de requisitos do projeto, ou seja, são as atividades e limitações que o projeto deve realizar ou está sujeito para que seja bem sucedido. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 No nosso contexto, essa lista de requisitos são as [_issues_ do nosso repositório](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues). Essas _issues_ são abstrações de cartões de tarefas que descrevem o que deve ser feito e as limitações como tempo e pessoas alocadas.
 
@@ -59,7 +63,7 @@ Por fim, as tarefas são uma lista de sub atividades que devem ser feitas para q
 
 #### **3.1.2 Sprints**
 
-Uma sprint é a unidade básica de tempo durante o desenvolvimento na metodologia Scrum. As sprints podem durar entre uma semana a um mês, e são um esforço dentro de uma faixa de tempo. Esse faixa de tempo deve ser relativamente curta para possibilitar entregas parciais do sistema, busca-se tais entregas parciais para que seja possível gerar valor de maneira contínua ao projeto e que seja possível a avaliação dinâmica e periódica do trabalho desenvolvido. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
+Uma sprint é a unidade básica de tempo durante o desenvolvimento na metodologia SCRUM. As sprints podem durar entre uma semana a um mês, e são um esforço dentro de uma faixa de tempo. Esse faixa de tempo deve ser relativamente curta para possibilitar entregas parciais do sistema, busca-se tais entregas parciais para que seja possível gerar valor de maneira contínua ao projeto e que seja possível a avaliação dinâmica e periódica do trabalho desenvolvido. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 No nosso contexto, foi definido que as sprints irão durar entre 5 a 7 dias.
 
@@ -83,14 +87,54 @@ A segunda etapa ocorre antes da _sprint review_, onde é discutido as dificuldad
 
 #### **3.1.5 Daily Meeting**
 
-Na metodologia Scrum é recomendado que se realize reuniões de status do projeto diariamente, sendo essa reunião conhecida como _daily meeting_. Essa reunião é sempre realizada em um mesmo horário e deve durar no máximo 15 minutos. O objetivo é deixar todos os integrantes cientes do trabalho um do outro, desse modo cada participante deve responder a três perguntas:
+Na metodologia SCRUM é recomendado que se realize reuniões de status do projeto diariamente, sendo essa reunião conhecida como _daily meeting_. Essa reunião é sempre realizada em um mesmo horário e deve durar no máximo 15 minutos. O objetivo é deixar todos os integrantes cientes do trabalho um do outro, desse modo cada participante deve responder a três perguntas:
 * O que você tem feito da daily passada para a daily atual?
 * O que você está planejando fazer da daily atual para a daily de amanhã?
 * Você tem algum problema impedindo você de realizar sua atividade?
 
 No nosso contexto, as _dailies_ serão realizadas de forma assíncrona, utilizando a ferramenta Telegram. Foi criado um grupo com todos os membros do projeto, onde diariamente é enviado a respostas das três perguntas descritas acima. Essa abordagem assíncrona se provou necessária devido a dificuldade de encontrar um momento do dia onde todos os membros pudessem participar.
 
-### 3.2 Kanban
+### 3.2 Métricas de Gerenciamento
+### 3.2.1 Introdução
+As métricas ágeis proporcionam _insights_ sobre a produtividade durante os diferentes estágios do ciclo de vida de desenvolvimento de um software. Isso ajuda a avaliar a qualidade de um produto e monitorar o desempenho da equipe.
+
+### 3.2.2 Velocity
+
+O velocity é uma métrica que mede a quantidade média de trabalho realizado por uma equipe durante uma sprint, medida em horas ou pontos de histórias, sendo muito útil para previsão e estimativa de futuras sprints. É importante monitorar como a velocidade evolui ao longo do tempo. A equipe pode esperar ver um aumento na velocidade à medida que as relações e o processo de trabalho são otimizados.
+
+O grupo 1 utilizou o ZenHub para medir a velocidade média de trabalho da equipe.
+
+#### 3.2.2.1 Ver a velocidade da equipe
+
+Quando estiver se preparando para um _sprint_, você adicionará seus problemas estimados e solicitações de pull para um _Milestone_. Você pode dar ao _Milestone_ um nome descritivo e não se esqueça de definir uma data de início e uma data de término! A maioria das equipes escolhe duas ou quatro semanas.
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/84-DescricaoMetricas/docs/assets/pages/management-metrics/milestone.png'>
+
+</p>
+
+Depois de concluir algumas _sprints_, você terá alguns dados históricos em seus gráficos de velocidade do _Agile_. Para visualizá-los, clique na nova guia Relatórios e selecione Rastreamento de velocidade .
+
+O ZenHub exibirá automaticamente até sete marcos recentes, além dos marcos atuais. Passe o cursor sobre cada barra para ver mais detalhes. A linha azul denota o número médio de pontos da história (estimativas) fechados em cada Marco - os pontos da história abertos não contam para esse total.
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/84-DescricaoMetricas/docs/assets/pages/management-metrics/velocity.png'>
+</p>
+
+### 3.2.3. _Burndown_
+
+Outra métrica que a equipe abordou foi o _Burndown_. Ele é um gráfico que mostra também como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto.
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/84-DescricaoMetricas/docs/assets/pages/management-metrics/burndown.png'>
+</p>
+
+No gráfico de _Burndown_, temos dois eixos: o eixo horizontal X, que representa o tempo de um sprint, e o eixo Y, que representa o esforço necessário para completar o sprint, geralmente medido no SCRUM como _Story Points_ (pontos de histórias).
+
+A razão do SCRUM usar _Story Points_ ao invés de horas (ou outras medidas temporais), é devido ao fato de que membros da equipes terem produtividades diferentes em suas horas de trabalho. Isto por terem experiências, referências e conhecimentos diferentes que os ajudam a desenvolver seu trabalho. _Story Points_, portanto, tornam-se uma unidade que mede o “Esforço” necessário para realizar uma tarefa – o qual terá uma estimativa média mais próxima entre desenvolvedores diferentes.
+
+
+### 3.3 Kanban
 
 Kanban é um quadro de cartões, sendo que cada cartão representa uma atividade, onde é controlado os fluxos em que cada cartão se encontra. Esses fluxos podem ser vários, dependendo do processo em questão, mas no geral são 3 fluxos principais: "a fazer", "fazendo" e "feito".
 
@@ -98,21 +142,21 @@ No nosso contexto, o kanban foi dividido em 5 fluxos: _project backlog_, _sprint
 
 <!-- O Kanban do nosso projeto pode ser encontrado no seguinte link: <p style="color: red;">TODO: Adicionar link para o Kanban</p>. -->
 
-### 3.3 Extreme Programming (XP)
+### 3.4 Extreme Programming (XP)
 
 Extreme Programming é uma metodologia com foco em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicabilidade e feedback. Objetivando a execução de projetos dentro prazo e do orçamento, fazendo que o cliente fique satisfeito com os resultados sem que a equipe do projeto seja sobrecarregada. [[4]](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498).
 
 No nosso contexto, as seguintes ferramentas do XP foram adotadas e adaptadas:
 
-#### **3.3.1 Small Releases**
+#### **3.4.1 Small Releases**
 
 Todas as tarefas do projeto são planejadas para serem `pequenos entregáveis`, para que assim 1 pessoa consiga entregar dentro do time-box do projeto.
 
-#### **3.3.2 Refactoring**
+#### **3.4.2 Refactoring**
 
 Todos os entregáveis do projeto são revisados por membros do grupo que não estiveram envolvidos na criação, dessa forma reduzindo o enviesamento e aumentando a qualidade do artefato.
 
-#### **3.3.3 Propriedade coletiva e "Programação" Pareada**
+#### **3.4.3 Propriedade coletiva e "Programação" Pareada**
 
 Essas duas atividades buscam fazer com que todos os membros do tipo, ou a maior parte deles, tenham o sentimento de posse sobre os artefatos do projeto. E assim evitar ao máximo possível o sentimento de "Isso não foi eu que fiz, então não é problema meu".
 
@@ -144,6 +188,14 @@ O Microsoft Teams é utilizado para eventos síncronos e que necessitem de chama
 * [3] KANBAN. Disponível em [https://pt.wikipedia.org/wiki/Kanban](https://pt.wikipedia.org/wiki/Kanban)
 
 * [4] Extreme Programming. Disponível em [https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)
+
+* [5] Cinco métricas ágeis que você não vai odiar. Disponível em: https://www.atlassian.com/br/agile/project-management/metrics
+
+
+* [6] Burndown e Burnup no SCRUM: como avaliar o desempenho da sua equipe. Disponível em: https://www.flowup.me/blog/burndown-e-burnup/
+
+* [7] Como calcular a velocidade da equipe e cumprir prazos para equipes ágeis. Disponível em: https://blog.zenhub.com/how-to-measure-team-velocity-and-meet-deadlines/
+
 
 
 </div>
