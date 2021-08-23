@@ -26,18 +26,18 @@ Todas as metodologias adotadas durante esse projeto tem relação com dois princ
 >
 > -- <cite> Manifesto Ágil [1] </cite>
 
-A partir de decisões tomadas em conjunto e com base nestes princípios, foram utilizado partes de várias metodologias já conhecidas como Scrum e XP. Estas estruturas atômicas foram utilizadas em conjunto e de forma customizada a fim de formar metodologia híbrida que melhor se adaptasse ao nosso contexto.
+A partir de decisões tomadas em conjunto e com base nestes princípios, foram utilizado partes de várias metodologias já conhecidas como SCRUM e XP. Estas estruturas atômicas foram utilizadas em conjunto e de forma customizada a fim de formar metodologia híbrida que melhor se adaptasse ao nosso contexto.
 
-### 3.1 Scrum
+### 3.1 SCRUM
 
-O Scrum é um _framework_ de gerenciamento de projetos, da organização ao desenvolvimento ágil de produtos complexos e adaptativos com o mais alto valor possível, através de várias técnicas, utilizando desde o início de 1990 e que atualmente é utilizado em mais de 60% dos projetos ágeis em todo o mundo. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
+O SCRUM é um _framework_ de gerenciamento de projetos, da organização ao desenvolvimento ágil de produtos complexos e adaptativos com o mais alto valor possível, através de várias técnicas, utilizando desde o início de 1990 e que atualmente é utilizado em mais de 60% dos projetos ágeis em todo o mundo. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 Essa metodologia define várias atividades que devem ocorrer durante o processo de desenvolvimento. No nosso contexto foram adotadas as seguintes atividades: **_Product Backlog_**, **_Sprints_**, **_Sprint Planning_**, **_Sprint Review_** e **_Daily Meeting_**.
 
 
 #### **3.1.1 Product Backlog**
 
-Product backlog é um dos artefatos descritos pelo Scrum. Este artefato é uma lista dinâmica de requisitos do projeto, ou seja, são as atividades e limitações que o projeto deve realizar ou está sujeito para que seja bem sucedido. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
+Product backlog é um dos artefatos descritos pelo SCRUM. Este artefato é uma lista dinâmica de requisitos do projeto, ou seja, são as atividades e limitações que o projeto deve realizar ou está sujeito para que seja bem sucedido. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 No nosso contexto, essa lista de requisitos são as [_issues_ do nosso repositório](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues). Essas _issues_ são abstrações de cartões de tarefas que descrevem o que deve ser feito e as limitações como tempo e pessoas alocadas.
 
@@ -59,7 +59,7 @@ Por fim, as tarefas são uma lista de sub atividades que devem ser feitas para q
 
 #### **3.1.2 Sprints**
 
-Uma sprint é a unidade básica de tempo durante o desenvolvimento na metodologia Scrum. As sprints podem durar entre uma semana a um mês, e são um esforço dentro de uma faixa de tempo. Esse faixa de tempo deve ser relativamente curta para possibilitar entregas parciais do sistema, busca-se tais entregas parciais para que seja possível gerar valor de maneira contínua ao projeto e que seja possível a avaliação dinâmica e periódica do trabalho desenvolvido. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
+Uma sprint é a unidade básica de tempo durante o desenvolvimento na metodologia SCRUM. As sprints podem durar entre uma semana a um mês, e são um esforço dentro de uma faixa de tempo. Esse faixa de tempo deve ser relativamente curta para possibilitar entregas parciais do sistema, busca-se tais entregas parciais para que seja possível gerar valor de maneira contínua ao projeto e que seja possível a avaliação dinâmica e periódica do trabalho desenvolvido. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 No nosso contexto, foi definido que as sprints irão durar entre 5 a 7 dias.
 
@@ -83,7 +83,7 @@ A segunda etapa ocorre antes da _sprint review_, onde é discutido as dificuldad
 
 #### **3.1.5 Daily Meeting**
 
-Na metodologia Scrum é recomendado que se realize reuniões de status do projeto diariamente, sendo essa reunião conhecida como _daily meeting_. Essa reunião é sempre realizada em um mesmo horário e deve durar no máximo 15 minutos. O objetivo é deixar todos os integrantes cientes do trabalho um do outro, desse modo cada participante deve responder a três perguntas:
+Na metodologia SCRUM é recomendado que se realize reuniões de status do projeto diariamente, sendo essa reunião conhecida como _daily meeting_. Essa reunião é sempre realizada em um mesmo horário e deve durar no máximo 15 minutos. O objetivo é deixar todos os integrantes cientes do trabalho um do outro, desse modo cada participante deve responder a três perguntas:
 * O que você tem feito da daily passada para a daily atual?
 * O que você está planejando fazer da daily atual para a daily de amanhã?
 * Você tem algum problema impedindo você de realizar sua atividade?

@@ -11,14 +11,14 @@
 | 05/08/2021 | 1.1 | Revisão do documento | Leonardo Gomes |
 
 ## 1. Introdução
-O _backlog do produto_, tradução livre de _product backlog_, é um artefato descrito pela metodologia Scrum que consiste em uma lista de tarefas que descrevem as funcionalidades e comportamentos que são esperados do produto quando este alcança a conjuntura de conclusão. O _backlog do produto_ se organiza de maneira a separar as atividades por diferentes granularidades, estas são:
+O _backlog do produto_, tradução livre de _product backlog_, é um artefato descrito pela metodologia SCRUM que consiste em uma lista de tarefas que descrevem as funcionalidades e comportamentos que são esperados do produto quando este alcança a conjuntura de conclusão. O _backlog do produto_ se organiza de maneira a separar as atividades por diferentes granularidades, estas são:
 - Epics;
 - Features;
 - User stories.
 
 Os _epics_ são as estruturas mais complexas a termos de granularidade de um backlog. Os epics abrigam um conjunto de _features_.
 
-As _features_, por sua vez, descrevem um conjunto de funcionalidades e requisitos não funcionam para o projeto. Uma _feature_ agrupa um conjunto de _user stories_. Ao se realizar uma analogia à termos computacionais, temos que as _features_ são quase como componentes de um módulo; para este caso fictício, os módulos seriam definidos como os _epics_; que podem ser dividos em estruturas atômicas. 
+As _features_, por sua vez, descrevem um conjunto de funcionalidades e requisitos não funcionam para o projeto. Uma _feature_ agrupa um conjunto de _user stories_. Ao se realizar uma analogia à termos computacionais, temos que as _features_ são quase como componentes de um módulo; para este caso fictício, os módulos seriam definidos como os _epics_; que podem ser dividos em estruturas atômicas.
 
 Já as _user stories_ definem pedaços atômicos de funcionalidades. São as _user stories_ que guiam a delegação de tarefas para as sprints do projeto (o conceito de sprints e o processo de delegação de tarefas foi descrito no [documento de metodologia](pages/metodologia-do-projeto.md)).
 
