@@ -9,7 +9,6 @@
   - [Metodologia do projeto](pages/metodologia-do-projeto.md)
   - [Modelagem BPMN](pages/bpmn.md)
   - [Configuração do bot das dailies](pages/telegram-daily-bot.md)
-  - [Métricas de Gerenciamento](pages/management-metrics.md)
   - [Prototipagem](pages/prototipo.md)
 
 ---

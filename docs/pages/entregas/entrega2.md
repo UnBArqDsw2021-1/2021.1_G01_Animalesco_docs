@@ -36,6 +36,6 @@
 
 15. [Bot do telegram](pages/telegram-daily-bot.md)
 
-16. [Métricas de gerenciamento](pages/management-metrics.md)
+16. [Métricas de gerenciamento](pages/metodologia-do-projeto.md)
 
 ## Gravações disponíveis
