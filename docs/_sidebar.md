@@ -30,6 +30,7 @@
 - **Modelagem**
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
+  - [Prototipagem](pages/prototipo.md)
   - [Diagrama de Sequência](pages/diagrama-de-sequencia.md)
   - [Diagrama de Atividades](pages/diagrama-de-atividades.md)
   - [Diagrama de Estados](pages/state-diagram.md)
