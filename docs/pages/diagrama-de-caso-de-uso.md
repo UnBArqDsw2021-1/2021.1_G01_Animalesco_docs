@@ -23,7 +23,7 @@
 O diagrama de caso de uso é um diagrama da linguagem de modelagem unificada (UML), que tem como intuito representar de forma resumida as interações dos usuários com o sistema. Como ele é uma forma de representação resumida, os especifialistas recomendam fazer o uso dele juntamente com caso de uso retratados de forma de texto, sendo assim uma forma de complementar o mesmo. [1]
 
 
-O diagrama de caso de uso UML é ideal para: 
+O diagrama de caso de uso UML é ideal para:
 
 * Representar as metas de interações entre sistemas e usuários;
 * Definir e organizar requisitos funcionais no sistema;
@@ -56,18 +56,18 @@ O presente documento tem como objetivo demostrar os casos de uso do aplicativo a
 
 | Id   | Caso de uso                                             |
 | ---- | ------------------------------------------------------- |
-| UC01 | [Cadastrar usuário](casos-de-uso/UC01.md)               |
-| UC02 | [Realizar login](casos-de-uso/UC02.md)                  |
-| UC03 | [Recuperar senha](casos-de-uso/UC03.md)                 |
-| UC04 | [Visualizar perfil usuário](casos-de-uso/UC04.md)       |
-| UC05 | [Cadastrar pet](casos-de-uso/UC05.md)                   |
-| UC06 | [Visualizar pefil pet](casos-de-uso/UC06.md)            |
-| UC07 | [Registrar medidas](casos-de-uso/UC07.md)               |
-| UC08 | [Registrar banho](casos-de-uso/UC08.md)                 |
-| UC09 | [Controlar medicamento](casos-de-uso/UC09.md)           |
-| UC10 | [Visualizar vacinas](casos-de-uso/UC10.md)              |
-| UC11 | [Registrar visita ao veterinário](casos-de-uso/UC11.md) |
-| UC12 | [Adicionar lembrete](casos-de-uso/UC12.md)              |
+| UC01 | [Cadastrar usuário](pages/casos-de-uso/UC01.md)               |
+| UC02 | [Realizar login](pages/casos-de-uso/UC02.md)                  |
+| UC03 | [Recuperar senha](pages/casos-de-uso/UC03.md)                 |
+| UC04 | [Visualizar perfil usuário](pages/casos-de-uso/UC04.md)       |
+| UC05 | [Cadastrar pet](pages/casos-de-uso/UC05.md)                   |
+| UC06 | [Visualizar pefil pet](pages/casos-de-uso/UC06.md)            |
+| UC07 | [Registrar medidas](pages/casos-de-uso/UC07.md)               |
+| UC08 | [Registrar banho](pages/casos-de-uso/UC08.md)                 |
+| UC09 | [Controlar medicamento](pages/casos-de-uso/UC09.md)           |
+| UC10 | [Visualizar vacinas](pages/casos-de-uso/UC10.md)              |
+| UC11 | [Registrar visita ao veterinário](pages/casos-de-uso/UC11.md) |
+| UC12 | [Adicionar lembrete](pages/casos-de-uso/UC12.md)              |
 
 ## Bibliografia
 

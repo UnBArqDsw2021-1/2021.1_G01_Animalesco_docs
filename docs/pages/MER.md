@@ -49,7 +49,7 @@ Representa a altura registrada no sistema APP Animalesco. A ocorrência da entid
 Um usuário pode ter vários pets, mas um pet não pertencer a vários usuários. **Cardinalidade: 1 : n**.
 
 #### 2.2.2 PET - toma – BANHO
-Um pet pode tomar vários banhos, mas um  um banho não  pode limpar vários pets. 
+Um pet pode tomar vários banhos, mas um  um banho não  pode limpar vários pets.
 **Cardinalidade: 0 : n**.
 
 #### 2.2.3 PET - toma -  MEDICAMENTOS
@@ -70,7 +70,8 @@ Um pet pode ter várias alturas, assim como uma altura pode pertencer a vários 
 </div>
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/71-EntidadeRelacionamento/docs/assets/images/mer.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/mer.png'>
+
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Entidade Relacionamento</b>
         <br>
