@@ -39,3 +39,11 @@
 16. [Métricas de gerenciamento](pages/metodologia-do-projeto.md)
 
 ## Gravações disponíveis
+
+
+### Apresentação dos Diagramas Estáticos
+
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/c_IrIZGX4M8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</p>
