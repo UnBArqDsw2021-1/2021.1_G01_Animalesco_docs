@@ -30,7 +30,7 @@ Com o protótipo de baixa fidelidade pronto, foi possível avançar para o prot�
 ### 3.1. Protótipo de Baixa Fidelidade
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/prototipo/prototipo1.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/prototipo/prototipo1.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Protótipo de baixa fidelidade</b>
         <br>
@@ -39,7 +39,7 @@ Com o protótipo de baixa fidelidade pronto, foi possível avançar para o prot�
 </p>
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/prototipo/prototipo2.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/prototipo/prototipo2.jpg'>
     <figcaption align='center'>
         <b>Figura 2: Protótipo de baixa fidelidade</b>
         <br>

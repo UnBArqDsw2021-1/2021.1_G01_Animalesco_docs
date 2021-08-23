@@ -10,6 +10,7 @@
   - [Modelagem BPMN](pages/bpmn.md)
   - [Configuração do bot das dailies](pages/telegram-daily-bot.md)
   - [Métricas de Gerenciamento](pages/management-metrics.md)
+  - [Prototipagem](pages/prototipo.md)
 
 ---
 
@@ -30,7 +31,6 @@
 - **Modelagem**
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
-  - [Prototipagem](pages/prototipo.md)
   - [Diagrama de Sequência](pages/diagrama-de-sequencia.md)
   - [Diagrama de Atividades](pages/diagrama-de-atividades.md)
   - [Diagrama de Estados](pages/state-diagram.md)
@@ -38,12 +38,16 @@
   - [Diagrama de Comunicação](pages/communication-diagram.md)
   - [Diagrama de Pacotes](pages/diagrama-de-pacotes.md)
   - [Diagrama de Implementacao](pages/diagrama-de-implementacao.md)
+  - [Diagrama de Classes](pages/diagrama-classes.md)
+  - [Diagrama de Casos de uso](pages/diagrama-de-caso-de-uso.md)
+  - [Diagrama de Entidade e relacionamento](pages/MER.md)
 
 ---
 
 - **Entregas**
 
   - [Entrega I](pages/entregas/entrega1.md)
+  - [Entrega II](pages/entregas/entrega2.md)
 
 - **Sprints**
   - Sprint 1
