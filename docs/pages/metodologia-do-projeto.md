@@ -109,7 +109,7 @@ O grupo 1 utilizou o ZenHub para medir a velocidade média de trabalho da equipe
 Quando estiver se preparando para um _sprint_, você adicionará seus problemas estimados e solicitações de pull para um _Milestone_. Você pode dar ao _Milestone_ um nome descritivo e não se esqueça de definir uma data de início e uma data de término! A maioria das equipes escolhe duas ou quatro semanas.
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/management-metrics/milestone.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/84-DescricaoMetricas/docs/assets/pages/management-metrics/milestone.png'>
 
 </p>
 
@@ -118,7 +118,7 @@ Depois de concluir algumas _sprints_, você terá alguns dados históricos em se
 O ZenHub exibirá automaticamente até sete marcos recentes, além dos marcos atuais. Passe o cursor sobre cada barra para ver mais detalhes. A linha azul denota o número médio de pontos da história (estimativas) fechados em cada Marco - os pontos da história abertos não contam para esse total.
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/management-metrics/velocity.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/84-DescricaoMetricas/docs/assets/pages/management-metrics/velocity.png'>
 </p>
 
 ### 3.2.3. _Burndown_
@@ -126,7 +126,7 @@ O ZenHub exibirá automaticamente até sete marcos recentes, além dos marcos at
 Outra métrica que a equipe abordou foi o _Burndown_. Ele é um gráfico que mostra também como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto.
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/management-metrics/burndown.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/84-DescricaoMetricas/docs/assets/pages/management-metrics/burndown.png'>
 </p>
 
 No gráfico de _Burndown_, temos dois eixos: o eixo horizontal X, que representa o tempo de um sprint, e o eixo Y, que representa o esforço necessário para completar o sprint, geralmente medido no SCRUM como _Story Points_ (pontos de histórias).
