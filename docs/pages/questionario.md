@@ -56,7 +56,7 @@ Após a criação do questionário foi realizado um estudo piloto com 9 pessoas,
 
 O estudo piloto se mostrou eficiente, após sua realização foi encontrado um parte do fluxo que não estava conectado corretamente, e também foi realizado melhorias de usabilidade para tornar as perguntas não ambíguas e para adicionar opções de respostas que o nosso grupo piloto sugeriu.
 
-A parte do fluxo que estava estava faltando conexão era o seguinte:
+A parte do fluxo que estava faltando conexão era o seguinte:
 
 ```python
 if Pergunta("Seu pet toma algum medicamento de uso contínuo?") == "Sim":
