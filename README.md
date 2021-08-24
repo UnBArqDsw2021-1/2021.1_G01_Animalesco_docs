@@ -59,7 +59,27 @@ Uma aplicação para realizar o controle e acompanhamento para com a saúde dos 
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione o(s)s vídeo(s) da Segunda Entrega.
+
+<p align='center'>
+    <a href="https://youtu.be/c_IrIZGX4M8" target="_blank">
+        <img src="https://user-images.githubusercontent.com/31013187/128701255-dc6451b7-76ff-45b2-b7c6-04ff6941eb12.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
+
+<p align='center'>
+    <a href="https://youtu.be/6-9a-y_N_DQ" target="_blank">
+        <img src="https://user-images.githubusercontent.com/31013187/128701255-dc6451b7-76ff-45b2-b7c6-04ff6941eb12.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
+
+<p align='center'>
+    <a href="https://youtu.be/_Rza2fgePQ0" target="_blank">
+        <img src="https://user-images.githubusercontent.com/31013187/128701255-dc6451b7-76ff-45b2-b7c6-04ff6941eb12.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.

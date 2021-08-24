@@ -1,3 +1,5 @@
+# Entrega 2
+
 ## Diagramas UML estáticos
 
 01. [Diagrama de classes](pages/diagrama-classes.md)
@@ -38,12 +40,26 @@
 
 16. [Métricas de gerenciamento](pages/metodologia-do-projeto.md)
 
-## Gravações disponíveis
 
+## Gravações disponíveis
 
 ### Apresentação dos Diagramas Estáticos
 
 <p align='center'>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/c_IrIZGX4M8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
+</p>
+
+
+### Apresentação dos Diagramas Dinâmicos
+
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6-9a-y_N_DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+### Apresentação da Modelagem Ágil
+
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_Rza2fgePQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
