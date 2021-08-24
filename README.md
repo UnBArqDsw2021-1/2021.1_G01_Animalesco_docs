@@ -56,27 +56,42 @@ Uma aplicação para realizar o controle e acompanhamento para com a saúde dos 
 </p>
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-4.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-5.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-6.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-7.png'>
+</p>
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
 <p align='center'>
     <a href="https://youtu.be/c_IrIZGX4M8" target="_blank">
-        <img src="https://user-images.githubusercontent.com/31013187/128701255-dc6451b7-76ff-45b2-b7c6-04ff6941eb12.png" 
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/entrega2_video1.png" 
              style="max-width:600px;width:100%">
     </a>
 </p>
 
 <p align='center'>
     <a href="https://youtu.be/6-9a-y_N_DQ" target="_blank">
-        <img src="https://user-images.githubusercontent.com/31013187/128701255-dc6451b7-76ff-45b2-b7c6-04ff6941eb12.png" 
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/entrega2_video2.png" 
              style="max-width:600px;width:100%">
     </a>
 </p>
 
 <p align='center'>
     <a href="https://youtu.be/_Rza2fgePQ0" target="_blank">
-        <img src="https://user-images.githubusercontent.com/31013187/128701255-dc6451b7-76ff-45b2-b7c6-04ff6941eb12.png" 
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/entrega2_video3.png" 
              style="max-width:600px;width:100%">
     </a>
 </p>
