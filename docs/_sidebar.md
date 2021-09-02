@@ -60,3 +60,4 @@
     - [Resultados](sprints/sprint3/resultados.md)
   - Sprint 4
     - [Planejamento](sprints/sprint4/planejamento.md)
+    - [Resultados](sprints/sprint4/resultados.md)

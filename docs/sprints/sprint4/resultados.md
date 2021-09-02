@@ -38,10 +38,10 @@
 O quadro de conhecimento ainda não foi implementado para a sprint 4
 
 ### Burndown
-A equipe ainda não está utilizando esta métrica.
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/burndown_sprint4.png'>
 
 ### Velocity
-A equipe ainda não está utilizando está métrica.
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/velocity_sprint4.png'>
 
 <br />
 
