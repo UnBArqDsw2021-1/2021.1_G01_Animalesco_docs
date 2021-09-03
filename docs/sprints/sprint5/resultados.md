@@ -35,7 +35,7 @@
 ## Métricas da sprint
 
 ### Quadro de conhecimento
-tem que colocar a métrica lá
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/quadro_sprint5.png'>
 
 ### Burndown
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/burndown_sprint5.png'>
