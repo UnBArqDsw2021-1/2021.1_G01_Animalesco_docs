@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 30/08/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 03/09/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 <br/>
 
@@ -47,11 +48,11 @@
 
 ## Retrospectiva da Sprint
 
-### O que teve de bom na Sprint 4?
+### O que teve de bom na Sprint 5?
 
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_positiva_sprint5.png'>
 
-### O que aconteceu na Sprint 4 que podemos melhorar?
+### O que aconteceu na Sprint 5 que podemos melhorar?
 
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_negativa_sprint5.png'>
 

@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 02/09/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 03/09/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 ## Objetivo da sprint
 A sprint é dedicado ao começo dos trabalhos de código da equipe. A sprint 6 também funciona como uma base de testes para aperfeiçoamento da pontuação e alocação de issues para futuras sprints, isto é, foi-se lançado um volume de trabalho sem muito embasamento técnico para que a equipe possa analisar as entregas e resultados desta sprint.

@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 02/09/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 03/09/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 ## Objetivo da sprint
 Com o início do novo módulo na disciplina de Arquitetura e Desenho de Software, fez-se necessária a execução de uma sprint focada para a ambientação e estudos de padrões de projeto. Dito isto, o objetivo da sprint 5 se concentra na execução de _spikes_ de padrões de projeto e na organização da equipe, seja para coleta de novas métricas quanto para realizar os preparativos para a etapa de código.
