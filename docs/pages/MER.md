@@ -84,7 +84,7 @@ Um pet pode ter várias alturas, assim como uma altura pode pertencer a vários 
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/132-discrepancias/docs/assets/images/l%C3%B3gico.png'>
     <figcaption align='center'>
-        <b>Figura 1: Diagrama Lógico</b>
+        <b>Figura 2: Diagrama Lógico</b>
         <br>
         <small>Autora: Daniela Soares, 2021.</small>
     </figcaption>
