@@ -9,6 +9,7 @@
 | 16/08/2021 |  1.1   |              Ajustes no diagrama              | Vinícius Oliveira |
 | 31/08/2021 |  1.2   | Alteração no Diagrama de pacotes do Front-End |    Rafael Leão    |
 | 06/09/2021 |  1.3   | Alteração no Diagrama de pacotes do Back-End  |    Rafael Leão    |
+| 06/09/2021 |  2.0   |    Alteração no Diagrama de pacotes Geral     |    Rafael Leão    |
 
 <div align="justify">
 
@@ -30,6 +31,7 @@ O diagrama foi desenvolvido de acordo com os Framework Node.Js para o _backend_ 
         <b>Figura 1: Diagrama de pacotes</b>
         <br>
         <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
+        <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
     </figcaption>
 </p>
 
