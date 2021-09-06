@@ -7,7 +7,8 @@
 | 15/08/2021 |  0.1   |             Criação do documento              | Vinícius Oliveira |
 | 16/08/2021 |  1.0   |             Revisão do documento              |    Hugo Sobral    |
 | 16/08/2021 |  1.1   |              Ajustes no diagrama              | Vinícius Oliveira |
-| 31/08/2021 |  2.0   | Alteração no Diagrama de pacotes do Front-End |    Rafael Leão    |
+| 31/08/2021 |  1.2   | Alteração no Diagrama de pacotes do Front-End |    Rafael Leão    |
+| 06/09/2021 |  1.3   | Alteração no Diagrama de pacotes do Back-End  |    Rafael Leão    |
 
 <div align="justify">
 
@@ -37,7 +38,8 @@ O diagrama foi desenvolvido de acordo com os Framework Node.Js para o _backend_ 
     <figcaption align='center'>
         <b>Figura 2: Diagrama pacote Back-End</b>
         <br>
-        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
+        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small><br />
+        <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
     </figcaption>
 </p>
 
@@ -46,7 +48,8 @@ O diagrama foi desenvolvido de acordo com os Framework Node.Js para o _backend_ 
     <figcaption align='center'>
         <b>Figura 3: Diagrama pacote Front-End</b>
         <br>
-        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
+        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small><br />
+        <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
     </figcaption>
 </p>
 
