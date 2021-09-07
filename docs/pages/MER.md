@@ -9,6 +9,7 @@
 | 15/08/2021 |  1.0   | Corrigindo documento       | Daniela Soares |
 | 19/08/2021 |  1.1   | Revisão do documento       | João Vitor Farias |
 | 03/09/2021 |  1.2   | Criação do diagrama lógico | Daniela Soares|
+| 06/09/2021 |  1.3   | Revisão do documento       | João Vitor Farias e Vinícius Oliveira|
 
 ## 1 Introdução
 <div align="justify">
