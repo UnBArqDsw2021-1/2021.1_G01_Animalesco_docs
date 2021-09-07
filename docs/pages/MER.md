@@ -3,11 +3,13 @@
 #### Histórico de Versão
 
 |    Data    | Versão |      Descrição       |     Autor(es)     |
-| :--------: | :----: | :------------------: | :---------------: |
-| 12/08/2021 |  0.1   | Criação do documento | Daniela Soares  |
-| 12/08/2021 |  0.2   | Revisão do documento | João Vitor Farias |
-| 15/08/2021 |  1.0   | Corrigindo documento | Daniela Soares |
-| 19/08/2021 |  1.1   | Revisão do documento | João Vitor Farias |
+| :--------: | :----: | :------------------:       | :---------------: |
+| 12/08/2021 |  0.1   | Criação do documento       | Daniela Soares  |
+| 12/08/2021 |  0.2   | Revisão do documento       | João Vitor Farias |
+| 15/08/2021 |  1.0   | Corrigindo documento       | Daniela Soares |
+| 19/08/2021 |  1.1   | Revisão do documento       | João Vitor Farias |
+| 03/09/2021 |  1.2   | Criação do diagrama lógico | Daniela Soares|
+| 06/09/2021 |  1.3   | Revisão do documento       | João Vitor Farias e Vinícius Oliveira|
 
 ## 1 Introdução
 <div align="justify">
@@ -73,6 +75,17 @@ Um pet pode ter várias alturas, assim como uma altura pode pertencer a vários 
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/mer.png'>
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Entidade Relacionamento</b>
+        <br>
+        <small>Autora: Daniela Soares, 2021.</small>
+    </figcaption>
+</p>
+
+## 3 Diagrama Lógico
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/132-discrepancias/docs/assets/images/l%C3%B3gico.png'>
+    <figcaption align='center'>
+        <b>Figura 2: Diagrama Lógico</b>
         <br>
         <small>Autora: Daniela Soares, 2021.</small>
     </figcaption>
