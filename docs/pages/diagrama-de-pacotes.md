@@ -11,6 +11,7 @@
 | 06/09/2021 |  1.3   |            Alteração no Diagrama de pacotes do Back-End            |    Rafael Leão    |
 | 06/09/2021 |  2.0   |               Alteração no Diagrama de pacotes Geral               |    Rafael Leão    |
 | 06/09/2021 |  2.1   | Alteração no Diagrama de pacotes do Back-end solicitada na revisão |    Rafael Leão    |
+| 06/09/2021 |  2.2   |    Alteração no Diagrama de pacotes Geral solicitada na revisão    |    Rafael Leão    |
 
 <div align="justify">
 
