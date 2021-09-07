@@ -2,14 +2,15 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |                   Descrição                   |     Autor(es)     |
-| :--------: | :----: | :-------------------------------------------: | :---------------: |
-| 15/08/2021 |  0.1   |             Criação do documento              | Vinícius Oliveira |
-| 16/08/2021 |  1.0   |             Revisão do documento              |    Hugo Sobral    |
-| 16/08/2021 |  1.1   |              Ajustes no diagrama              | Vinícius Oliveira |
-| 31/08/2021 |  1.2   | Alteração no Diagrama de pacotes do Front-End |    Rafael Leão    |
-| 06/09/2021 |  1.3   | Alteração no Diagrama de pacotes do Back-End  |    Rafael Leão    |
-| 06/09/2021 |  2.0   |    Alteração no Diagrama de pacotes Geral     |    Rafael Leão    |
+|    Data    | Versão |                             Descrição                              |     Autor(es)     |
+| :--------: | :----: | :----------------------------------------------------------------: | :---------------: |
+| 15/08/2021 |  0.1   |                        Criação do documento                        | Vinícius Oliveira |
+| 16/08/2021 |  1.0   |                        Revisão do documento                        |    Hugo Sobral    |
+| 16/08/2021 |  1.1   |                        Ajustes no diagrama                         | Vinícius Oliveira |
+| 31/08/2021 |  1.2   |           Alteração no Diagrama de pacotes do Front-End            |    Rafael Leão    |
+| 06/09/2021 |  1.3   |            Alteração no Diagrama de pacotes do Back-End            |    Rafael Leão    |
+| 06/09/2021 |  2.0   |               Alteração no Diagrama de pacotes Geral               |    Rafael Leão    |
+| 06/09/2021 |  2.1   | Alteração no Diagrama de pacotes do Back-end solicitada na revisão |    Rafael Leão    |
 
 <div align="justify">
 
