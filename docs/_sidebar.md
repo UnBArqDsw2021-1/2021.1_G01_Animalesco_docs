@@ -47,6 +47,7 @@
 
   - [Entrega I](pages/entregas/entrega1.md)
   - [Entrega II](pages/entregas/entrega2.md)
+  - [Entrega II](pages/entregas/entrega3.md)
 
 - **Sprints**
   - Sprint 1
