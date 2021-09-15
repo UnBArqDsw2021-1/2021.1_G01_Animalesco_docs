@@ -10,6 +10,8 @@
   - [Modelagem BPMN](pages/bpmn.md)
   - [Configuração do bot das dailies](pages/telegram-daily-bot.md)
   - [Prototipagem](pages/prototipo.md)
+- **Capacitação Técnica da Equipe**
+  - [DOJO de Django](pages/django_dojo.md)
 
 ---
 
@@ -47,6 +49,7 @@
 
   - [Entrega I](pages/entregas/entrega1.md)
   - [Entrega II](pages/entregas/entrega2.md)
+  - [Entrega III](pages/entregas/entrega3.md)
 
 - **Sprints**
   - Sprint 1
