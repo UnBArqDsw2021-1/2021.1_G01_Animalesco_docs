@@ -16,7 +16,7 @@ O padrão de projeto `Chain of Responsability`, que em uma tradução livre sign
 
 A característica comportamental do padrão `Chain of Responsability` é fornecer um acoplamento fraco entre o emissor da comunicação e os vários candidatos a receptor, possibilitando uma solicitação ser implicitamente tratada, sem o conhecimento dos demais receptores.
 
-A **inteção** do padrão `Chain of Responsability` é evitar o acoplamento entre o remetente e aos vários receptor, possibilitando mais de um objeto a oportunidade de tratar a solicitação, de acordo com o contexto.
+A inteção do padrão `Chain of Responsability` é evitar o acoplamento entre o remetente e aos vários receptor, possibilitando mais de um objeto a oportunidade de tratar a solicitação, de acordo com o contexto.
 
 O padrão `Chain of Responsability`, quando aplicado no contexto de Backend APIs Web são comumente chamadas de `Middlewares`.
 
@@ -32,7 +32,7 @@ Expandindo mais o nosso cenário. O serviço dispobilizado via API se tornou um 
 
 Com o novo requisito, todas as controllers agora precisam utilizar a função de compressão antes de finalizar a o processamento da requisição, sendo necessário alterar todo as controllers existentes.
 
-Expandindo mais o nosso cenário. A nossa API se tornou um verdadeiro sucesso, e agora existem usuários maliciosos interagindo com a nossa API. Um de nossos engenheiros detectou que nossos endpoints estão sofrendo ataques de força bruta, onde milhares de tokens, cookies e chaves de acesso são tentados aleatoriamente. Desse modo, o nosso especialista em segurança propós a utilização de uma lógica de `[Rate Limiting](https://www.cloudflare.com/learning/bots/what-is-rate-limiting/)` e `[IP Restriction](https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-resource-policy-access/`, onde os recursos possuem uma margem de acesso por usuário (por exemplo 5 requisições por segundo) e IPs que estiverem frequentemente ultrapassando os limites são bloqueados.
+Expandindo mais o nosso cenário. A nossa API se tornou um verdadeiro sucesso, e agora existem usuários maliciosos interagindo com a nossa API. Um de nossos engenheiros detectou que nossos endpoints estão sofrendo ataques de força bruta, onde milhares de tokens, cookies e chaves de acesso são tentados aleatoriamente. Desse modo, o nosso especialista em segurança propós a utilização de uma lógica de [`Rate Limiting`](https://www.cloudflare.com/learning/bots/what-is-rate-limiting/) e [`IP Restriction`](https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-resource-policy-access/), onde os recursos possuem uma margem de acesso por usuário (por exemplo 5 requisições por segundo) e IPs que estiverem frequentemente ultrapassando os limites são bloqueados.
 
 Dessa forma, com os novos requisitos, é novamente necessário alterar todos as controllers do projeto para assim utilizar as funções disponibilizadas pelo engenheiro de segurança.
 
