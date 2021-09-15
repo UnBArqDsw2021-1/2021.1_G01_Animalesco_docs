@@ -41,6 +41,9 @@
   - [Diagrama de Casos de uso](pages/diagrama-de-caso-de-uso.md)
   - [Diagrama de Entidade e relacionamento](pages/MER.md)
 
+- **Padrões de Projeto**
+  - [Chain of Responsability](pages/patterns/chain-of-responsability.md)
+
 ---
 
 - **Entregas**
