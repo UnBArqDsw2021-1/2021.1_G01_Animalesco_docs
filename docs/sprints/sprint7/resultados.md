@@ -52,11 +52,11 @@
 
 ## Retrospectiva da Sprint
 
-### O que teve de bom na Sprint 5?
+### O que teve de bom na Sprint 7?
 
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_positiva_sprint7.png'>
 
-### O que aconteceu na Sprint 5 que podemos melhorar?
+### O que aconteceu na Sprint 7 que podemos melhorar?
 
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_negativa_sprint7.png'>
 
