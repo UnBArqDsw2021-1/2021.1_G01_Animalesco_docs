@@ -30,6 +30,7 @@
   - [Questionário](pages/questionario.md)
 
 - **Modelagem**
+
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
   - [Diagrama de Sequência](pages/diagrama-de-sequencia.md)
@@ -42,6 +43,10 @@
   - [Diagrama de Classes](pages/diagrama-classes.md)
   - [Diagrama de Casos de uso](pages/diagrama-de-caso-de-uso.md)
   - [Diagrama de Entidade e relacionamento](pages/MER.md)
+
+- **Padrões de Projeto**
+
+  - [State](pages/padroes-de-projeto/State.md)
 
 ---
 
