@@ -32,6 +32,7 @@
 | -- | -- | -- | -- | -- |
 | [#107](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues/107) | Criação do cadastro do usuário | 5 | FRONT - Daniela Soares e Rafael Leão | João Vitor |
 | [#109](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues/109) | Criação do login da aplicação | 5 | FRONT - Leonardo Gomes e João Vitor | Rafael Leão |
+
 <br />
 
 ## Métricas da sprint
