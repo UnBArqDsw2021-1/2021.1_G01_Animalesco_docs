@@ -19,7 +19,10 @@ No nosso projeto foi utilizado o framework React Native para o Front-end. O Reac
 Um dos exemplos na aplicação é a utilização do useState para manter variáveis que serão inputadas pelos usuários.
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/padroes-de-projeto/State/input.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/padroes-de-projeto/State/input.png'>
+  <figcaption align='center'>
+    <b>Figura 1: Exemplo de uso do state na aplicação</b>
+  </figcaption>
 </p>
 
 ### Bibliografia
