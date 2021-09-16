@@ -47,6 +47,7 @@
 - **Padrões de Projeto**
 
   - [State](pages/padroes-de-projeto/State.md)
+  - [Iterator](pages/padroes-de-projeto/Iterator.md)
 
 ---
 
