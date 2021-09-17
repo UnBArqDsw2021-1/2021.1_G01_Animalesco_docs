@@ -27,6 +27,6 @@ Um dos exemplos na aplicação é a utilização do useState para manter variáv
 
 ### Bibliografia
 
-[1] - https://www.dofactory.com/javascript/design-patterns/state# último acesso em: 16/09/2021 às 9:45.
-[2] - https://brizeno.wordpress.com/category/padroes-de-projeto/state/ último acesso em: 16/09/2021 às 10:05.
-[3] - https://unbarqdsw.github.io/2020.1_G12_Stock/#/DesignPatterns/State último acesso em: 16/09/2021 às 10:15.
+[1] - https://www.dofactory.com/javascript/design-patterns/state# último acesso em: 16/09/2021 às 9:45. <br/>
+[2] - https://brizeno.wordpress.com/category/padroes-de-projeto/state/ último acesso em: 16/09/2021 às 10:05. <br/>
+[3] - https://unbarqdsw.github.io/2020.1_G12_Stock/#/DesignPatterns/State último acesso em: 16/09/2021 às 10:15. <br/>

@@ -27,7 +27,7 @@ Como o Front-end da nossa aplicação é feita na linguagem JavaScript, estamos 
 
 ### Bibliografia
 
-[1] - https://www.dofactory.com/javascript/design-patterns/iterator último acesso em: 16/09/2021 às 11:05.
-[2] - https://brizeno.wordpress.com/2011/09/15/mao-na-massa-iterator/ último acesso em: 16/09/2021 às 11:20.
-[3] - https://unbarqdsw.github.io/2020.1_G12_Stock/#/DesignPatterns/Iterator último acesso em: 16/09/2021 às 11:25.
-[4] - https://refactoring.guru/design-patterns/iterator último acesso em: 16/09/2021 às 11:29
+[1] - https://www.dofactory.com/javascript/design-patterns/iterator último acesso em: 16/09/2021 às 11:05. <br/>
+[2] - https://brizeno.wordpress.com/2011/09/15/mao-na-massa-iterator/ último acesso em: 16/09/2021 às 11:20. <br/>
+[3] - https://unbarqdsw.github.io/2020.1_G12_Stock/#/DesignPatterns/Iterator último acesso em: 16/09/2021 às 11:25. <br/>
+[4] - https://refactoring.guru/design-patterns/iterator último acesso em: 16/09/2021 às 11:29 <br/>

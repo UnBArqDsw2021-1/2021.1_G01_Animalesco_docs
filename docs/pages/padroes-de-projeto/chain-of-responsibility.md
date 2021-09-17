@@ -27,8 +27,8 @@ A aplicação do _Chain of Responsibility_ na nossa aplicação se refere ao uso
 
 ### Bibliografia
 
-[1] - https://www.dofactory.com/javascript/design-patterns/chain-of-responsibility último acesso em: 17/09/2021 às 10:49.
-[2] - https://brizeno.wordpress.com/2011/11/09/mao-na-massa-chain-of-responsibility/ último acesso em: 17/09/2021 às 10:54.
-[3] - https://unbarqdsw.github.io/2020.1_G12_Stock/#/DesignPatterns/ChainResponsibility último acesso em: 17/09/2021 às 11:02.
-[4] - https://refactoring.guru/design-patterns/chain-of-responsibility último acesso em: 17/09/2021 às 11:15.
-[5] - https://imasters.com.br/javascript/design-patterns-com-javascript-typescript-padroes-comportamentais último acesso em: 17/09/2021 11:21.
+[1] - https://www.dofactory.com/javascript/design-patterns/chain-of-responsibility último acesso em: 17/09/2021 às 10:49. <br/>
+[2] - https://brizeno.wordpress.com/2011/11/09/mao-na-massa-chain-of-responsibility/ último acesso em: 17/09/2021 às 10:54. <br/>
+[3] - https://unbarqdsw.github.io/2020.1_G12_Stock/#/DesignPatterns/ChainResponsibility último acesso em: 17/09/2021 às 11:02. <br/>
+[4] - https://refactoring.guru/design-patterns/chain-of-responsibility último acesso em: 17/09/2021 às 11:15. <br/>
+[5] - https://imasters.com.br/javascript/design-patterns-com-javascript-typescript-padroes-comportamentais último acesso em: 17/09/2021 11:21. <br/>
