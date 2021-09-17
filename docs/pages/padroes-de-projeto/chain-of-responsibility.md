@@ -21,7 +21,7 @@ A aplicação do _Chain of Responsibility_ na nossa aplicação se refere ao uso
 <p align='center'>
   <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/padroes-de-projeto/chain-of-responsibility/interceptor.png'>
   <figcaption align='center'>
-      <b>Figura 1: Exemplo de uso do iterator na aplicação</b>
+      <b>Figura 1: Exemplo de uso do Chain of Responsibility na aplicação</b>
   </figcaption>    
 </p>
 
