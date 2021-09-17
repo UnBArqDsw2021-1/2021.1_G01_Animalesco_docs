@@ -6,7 +6,7 @@
 | ---------- | ------ | ------------------------------- | ----------- |
 | 16/09/2021 | 0.1    | Criação do documento            | Rafael Leão |
 | 16/09/2021 | 0.2    | Escrita do tópico de Introdução | Rafael Leão |
-| 16/09/2021 | 1.0    | Explicação do useState          | Rafael Leão |
+| 16/09/2021 | 1.0    | Escrita do tópico do useState   | Rafael Leão |
 
 ## 1. Introdução
 

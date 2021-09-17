@@ -2,11 +2,11 @@
 
 ## Histórico de versão
 
-| Data       | Versão | Descrição                       | Autor       |
-| ---------- | ------ | ------------------------------- | ----------- |
-| 16/09/2021 | 0.1    | Criação do documento            | Rafael Leão |
-| 16/09/2021 | 0.2    | Escrita do tópico de Introdução | Rafael Leão |
-| 16/09/2021 | 1.0    | Aplicação do Iterator           | Rafael Leão |
+| Data       | Versão | Descrição                                  | Autor       |
+| ---------- | ------ | ------------------------------------------ | ----------- |
+| 16/09/2021 | 0.1    | Criação do documento                       | Rafael Leão |
+| 16/09/2021 | 0.2    | Escrita do tópico de Introdução            | Rafael Leão |
+| 16/09/2021 | 1.0    | Escrita do tópico de Aplicação do Iterator | Rafael Leão |
 
 ## 1. Introdução
 
