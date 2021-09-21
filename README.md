@@ -154,7 +154,44 @@ Adicione o(s)s vídeo(s) da Entrega Final.
 ## O Projeto está rodando?
 (X) SIM
 ( ) NÃO
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
+
+### Manual para utilização do projeto
+
+Primeiro de tudo, deve-se entrar no [repositório de FrontEnd](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_FrontEnd).
+
+Após entrar no repositório, deve-se clonar o repositório com o seguinte comando:
+
+`git clone https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_FrontEnd.git`
+
+Com o repositório clonado, seguimos para os próximos passos
+
+#### Instalar a cli do expo
+
+`npm install --global expo-cli`
+
+or
+
+`yarn global add expo-cli`
+
+### Rodar o projeto
+
+Instale as dependências do projeto:
+
+`yarn install`
+
+Após clonar o projeto, entre dentro da pasta do repositório e execute:
+
+`yarn start`
+
+Uma aba será aberta em seu navegador.
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_FrontEnd/main/assets/images/expo_example.png'>
+</p>
+
+Nessa aba você verá um QR code que você poderá conectar com o aplicativo em seu celular;
+Na mesma aba você a partir da sidebar, você conseguirá conectar ao emaulador de sua preferência.
+
 
 ## Informações Complementares 
 Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
