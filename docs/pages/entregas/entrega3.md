@@ -49,3 +49,9 @@ Para o desenvolvimento do projeto, a equipe adotou os princípios SOLID, que pod
 <p align='center'>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/V7oGl2Bcrps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+
+### Iniciativas extras
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/G-ADpeTOt0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
