@@ -39,9 +39,9 @@ Para o desenvolvimento do projeto, a equipe adotou os princípios SOLID, que pod
 
 ### GoF's
 
-<!-- <p align='center'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6-9a-y_N_DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p> -->
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/S9alHnLFum4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 
 ### Padrões de projeto emergentes

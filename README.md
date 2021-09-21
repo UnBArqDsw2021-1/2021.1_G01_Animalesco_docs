@@ -102,7 +102,21 @@ Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Ent
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 <p align='center'>
     <a href="https://youtu.be/zwLMt_-EvZk" target="_blank">
-        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/entrega3_video1.png" 
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/entrega3_video1.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
+
+<p align='center'>
+    <a href="https://youtu.be/S9alHnLFum4" target="_blank">
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/entrega3_video2.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
+
+<p align='center'>
+    <a href="https://youtu.be/zwLMt_-EvZk" target="_blank">
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/entrega3_video3.png" 
              style="max-width:600px;width:100%">
     </a>
 </p>
