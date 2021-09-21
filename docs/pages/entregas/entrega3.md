@@ -46,6 +46,6 @@ Para o desenvolvimento do projeto, a equipe adotou os princípios SOLID, que pod
 
 ### Padrões de projeto emergentes
 
-<!-- <p align='center'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_Rza2fgePQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p> -->
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/V7oGl2Bcrps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>

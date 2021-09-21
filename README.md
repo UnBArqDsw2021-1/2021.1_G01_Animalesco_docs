@@ -115,7 +115,7 @@ Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Ent
 </p>
 
 <p align='center'>
-    <a href="https://youtu.be/zwLMt_-EvZk" target="_blank">
+    <a href="https://youtu.be/V7oGl2Bcrps" target="_blank">
         <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/entrega3_video3.png" 
              style="max-width:600px;width:100%">
     </a>
