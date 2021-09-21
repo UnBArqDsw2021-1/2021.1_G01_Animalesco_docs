@@ -62,7 +62,7 @@ O princípio da Segregação de Interfaces surge a partir do pressuposto:
 
 > Um módulo que consume uma interface nunca deve ser obrigado a implementar ou depender de métodos que este não usa. [1]
 
-Quando uma classe é forçada a performar ações e comportamentos que não são úteis para o seu contexto específico, todo o processo de codificação das camadas que não são utilizadas é caracterizado com um baixo valor ao projeto e, ademais, este pode ser o responsável pela inserção de *bugs* no código. Uma módulo deve apenas apresentar métodos que são necessários para o cumprimento dos requisitos da camada.
+Quando uma classe é forçada a performar ações e comportamentos que não são úteis para o seu contexto específico, todo o processo de codificação das camadas que não são utilizadas é caracterizado com um baixo valor ao projeto e, ademais, este pode ser o responsável pela inserção de *bugs* no código. Uma módulo deve apenas apresentar métodos que são necessários para o cumprimento dos requisitos da camada. [2]
 
 Este princípio tem como objetivo separar uma série de ações em blocos menores para que, desta forma, as classes do projeto possam executar somente as tarefas necessárias para o contexto individual destas.
 
@@ -71,9 +71,9 @@ Este princípio tem como objetivo separar uma série de ações em blocos menore
 
 O Princípio da Inversão de Dependências surge a partir do pressuposto:
 
-> Entidades devem depender de abstrações, não de conceitos concretos. Isto é, a camada de alto-nível de especificação do projeto não deve depender dos módulos e conceitos de baixo-nível, e sim de abstrações acerca das funcionalidades.
+> Entidades devem depender de abstrações, não de conceitos concretos. Isto é, a camada de alto-nível de especificação do projeto não deve depender dos módulos e conceitos de baixo-nível, e sim de abstrações acerca das funcionalidades. [1]
 
-Este princípio afirma que uma classe não deve ser acoplada conceitualmente com as ferramentas necessárias para a sua implementação. A abordagem ideal é que esta esteja ligada com interfaces que são capazes de realizar a comunicação entre a camada de alto e baixo nível. Desta forma, nem a classe e nem a interface devem conhecer a implementação da camada de baixo-nível, entretanto, a camada de baixo-nível deve conhecer a interface para que esta possa realizar as implementações de acordo com a comunicação esperada.
+Este princípio afirma que uma classe não deve ser acoplada conceitualmente com as ferramentas necessárias para a sua implementação. A abordagem ideal é que esta esteja ligada com interfaces que são capazes de realizar a comunicação entre a camada de alto e baixo nível. Desta forma, nem a classe e nem a interface devem conhecer a implementação da camada de baixo-nível, entretanto, a camada de baixo-nível deve conhecer a interface para que esta possa realizar as implementações de acordo com a comunicação esperada. [2]
 
 Este princípio tem como objetivo reduzir as dependências das camadas de alto nível de abstração do código.
 
