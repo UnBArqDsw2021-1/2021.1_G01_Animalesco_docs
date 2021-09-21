@@ -31,10 +31,10 @@ Para o desenvolvimento do projeto, a equipe adotou os princípios SOLID, que pod
 
 ### GRASP's
 
-<!-- <p align='center'>
+<p align='center'>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/c_IrIZGX4M8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
-</p> -->
+</p>
 
 
 ### GoF's

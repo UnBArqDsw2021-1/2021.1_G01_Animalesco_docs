@@ -100,7 +100,12 @@ Uma aplicação para realizar o controle e acompanhamento para com a saúde dos 
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione o(s)s vídeo(s) da Terceira Entrega.
+<p align='center'>
+    <a href="https://youtu.be/zwLMt_-EvZk" target="_blank">
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/entrega3_video1.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
