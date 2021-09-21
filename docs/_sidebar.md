@@ -30,6 +30,7 @@
   - [Questionário](pages/questionario.md)
 
 - **Modelagem**
+
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
   - [Diagrama de Sequência](pages/diagrama-de-sequencia.md)
@@ -44,9 +45,12 @@
   - [Diagrama de Entidade e relacionamento](pages/MER.md)
 
 - **Padrões de Projeto**
-  - [Chain of Responsability](pages/patterns/chain-of-responsability.md)
 
----
+  - [State](pages/padroes-de-projeto/State.md)
+  - [Iterator](pages/padroes-de-projeto/Iterator.md)
+  - [Chain Of Responsibility](pages/padroes-de-projeto/chain-of-responsibility.md)
+  - [Strategy](pages/padroes-de-projeto/strategy.md)
+  - [Chain of Responsability](pages/patterns/chain-of-responsability.md)
 
 - **Entregas**
 
@@ -72,3 +76,9 @@
     - [Resultados](sprints/sprint5/resultados.md)
   - Sprint 6
     - [Planejamento](sprints/sprint6/planejamento.md)
+    - [Resultados](sprints/sprint6/resultados.md)
+  - Sprint 7
+    - [Planejamento](sprints/sprint7/planejamento.md)
+    - [Resultados](sprints/sprint7/resultados.md)
+  - Sprint 8
+    - [Planejamento](sprints/sprint8/planejamento.md)
