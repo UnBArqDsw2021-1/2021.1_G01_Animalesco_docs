@@ -12,8 +12,9 @@ Foram mapeados e descritos 4 padrões GoF no projeto. Estes podem ser acessados 
 
 02. [State](pages/padroes-de-projeto/State.md)
 03. [Iterator](pages/padroes-de-projeto/Iterator.md)
-04. [Chain Of Responsibility](pages/padroes-de-projeto/chain-of-responsibility.md)
-05. [Strategy](pages/padroes-de-projeto/strategy.md)
+04. [Chain Of Responsibility no Frontend](pages/padroes-de-projeto/chain-of-responsibility.md)
+05. [Chain Of Responsibility no Backend](pages/patterns/chain-of-responsability.md)
+06. [Strategy](pages/padroes-de-projeto/strategy.md)
 
 ## Padrões de projeto emergentes
 
