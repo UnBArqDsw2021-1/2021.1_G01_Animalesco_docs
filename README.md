@@ -109,13 +109,13 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 Adicione o(s)s vídeo(s) da Entrega Final.
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**:  <br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: Python e JavaScript<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: Django REST e React Native <br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: GRASP's especialista, controlador, alta coesão e baixo acoplamento. GoF's state, chain of responsability, iterator e strategy. Princípios SOLID e DRY. <br>
 
 ## O Projeto está rodando?
-( ) SIM
+(X) SIM
 ( ) NÃO
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
