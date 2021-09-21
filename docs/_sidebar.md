@@ -48,7 +48,8 @@
 
   - [State](pages/padroes-de-projeto/State.md)
   - [Iterator](pages/padroes-de-projeto/Iterator.md)
-  - [Chain Of Responsibility](pages/padroes-de-projeto/chain-of-responsibility.md)
+  - [Chain Of Responsibility no Frontend](pages/padroes-de-projeto/chain-of-responsibility.md)
+  - [Chain Of Responsibility no Backend](pages/patterns/chain-of-responsability.md)
   - [Strategy](pages/padroes-de-projeto/strategy.md)
   - [GRASP's](pages/patterns/GRASP.md)
   - [Princípios S.O.L.I.D](pages/patterns/SOLID.md)
