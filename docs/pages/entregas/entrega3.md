@@ -20,11 +20,11 @@ Foram mapeados e descritos 4 padrões GoF no projeto. Estes podem ser acessados 
 
 Para o desenvolvimento do projeto, a equipe adotou os princípios SOLID, que pode ter o relato acessado por meio da listagem abaixo:
 
-06. [Princípios S.O.L.I.D](pages/patterns/SOLID.MD)
+07. [Princípios S.O.L.I.D](pages/patterns/SOLID.md)
 
 ## Inciativas extras
 
-07. [DOJO de Django](pages/django_dojo.md)
+08. [DOJO de Django](pages/django_dojo.md)
 
 
 ## Gravações disponíveis

@@ -51,7 +51,7 @@
   - [Chain Of Responsibility](pages/padroes-de-projeto/chain-of-responsibility.md)
   - [Strategy](pages/padroes-de-projeto/strategy.md)
   - [GRASP's](pages/patterns/GRASP.md)
-  - [Princípios S.O.L.I.D](pages/patterns/SOLID.MD)
+  - [Princípios S.O.L.I.D](pages/patterns/SOLID.md)
 
 - **Entregas**
 

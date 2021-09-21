@@ -23,15 +23,16 @@ Larman define que o **RDD** é uma maneira de pensar em projetos de Orientação
 Desta forma, é válido afirmar que os GRASP's buscam oferecer um guia bem estruturado para soluções de software que se baseiam no paradigma da Orientação a Objetos. Como consequência direta da utilização dos padrões dentro de um projeto de software, tem-se a produção de uma base de código robusta e que apresenta um enorme fator de adaptabilidade diante de novas necessidades de projeto, de negócio ou, simplesmente, futuras mudanças planejadas para o código. Um código que segue as diretrizes propostas pelos GRASP's apresenta uma ótima organização entre os diferentes módulos; uma fácil manutenção e, por fim; uma boa capacidade de compreensão por diferentes desenvolvedores. [2]
 
 Os GRASP são descritos pelos seguintes tópicos:
-    - GRASP Criador;
-    - GRASP Especialista;
-    - GRASP da Alta Coesão;
-    - GRASP do Baixo Acoplamento;
-    - GRASP Controlador;
-    - GRASP do Polimorfismo;
-    - GRASP da Invenção Pura;
-    - GRASP da Indireção;
-    - e, por fim, GRASP de Variações Protegidas.
+
+- GRASP Criador;
+- GRASP Especialista;
+- GRASP da Alta Coesão;
+- GRASP do Baixo Acoplamento;
+- GRASP Controlador;
+- GRASP do Polimorfismo;
+- GRASP da Invenção Pura;
+- GRASP da Indireção;
+- e, por fim, GRASP de Variações Protegidas.
 
 Neste documento, serão abordados os tópicos **Especialista**; **Controlador** e; **Alta Coesão** e **Baixo Acoplamento**.
 
