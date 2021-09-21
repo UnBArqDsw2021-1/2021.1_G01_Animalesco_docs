@@ -4,13 +4,14 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 20/09/2021 |  0.1   | Escrita do documento | Hugo Sobral |
+| 20/09/2021 |  1.0   | Revisão do Documento | Durval Carvalho |
 
 
 <div align="justify">
 
 ## 1. Introdução
 
-SOLID, termo definido por Robert C. Martin, é um acrônimo para os 5 princípios que regem o desenvolvimento e o projeto de sistemas computacionais orientados a objetos [3]. Tais diretrizes estabelecem boas práticas que, quando seguidas e implementadas de maneira correta, geram como consequência direta a produção de um sistema computacional robusto e que apresenta uma boa mantenabilidade a medida em que o projeto cresce.
+SOLID, termo definido por Robert C. Martin, é um acrônimo para os 5 princípios que regem o desenvolvimento e o projeto de sistemas computacionais orientados a objetos [3]. Tais diretrizes estabelecem boas práticas que, quando seguidas e implementadas de maneira correta, geram como consequência direta a produção de um sistema computacional robusto e que apresenta uma boa manutenibilidade a medida em que o projeto cresce.
 
 Os 5 princípios SOLID são:
 
@@ -23,7 +24,7 @@ Os 5 princípios SOLID são:
 Este documento se propõe a fornecer uma breve introdução e contextualização acerca de cada um dos princípios e, a partir das definições estabelecidas, traçar a utilização destes durante o desenvolvimento do código do projeto Animalesco.
 
 
-## 2. Princípio da Responsabilidade-Única 
+## 2. Princípio da Responsabilidade-Única
 
 O Princípio da Responsabilidade-Única surge a partir do pressuposto:
 
@@ -104,7 +105,7 @@ def perform_create(self, serializer):
     serializer.save(specie=specie)
 ```
 
-e 
+e
 
 ```python
 def perform_create(self, serializer):
@@ -113,7 +114,7 @@ def perform_create(self, serializer):
 
 podemos observar a implementação e modificação de métodos, já disponibilizados pelas classes pai do próprio *framework*, que seriam utilizados de maneira específica e necessitavam de um comportamento específico devido à dependência destes métodos. Este mesmo exemplo também serve como evidência da utilização do Princípio da Substituição de Liskov.
 
-## 8. Conclusão 
+## 8. Conclusão
 
 A partir do apresentado neste documento, é possível traçar a importância de uma arquitetura limpa para uma implementação de código que seja de fácil manutenção e simples evolução. Os princípios SOLID apresentam um valor imensurável para o alinhamento da equipe e para a produção de códigos limpos.
 
@@ -122,7 +123,7 @@ A partir do apresentado neste documento, é possível traçar a importância de 
 
 - [1] SOLID: The First 5 Principles of Object Oriented Design. **Digital Ocean**. Disponível em <https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design> (Último acesso em 20/09/2021)
 
-- [2] The S.O.L.I.D Principles in Pictures. Thelma U. **backticks & tiles**. Disponível em <https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898> (Último acesso em 20/09/2021)
+- [2] The S.O.L.I.D Principles in Pictures. Thelma U. **backticks & tildes**. Disponível em <https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898> (Último acesso em 20/09/2021)
 
 - [3] Martin, R. C. 2017. Clean Architecture: A Craftsman's Guide to Software Structure and Design
 </div>

@@ -8,6 +8,7 @@
 | 19/09/2021 |  0.3   | Escrita da Alta Coesão e Baixo Acoplamento | Hugo Sobral |
 | 20/09/2021 |  0.4   | Escrita do Controlador | Hugo Sobral |
 | 20/09/2021 |  0.5   | Finalização do documento | Hugo Sobral |
+| 20/09/2021 |  1.0   | Revisão do Documento | Durval Carvalho |
 
 
 
@@ -19,7 +20,7 @@ GRASP é um acrônimo para **General Responsability Assignment Software Patterns
 
 Larman define que o **RDD** é uma maneira de pensar em projetos de Orientação a Objetos que inclui a abstração de comportamentos entre os diferentes módulos do sistema. O *RDD* é baseado em duas grandes camadas de abstração, a camada de *conhecer*, relacionada com instâncias e comunicações internas do código, e a camada de *fazer*, relacionada com os comportamentos e métodos implementados pelos diferentes módulos. A partir do **RDD**, tem-se que os GRASP's são um conjunto pragmático de princípios básicos que fornecem um referencial sólido para a programação orientada a objetos. [1]
 
-Desta forma, é válido afirmar que os GRASP's buscam oferecer um guia bem estruturado para soluções de software que se baseiam no paradigma da Orientação a Objetos. Como consequência direta da utilização dos padrões dentro de um projeto de software, tem-se a produção de uma base de código rovusta e que apresenta um enorme fator de adaptabilidade diante de novas necessidades de projeto, de negócio ou, simplesmente, futuras mudanças planejadas para o código. Um código que segue as diretrizes propostas pelos GRASP's apresenta uma ótima organização entre os diferentes módulos; uma fácil manutenção e, por fim; uma boa capacidade de compreensão por diferentes desenvolvedores. [2]
+Desta forma, é válido afirmar que os GRASP's buscam oferecer um guia bem estruturado para soluções de software que se baseiam no paradigma da Orientação a Objetos. Como consequência direta da utilização dos padrões dentro de um projeto de software, tem-se a produção de uma base de código robusta e que apresenta um enorme fator de adaptabilidade diante de novas necessidades de projeto, de negócio ou, simplesmente, futuras mudanças planejadas para o código. Um código que segue as diretrizes propostas pelos GRASP's apresenta uma ótima organização entre os diferentes módulos; uma fácil manutenção e, por fim; uma boa capacidade de compreensão por diferentes desenvolvedores. [2]
 
 Os GRASP são descritos pelos seguintes tópicos:
     - GRASP Criador;
@@ -39,7 +40,7 @@ Neste documento, serão abordados os tópicos **Especialista**; **Controlador** 
 
 ### 2.1 Definição
 
-O padrão especialista é um dos princípios mais básicos dentro dos 9 GRASP's existentes. O GRASP especialista abrange as camadas de *conhecer* e *fazer* dentro do escopo do RDD. O Especialista traz à tona a ótica do questionamento de quais são as camadas que devem conhecer umas às outras e quão a direção deste conhecimento [1]. Isto é, uma classe X pode instanciar uma classe Y sem que esta tenha de fato contato com a camada implementada em X. 
+O padrão especialista é um dos princípios mais básicos dentro dos 9 GRASP's existentes. O GRASP especialista abrange as camadas de *conhecer* e *fazer* dentro do escopo do RDD. O Especialista traz à tona a ótica do questionamento de quais são as camadas que devem conhecer umas às outras e quão a direção deste conhecimento [1]. Isto é, uma classe X pode instanciar uma classe Y sem que esta tenha de fato contato com a camada implementada em X.
 
 Este GRASP implica em um caminho pragmático para a decisão da arquitetura do sistema: [3]
 
@@ -79,7 +80,7 @@ Desta forma, pode-se dizer que cada um dos arquivos dentro de um projeto Django 
 
 ### 3.1 Definição
 
-O GRASP Controlador propõe que, dentro de um projeto orientado a objetos, um componente específico para lidar com as requisições dos diferentes atores do sistema deve existir[4]. Este padrão indica que, paralelamente à camada de lógica de negócios, UI e processamento de dados, uma camada puramente responsável pelo controle dos eventos gerados pelo sistema deve estar implementada. Desta forma, os arquivos controladores funcionam como pontos que concentram e delegam as atividades para os módulos corretos [3]. 
+O GRASP Controlador propõe que, dentro de um projeto orientado a objetos, um componente específico para lidar com as requisições dos diferentes atores do sistema deve existir[4]. Este padrão indica que, paralelamente à camada de lógica de negócios, UI e processamento de dados, uma camada puramente responsável pelo controle dos eventos gerados pelo sistema deve estar implementada. Desta forma, os arquivos controladores funcionam como pontos que concentram e delegam as atividades para os módulos corretos [3].
 
 ### 3.2 Utilização
 
@@ -105,7 +106,7 @@ Na imagem acima, é possível observar a estrutura de arquivos de um **app** no 
     </figcaption>
 </p>
 
-O arquivo ```views.py``` apresenta a implementação da classe ```VaccineViewset``` que herda da classe ```ModelViewSet```. Toda a lógica para como os dados devem ser recuperados e como estes devem ser retornados por meio de ```QuerySets``` está definido na classe ```ModelViewSet```. Neste arquivo estão todas as configurações necessárias para determinar a forma com que o framework vai receber, tratar e direcionar as requisições efetuadas.
+O arquivo ```views.py``` apresenta a implementação da classe ```VaccineViewSet``` que herda da classe ```ModelViewSet```. Toda a lógica para como os dados devem ser recuperados e como estes devem ser retornados por meio de ```QuerySets``` está definido na classe ```ModelViewSet```. Neste arquivo estão todas as configurações necessárias para determinar a forma com que o framework vai receber, tratar e direcionar as requisições efetuadas.
 
 ## 4. Alta Coesão e Baixo Acoplamento
 
@@ -115,14 +116,14 @@ Para definir o princípio do Baixo Acoplamento, antes é preciso definir em term
 
 - a menor dependência entre as classes;
 - menor impacto por mudanças em classes existentes;
-- maior potencial de reutilização de código. 
+- maior potencial de reutilização de código.
 
-A Alta Coesão surge como um princípior avaliativo para ser implementado em conjunto com o princípio do Baixo Acoplamento. A partir da Alta Coesão é possível realizar as medidas necessárias na camada de responsabilidades de cada um dos componentes do sistema, isto é, a partir da diretriz da Alta Coesão é possível determinar se diferentes elementos estão fortemente conectados ou altamente atrelados na camada de *conhecimento*.
+A Alta Coesão surge como um princípio avaliativo para ser implementado em conjunto com o princípio do Baixo Acoplamento. A partir da Alta Coesão é possível realizar as medidas necessárias na camada de responsabilidades de cada um dos componentes do sistema, isto é, a partir da diretriz da Alta Coesão é possível determinar se diferentes elementos estão fortemente conectados ou altamente atrelados na camada de *conhecimento*.
 
 
 ### 4.2 Utilização
 
-Ao utilizarmos os padrões já estabelecidos pelo *framework* **Django REST**, já estamos utilizando as práticas da Alta Coesão e Baixo acoplamento, visto que cada um dos arquivos tem sua própria responsabilidade e seus próprios métodos definidos. Desta forma, a própria ferramenta já proporciona um nível adequado de conexão entre os componentes do código.
+Ao utilizarmos os padrões já estabelecidos pelo _framework Django REST_, já estamos utilizando as práticas da Alta Coesão e Baixo acoplamento, visto que cada um dos arquivos tem sua própria responsabilidade e seus próprios métodos definidos. Desta forma, a própria ferramenta já proporciona um nível adequado de conexão entre os componentes do código.
 
 ## 5. Conclusão
 
