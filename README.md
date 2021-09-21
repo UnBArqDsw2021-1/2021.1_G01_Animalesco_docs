@@ -98,23 +98,23 @@ Uma aplicação para realizar o controle e acompanhamento para com a saúde dos 
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 <p align='center'>
-    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-8.png'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-8.png'>
 </p>
 
 <p align='center'>
-    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-9.png'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-9.png'>
 </p>
 
 <p align='center'>
-    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-10.png'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-10.png'>
 </p>
 
 <p align='center'>
-    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-11.png'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-11.png'>
 </p>
 
 <p align='center'>
-    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/1a9bf1ce1d621c0419b19a417f8f1108d0a79384/docs/assets/images/page-12.png'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-12.png'>
 </p>
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
