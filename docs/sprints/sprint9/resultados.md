@@ -1,4 +1,4 @@
-# <center> Planejamento sprint 9
+# <center> Resultado sprint 9
 > Período: 20/09/2021 até 27/09/2021  
 > Data da reunião: 28/09/2021
 
@@ -12,12 +12,9 @@
 | :--------: | :----: | :------------------: | :---------------: |
 | 04/10/2021 |  1.0   | Criação do documento | Hugo Sobral |
 
-## Objetivo da sprint
-A Sprint 9 é a sprint focada na continuidade do desenvolvimento da base de código para a disciplina e também para os estudos e contextualização da matéria da disciplina. Como tarefas foram alocadas tarefas de código e spikes focados nas duas primeiras seções do último módulo da disciplina.
-
 <br/>
 
-## Issues da sprint
+## Issues entregues
 
 | Número | Issue | Pontuação | Membros | Revisores |
 | -- | -- | -- | -- | -- |
@@ -27,32 +24,50 @@ A Sprint 9 é a sprint focada na continuidade do desenvolvimento da base de cód
 | [#151](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues/151) | Terceira Avaliação por Pares | - | Todos participam | - |
 | [#155](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues/155) | Spike - Arquitetura de Software e Documento de Arquitetura | - | Todos participam | - |
 | [#156](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues/156) | Spike - Padrões Arquiteturais (Partes I e II) | - | Todos participam | - |
+
+#### Pontuação entregue da sprint: 10
+
+## Dívidas técnicas
+
+| Número | Issue | Pontuação | Membros | Revisores |
+| -- | -- | -- | -- | -- |
 | [#157](https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/issues/157) | Documentação dos resultados da sprint 8 e planejamento da sprint 9 sprint | 2 | Hugo Sobral | Leonardo Gomes |
 
 
+<br />
 
-#### Pontuação da sprint: 12
+## Métricas da sprint
 
-<br/>
+### Quadro de conhecimento
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/quadro_sprint9.png'>
 
-## Quadro de divisão da pontuação
+### Burndown
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/burndown_sprint9.png'>
 
-| Participante | Divisão de pontos por issue | Pontuação individual |
-| -- | -- | -- |
-| Daniela Soares    | 1.25 | 1.25 |
-| Durval Carvalho   | 1 | 1 |
-| Hugo Sobral       | 1.25 + 2 | 3.25 |
-| João Vitor Lopes  | 1.25 | 1.25 |
-| Leonardo Gomes    | 1.5 | 1.5 |
-| Lorrany Souza     | 1 | 1 |
-| Rafael Leão       | 1.25 | 1.25 |
-| Vinicius Oliveira | 1.5 | 1.5 |
+### Velocity
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/velocity_sprint9.png'>
+
+<br />
+
+## Retrospectiva da Sprint
+
+### O que teve de bom na Sprint 7?
+
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_positiva_sprint9.png'>
+
+### O que aconteceu na Sprint 7 que podemos melhorar?
+
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_negativa_sprint9.png'>
+
+### Possíveis planos de ação para os pontos negativos
+
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_melhoria_sprint9.png'>
 
 
-<br/>
+<br />
 
 ## Gravações disponíveis
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TM_XBZFY-KE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BuA5PiuiCdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
