@@ -29,6 +29,19 @@ Porém, o mau uso desta prática pode gerar alguns obstáculos, entre eles estã
 * Não produzi aqui, sendo uma premissa que ocorre quando os desenvolvedores tendem a reescrever componentes, pois acreditam que podem melhorá-los;
 * Criação, manutenção e uso de uma biblioteca de componentes, é uma prática que pode sair bem cara, pois as atuais técnicas de classificação e recuperação de componentes de software são imaturas para garantir o sucesso deste procedimento.
 
+## 3. Tipos de reutilização
+Os tipos de reutilização podem ser divididos em 3 categorias, cada uma com dois tipos específicos.
+Referente a motivação:
+* **Oportunista -** quando a equipe identifica a presença de componentes já prontos que podem ser utilizados;
+* **Planejada -** quando a equipe projeta componentes e artefatos para que futuramente sejam reutilizados;
+Referente aos componentes utilizados:
+* **Interna -** quando a equipe utiliza os artefatos que os próprios desenvolveram.
+* **Externa -** quando a equipe utiliza componentes de terceiros;
+E referente a estrutura da reutilização:
+* **Referenciada -** o componente tem uma referência ao componente reutilizado;
+* **Bifurcada -** o componente tem uma cópia local ou privada do componente reutilizado.
+
+
 
 
 ## Bibliografia
