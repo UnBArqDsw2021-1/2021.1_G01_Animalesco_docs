@@ -87,3 +87,6 @@
     - [Resultados](sprints/sprint8/resultados.md)
   - Sprint 9
     - [Planejamento](sprints/sprint9/planejamento.md)
+    - [Resultados](sprints/sprint9/resultados.md)
+  - Sprint 10
+    - [Planejamento](sprints/sprint10/planejamento.md)

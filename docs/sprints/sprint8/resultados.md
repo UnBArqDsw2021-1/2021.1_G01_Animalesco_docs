@@ -36,23 +36,23 @@
 ## Métricas da sprint
 
 ### Quadro de conhecimento
-<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/quadro_sprint8.png'>
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/quadro_sprint7.png'>
 
 ### Burndown
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/burndown_sprint8.png'>
 
 ### Velocity
-<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/velocity_sprint8.png'>
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/metricas/velocity_sprint9.png'>
 
 <br />
 
 ## Retrospectiva da Sprint
 
-### O que teve de bom na Sprint 7?
+### O que teve de bom na Sprint 8?
 
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_positiva_sprint8.png'>
 
-### O que aconteceu na Sprint 7 que podemos melhorar?
+### O que aconteceu na Sprint 8 que podemos melhorar?
 
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/sprints/retrospectiva_negativa_sprint8.png'>
 
