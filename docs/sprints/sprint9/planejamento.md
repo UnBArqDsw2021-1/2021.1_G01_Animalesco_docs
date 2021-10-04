@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 04/10/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 04/10/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 ## Objetivo da sprint
 A Sprint 9 é a sprint focada na continuidade do desenvolvimento da base de código para a disciplina e também para os estudos e contextualização da matéria da disciplina. Como tarefas foram alocadas tarefas de código e spikes focados nas duas primeiras seções do último módulo da disciplina.

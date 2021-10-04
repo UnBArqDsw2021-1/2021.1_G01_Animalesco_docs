@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 04/10/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 04/10/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 ## Objetivo da sprint
 A Sprint 10 é a última sprint com trabalhos de código para a disciplina. O objetivo da sprint consiste em terminar o escopo da base de código e mapear possíveis ajustes para a próxima sprint, além de iniciar os trabalhos de documentação acerca da arquitetura de código adotada durante o desenvolvimento.
