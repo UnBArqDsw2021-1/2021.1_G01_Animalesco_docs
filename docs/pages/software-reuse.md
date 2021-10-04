@@ -6,6 +6,7 @@
 | 03/10/2021 |  0.1  | Escrita da introdução | João Vitor Farias |
 | 04/10/2021 |  0.2  | Escrita dos benefícios e obstáculos, e das técnicas de reuso | João Vitor Farias |
 | 04/10/2021 |  0.3  | Escrita dos tipos de reutilização e adição da bibliografia | João Vitor Farias |
+| 04/10/2021 |  0.4  | Revisão e reformulando tópico 4 | Daniela Soares |
 
 <div align="justify">
 
@@ -30,6 +31,7 @@ Porém, o mau uso desta prática pode gerar alguns obstáculos, entre eles estã
 * Custo de manutenção, caso o código fonte de um sistema reutilizável não esteja disponível, gera um aumento do custo de manutenção, por conta que os elementos do software podem se tornar cada vez mais incompatíveis com as mudanças necessárias para adaptação do sistema [1];
 * Não produzi aqui, sendo uma premissa que ocorre quando os desenvolvedores tendem a reescrever componentes, pois acreditam que podem melhorá-los;
 * Criação, manutenção e uso de uma biblioteca de componentes, é uma prática que pode sair bem cara, pois as atuais técnicas de classificação e recuperação de componentes de software são imaturas para garantir o sucesso deste procedimento.
+ 
 
 ## 3. Tipos de reutilização
 
@@ -51,6 +53,7 @@ E referente a estrutura da reutilização:
 * **Bifurcada -** o componente tem uma cópia local ou privada do componente reutilizado.
 
 ## 4. Técnicas de reuso de software
+  A reutilização pode ser executada de formas diferentes, dependendo da capacidade do ambiente de implementação. A técnica é mais simples é copiar o código de um lugar para outro. Isso não é aconselhável, pois não é realmente reutilização. Várias cópias de código fonte são difíceis de manter e eventualmente podem divergir umas das outras. A reutilização significa o uso do mesmo código para executar tarefas semelhantes, como forma de aumentar a qualidade e reduzir a sobrecarga.
 
 ### 4.1. Linhas de produto de software
 
