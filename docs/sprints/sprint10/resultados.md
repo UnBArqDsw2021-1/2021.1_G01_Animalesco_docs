@@ -1,4 +1,4 @@
-# <center> Resultado sprint 8
+# <center> Resultado sprint 10
 > Período: 27/09/2021 até 04/10/2021  
 > Data da reunião: 04/10/2021
 

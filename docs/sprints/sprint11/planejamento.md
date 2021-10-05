@@ -28,7 +28,7 @@ A Sprint 11 tem como objetivo a finalização de bugs que surgiram no FrontEnd e
 
 
 
-#### Pontuação da sprint: 
+#### Pontuação da sprint: 23
 
 <br/>
 
