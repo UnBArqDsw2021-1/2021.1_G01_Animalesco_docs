@@ -31,7 +31,7 @@ A Sprint 10 é a última sprint com trabalhos de código para a disciplina. O ob
 
 
 
-#### Pontuação da sprint: 
+#### Pontuação da sprint: 23
 
 <br/>
 
