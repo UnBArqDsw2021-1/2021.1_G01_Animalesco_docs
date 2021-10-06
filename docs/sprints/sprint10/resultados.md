@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 04/10/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 06/10/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 <br/>
 

@@ -11,6 +11,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 04/10/2021 |  1.0   | Criação do documento | Hugo Sobral |
+| 06/10/2021 |  1.1   | Revisão do documento | Leonardo Gomes |
 
 ## Objetivo da sprint
 A Sprint 11 tem como objetivo a finalização de bugs que surgiram no FrontEnd e finalizar a documentação necessária para a última entrega da disciplina de arquitetura e desenho de software.
