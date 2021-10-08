@@ -1,13 +1,19 @@
-# Animalesco
-### Arquitetura
-#### Versão 1.7
+# <center> Documento de Arquitetura - DAS
+
+#### Histórico de Versão
+|    Data    | Versão | Descrição            |    Autor(es)    |
+| :--------: | :----: | :------------------: | :-------------: |
+| 07/10/2021 |  0.1   | Criação do Documento | Durval Carvalho, Hugo Sobral e Leonardo Gomes |
+| 07/10/2021 |  0.2   | Escrita do Sumário | Durval Carvalho |
+| 07/10/2021 |  0.3   | Escrita da Introdução | Durval Carvalho |
+| 07/10/2021 |  0.4   | Escrita da Finalidade | Durval Carvalho |
+| 07/10/2021 |  0.5   | Escrita do Escopo | Durval Carvalho |
+| 07/10/2021 |  0.6   | Escrita das Definições, Acrônimos e Abreviações | Durval Carvalho |
+| 07/10/2021 |  0.7   | Escrita da Visão Geral | Durval Carvalho |
+| 07/10/2021 |  0.8   | Escrita da Representação Arquitetural | Durval Carvalho |
 
 
-## Histórico de Revisão
-
-| Data | Versão | Descrição | Autor |
-|  |  |  |  |
-
+<hr>
 
 ## Sumário
  [1. Introdução](#_1-introdução) <br>
@@ -44,53 +50,93 @@
 &emsp; &emsp; &emsp; [4.2.2.1 Diagrama de Classe do Gaia-Esporte](#_4221-diagrama-de-classe-do-gaia-esporte) <br>
 &emsp; &emsp; &emsp; [4.2.2.2 Diagrama de Classe do Gaia-Ciclone](#_4222-diagrama-de-classe-do-gaia-ciclone) <br>
 
+<hr>
+
 ## 1. Introdução
+
+&emsp;&emsp; O documento de arquitetura - DAS tem como objetivo descrever a arquitetura da solução de software _Animalesco_. Esse sistema tem como finalidade ajudar os usuários que possuem animais de estimação a cuidar de seus pets. Por meio do aplicativo mobile disponível para os sistemas operacionais Android e IOS, os usuários podem registar seus animais de estimação, assim como as vacinas, os medicamentos, os banhos e visitas veterinárias.
+
 ### 1.1 Finalidade
-<p align="justify">&emsp;&emsp;Este documento tem como finalidade fornecer uma visão geral da arquitetura do Gaia, utilizando-se de diversas visões arquiteturais - tais como a visão lógica e de caso de uso  - a fim de facilitar o entendimento dos processos e funcionamento de todo o sistema. Tem também como objetivo transmitir as decisões arquiteturais significativas tomadas em relação ao mesmo.</p>
+
+Esse documento apresenta a visão arquitetural geral do sistema do projeto _Animalesco_, por meio de diversas visões arquiteturais em diferentes graus de detalhamento. A finalidade desse documento é capturar e comunicar as diversas decições arquiteturais que foram tomadas no decorrer do desenvolvimento do projeto.
 
 ### 1.2 Escopo
-<p align="justify">&emsp;&emsp;Através desse documento, é possível obter um melhor entendimento da arquitetura do Gaia, permitindo ao leitor compreender o funcionamento de seu sistema, como também a abordagem utilizada para o seu desenvolvimento.</p>
+
+&emsp;&emsp; Esse documento se aplica ao sistema de gerenciamento de animais doméstico _Animalesco_. Nesse documento estão contemplados os padrões de software, componentes de software, plataformas e frameworks de desenvolvimento, casos de uso e serviços de persistência de dados.
+
+&emsp;&emsp; É também escopo deste documento orientar todo o pessoal técnico envolvido nas equipes de desenvolvimento do projeto, oferecendo diretrizes quanto às tecnologias utilizadas nesse projeto, assim como seu padão de utilização.
 
 ### 1.3 Definições, Acrônimos e Abreviações
-| Termo | Definição |
-|--|--|
-| API | Application Program Interface (Interface de Programação de Aplicações) |
-| HTTP | HyperText Transfer Protocol (Protocolo de Transferência de Hipertexto) |
-| Chatbot | Software de inteligência artificial o qual simula uma conversação humana de forma interativa |
+| Abreviação | Acrônimo | Definição |
+| :--------: | :------: | :-------: |
+| API        | Application Program Interface (Interface de Programação de Aplicações) | API é um interface de programação de aplicações. |
+| HTTP    | HyperText Transfer Protocol (Protocolo de Transferência de Hipertexto) | O HTTP é um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos. |
+| MVC     | Model View Controller | Padrão de arquitetura de software onde M significa modelo sendo responsável pela parte de regras de negócio, V a visualização responsável pela parte de interfaces e C a parte de controle dos dados. |
+| S.O     | Sistema Operacional | O S.O. é o software responsável pelo gerenciamento de todo o hardware do seu computador. |
+| REST    | Representational State Transfer | REST é um estilo de arquitetura de software que define um conjunto de restrições a serem usadas para a criação de web services (serviços Web). |
+| DRY | Don't Repeat Yourself | DRY é um conceito de programação de computadores o qual propõe que cada porção de conhecimento em um sistema deve possuir uma representação única, de autoridade e livre de ambiguidades em todo o sistema. |
+| WEB | World Wide Web | A World Wide Web designa um sistema de documentos em hipermídia que são interligados e executados na Internet. |
 
 ### 1.4 Referências
->The Rasa Core dialogue engine; Disponível em: <https://rasa.com/docs/core/>; Acesso em 29 de março de 2019.
->Rasa NLU> Language Understanding for chatbots and AI assistants; Disponível em:<https://rasa.com/docs/nlu/>; Acesso em 29 de março de 2019.
->SANTO, Marco; A importância de um API Gateway na arquitetura de microsserviços; Disponível em: <http://dtidigital.com.br/blog/a-importancia-de-um-api-gateway-na-arquitetura-de-microsservicos/>; Acesso em 29 de março de 2019.
->JUNIOR, Luiz Fernando Duarte; API Gateway em arquitetura de microsserviços com Node.js; Disponível em: <https://imasters.com.br/apis-microsservicos/api-gateway-em-arquitetura-de-microservices-com-node-js>: Acesso em 29 de março de 2019.
->LEWIS, James; FOWLER, Martin; Microsserviços em poucas palavras; Disponível em: <https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell>; Acesso em 29 de março de 2019.
->MARIOTTI, Flávio. Como documentar a Arquitetura de Software. Disponível em: <http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx>. Acesso em: 29 de março de 2019.
->SILVA, Ana Carolina; DINIZ, Arthur; OLIVEIRA, Bruna; SILVA, Guilherme; LACERDA, Guilherme; OLIVEIRA, Ícaro; GOMES, Weyler; BESSA, Cecília; FILHO, Elmar; CLÍMACO, Gabriel; FERREIRA, Maria Calorina; SOUZA, Júlio. Trezentos: Documento de Arquitetura. Disponível em: <https://github.com/fga-eps-mds/2017.1-Trezentos/wiki/Documento-de-Arquitetura>. Acesso em: 29 de março de 2019.
->KAMAL, Byron; CERQUEIRA, Eduardo; ALVES, Gabriel; ARAGÃO, Igor; GUIMARÃES, Igor; JARDIM, João Pedro; DOS SANTOS, Marcelo; ASSUNÇÃO, Mateus; ALMEIDA, William. IncluCare: Architecture Document. Disponível em: <https://github.com/fga-eps-mds/2018.1-IncluCare_API/blob/master/docs/ARCHITECTURE_DOCUMENT.md>. Acesso em: 29 de março de 2019.
->The API Gateway Pattern; Disponível em: <https://freecontent.manning.com/the-api-gateway-pattern/>; Acesso em 12 de abril de 2019.
->RICHARDSON, Chris; Pattern: API Composition; Disponível em: <https://microservices.io/patterns/data/api-composition.html>; Acesso em 12 de abril de 2019.
+
+* MARIOTTI, Flávio. Como documentar a Arquitetura de Software. Disponível em: <http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx>. Acesso em 07 de Outubro de 2021.
+
+* Muhamad, Youssef; Freitas, Esio; Campos, Felipe; Junior, Rogério; Albino, Gabriel; Ribas, Fabiana Luiza V. P.; Nery, Marcos; Borges, Kaique; Nascimento, Lucas Dutra Ferreira do. Pax App: Documento de Arquitetura. Disponível em: <https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-4-b/DAS>. Acesso em 07 de Outubro de 2021.
+
+
+* Albuquerque, Luciana; Muniz, Amanda; Duarte, Indiara; Patrocinio, Sofia; Gouveia, Micaella; Taira, Luís Henrique Pereira; Rios, Calebe; Buters, Samuel. Gaia: Documento de Arquitetura. Disponível em: <https://fga-eps-mds.github.io/2019.1-Gaia/#/projeto/DocArquitetura>. Acesso em 07 de Outubro de 2021.
+
+* The API Gateway Pattern; Disponível em: <https://freecontent.manning.com/the-api-gateway-pattern/>; Acesso em 07 de Outubro de 2021.
+
+* RICHARDSON, Chris; Pattern: Pattern: API Gateway / Backends for Frontends; Disponível em: <https://microservices.io/patterns/apigateway.html>; Acesso em 07 de Outubro de 2021.
+
+* NEWMAN, Sam; Building Microservices Second edition: Designing Fine-Grained Systems. 2nd Ed. O'Reilly. ISBN 1492034029, 978-1492034025.
 
 ### 1.5 Visão Geral
-<p align="justify">&emsp;&emsp;Este documento apresenta, de forma detalhada, a arquitetura, os requisitos e as decisões tomadas a respeito do Gaia.</p>
-<p align="justify">&emsp;&emsp;O documento está estruturado da seguinte maneira:</p>
-<ul>
-	<li>Histórico da Revisão: Responsável por deixar explícito cada alteração feita no documento e as informações a respeito do mesmo;</li>
-	<li>Introdução: Fornece uma visão geral do documento inteiro;</li>
-	<li>Representação arquitetural: Descreve qual é a arquitetura de software do sistema atual e como ela é representada;</li>
-	<li>Metas e restrições da arquitetura: Descreve os requisitos e objetivos do software que têm algum impacto sobre a arquitetura;</li>
-	<li>Visão Lógica: Descreve as partes significativas do ponto de vista da arquitetura do modelo de design;</li>
-	<li>Visão de Processos: descreve a decomposição do sistema em processos leves e
-processos pesados;</li>
-<li>Visão de Implantação: descreve uma ou mais configurações da rede física na qual o software é implantado e executado;</li>
-<li>Visão de Implementação: descreve a estrutura geral do modelo de implementação, a divisão do software em camadas e os subsistemas no modelo de implementação e todos os componentes significativos do ponto de vista da arquitetura;</li>
-<li>Visão de Dados: descreve a perspectiva de armazenamento de dados persistentes do sistema;</li>
-<li>Tamanho e Desempenho: descreve as principais características de dimensionamento do software que têm um impacto na arquitetura, bem como as restrições do desempenho desejado;</li>
-<li>Qualidade: descreve como a arquitetura do software contribui para todos os recursos (exceto a funcionalidade) do sistema.</li>
-</ul>
+
+Para melhor entendimento do documento, o texto foi dividido em X partes, das quais documento as decições tomadas durante o desenvolvimento da aplicação _Animalesco_. Cada um dos X tópicos traz consigo suas características e importâncias para esse documento. Esses tópicos estão estruturados da seguinte forma:
+
+| Numeração | Tópico | Definição |
+| :-: | :----: | :-------: |
+| 02. | Representação Arquitetural | Sessão que descreve a arquitetura do software |
+| 03. | Metas e Restrições da Arquitetura | Sessão que descreve os requisitos e os objetivos do software que impactam na arquitetura |
+| 04. | Visão de Casos de Uso | TODO |
+| 05. | Visão Lógica | Sessão que descreve as partes significativas do ponto de vista da arquitetura do modelo de design |
+| 06. | Visão de Processos | Sessão que descreve a decomposição do sistema em processos leves e processos pesados |
+| 07. | Visão de Implantação | Sessão que descreve a estrutura geral do modelo de implementação, a divisão do software em camadas e os subsistemas no modelo de implementação e todos os componentes significativos do ponto de vista da arquitetura |
+| 08. | Visão de Dados | Sessão que descreve a perspectiva de armazenamento de dados persistentes do sistema |
+| 09. | Tamanho e Desempenho | Sessão que descreve as principais características de dimensionamento que impactam na arquitetura, bem como as restrições do desempenho desejado |
+| 10. | Qualidade | TODO |
 
 ## 2. Representação Arquitetural
-### 2.1 Diagrama de Relações
 
+Com o advento e o sucesso da Web, a maneira de entregar serviços de interface de usuários mudou de uma aplicação desktop pesada para um interfaces leves servidas via web. Porém, as aplicações instaláveis não deixaram de existir, sendo os aplicativos mobile um grande exemplo disso. Dessa maneira, a criação de uma dois produtos de software, muitas vezes multiplataforma (Android, Windows, Linux, IOS, macOS, etc) se tornou complexa e redundante, sendo necessário rescrever várias vezes a mesma lógica de negócio em vários base de código diferentes. (NEWMAN, 2021)
+
+Dado o devido problema, uma solução criada e amplamente utiliza nas aplicações de software modernas é a utilização de uma única API do lado do servidor, cuja responsabilidade é aplicar as diversas lógicas de negócios e realizar a comunicação com a camada de persistência de dados. Esse serviço do lado do servidor irá servir as funcionalidades para as várias aplicações de interfaces de usuários, por meio de uma API REST, utilizando o protocolo HTTP.
+
+
+<p align='center'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/das-documento-de-arquitetura/bff.png'>
+  <figcaption align='center'>
+      <b>Figura 1: Ilustração com duas aplicações de interface de usuário consumindo uma única API</b>
+      <br>
+      <small>Fonte: (NEWMAN, 2021)</small>
+  </figcaption>
+</p>
+
+Esse padrão arquitetural é derivado do estilo arquitetural N-Camandas, onde é utilizado 3 camadas: a camada de visualização (serviços de interface gráfica), a camada de regras de negócios (API) e serviço de persistência de dados (servidor de banco de dados). Uma nomenclatura comum para esse padrão arquitetural é o _Backends For Frontends_.
+
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/das-documento-de-arquitetura/das-diagram.jpg'>
+  <figcaption align='center'>
+      <b>Figura 2: Diagrama com os principais módulos que compõe a arquitetura do sistema Animalesco</b>
+      <br>
+  </figcaption>
+</p>
+
+A Figura 2 mostra uma visão macro dos subsistemas que compõe a solução desenvolvida no projeto Animalesco. Na camada mais alta, está presente um cluster de serviços de interface de usuários. Um cluster é um conjunto de instância de um mesmo serviço, com a finalidade de aumentar a disponibildiade do serviço para cenários de alto volume de acesso. A camada logo abaixo é a camada do serviço de API Gateway, cuja finalidade é distribuir a carga de acesso da camada de cima para as várias instâncias da camada de baixo. A camada logo abaixo é a camada das APIs, cuja finalidade é disponibilizar os serviços e funcionalidades para a camada de serviços de interface gráfica. E por fim, a última camada é a camada de persistência de dados, que no diagrama é representado pelo serviço denominado Aurora DB, forneceido pela AWS Amazon, cuja finalidade é atuar como um banco de dados.
+
+### 2.1 Diagrama de Relações
+<!--
 ![](../assets/imgs/architecture/arquiteturaV06.png)
 Imagem 01 - Representação da arquitetura através de um diagrama de relações
 
@@ -108,8 +154,8 @@ Imagem 01 - Representação da arquitetura através de um diagrama de relações
 <li>API OpenWeatherMaps;</li>
 <li>API OpenCage Geocoder;</li>
 <li>API Aeris Weather;</li></ul>
-<p align="justify">&emsp;&emsp;Além do comportamento interno da Gaia, outro fator importante a ser considerado é a criação do chatbot em si. Para isso, vários fatores precisam ser considerados, como o uso de linguagem natural. Por isso, será utilizado a tecnologia Rasa, que se divide em Rasa Core e Rasa NLU. Rasa Core é de extrema importância para criar um bot baseado em Machine Learning. Já o Rasa NLU é responsável pelo processamento da linguagem natural. Essa combinação vai garantir que a Gaia tenha uma comunicação acessível com o usuário.</p>
-
+<p align="justify">&emsp;&emsp;Além do comportamento interno da Gaia, outro fator importante a ser considerado é a criação do chatbot em si. Para isso, vários fatores precisam ser considerados, como o uso de linguagem natural. Por isso, será utilizado a tecnologia Rasa, que se divide em Rasa Core e Rasa NLU. Rasa Core é de extrema importância para criar um bot baseado em Machine Learning. Já o Rasa NLU é responsável pelo processamento da linguagem natural. Essa combinação vai garantir que a Gaia tenha uma comunicação acessível com o usuário.</p> -->
+<!--
 ### 2.2 Representação dos Microsserviços
 
 #### 2.2.1 Gaia-Esporte
@@ -126,10 +172,10 @@ Imagem 01 - Representação da arquitetura através de um diagrama de relações
 <p align="justify">&emsp;&emsp;O microsserviço Gaia-Ciclone é responsável por manter notificações sobre furacões, tufões e ciclones. Ele deve fazer requisições para a API externa Aeris Weather a cada duas horas, no endpoint /tropicalcyclones que retorna a lista de ciclones que estão acontecendo. Sempre que essa lista retornar um objeto, o microsserviço terá que mandar notificações para os usuários que a agendaram anteriormente. Além disso, em sua resposta deve conter o nome da localidade que está sofrendo com as tempestades de vento. Por isso, deverá fazer requisições para a API OpenCage Geocoder.</p>
 
 #### 2.2.3 API Gateway
-<p align="justify">&emsp;&emsp;Dentro de uma arquitetura de microsserviços ter um API Gateway é importante para gerenciar o acesso às API’s de um determinado sistema. Ou seja, ele é um padrão de software que funciona de forma similar a uma fachada sendo o único ponto de acesso, - que controla as entradas e saídas de dados, o tráfego de tarefas e monitora, - para as API’s internas. Sua existência reduz problemas causados pela interação entre cliente e microsserviços, além de conservar o ambiente dos serviços. </p>
+<p align="justify">&emsp;&emsp;Dentro de uma arquitetura de microsserviços ter um API Gateway é importante para gerenciar o acesso às API’s de um determinado sistema. Ou seja, ele é um padrão de software que funciona de forma similar a uma fachada sendo o único ponto de acesso, - que controla as entradas e saídas de dados, o tráfego de tarefas e monitora, - para as API’s internas. Sua existência reduz problemas causados pela interação entre cliente e microsserviços, além de conservar o ambiente dos serviços. </p> -->
 
 ### 2.3 Padrões
-
+<!--
 #### 2.3.1 Padrão API Gateway
 <p align="justify">&emsp;&emsp;Uma API Gateway é um serviço responsável por uma única entrada para os serviços internos. Ela organiza e recebe as requisições externas e as distribui para os microsserviços internos. Além disso, ela precisa se preocupar com as prioridades de requisição e com autenticação.</p>
 <p align="justify">&emsp;&emsp;O Padrão API Gateway é bastante similar ao padrão Facade (Fachada), já que também encapsula a arquitetura interna e provê uma API para os usuários. Suas principais responsabilidades são encaminhar as requisições, compor a API, gerenciar os requests utilizando o padrão API Composition, - ao chamar os diferentes microsserviços e agregar os resultados em uma resposta para o usuário. Cada uma dessas responsabilidades possui características próprias e para o entendimento do padrão API Gateway é preciso entender cada uma delas.</p>
@@ -139,11 +185,16 @@ Imagem 01 - Representação da arquitetura através de um diagrama de relações
 
 #### 2.3.2 Padrão API Composition
 <p align="justify">&emsp;&emsp;Ao encaminhar as requisições para os microsserviços internos a API Gateway irá desmembrar a requisição em pedidos menores e irá mandá-los para cada um dos microsserviços correspondentes. A papel do padrão API Composition é  pegar os resultados individuais de cada microsserviço anteriormente solicitado e compor uma resposta única que será mandado para o usuário.</p>
-
+ -->
 
 ## 2.4 Tecnologias
 
-#### 2.4.1 API do Bot de Telegram
+### 2.4.1. Django e Django REST Framework
+
+### 2.4.2. Aurora DB
+### 2.4.3. Expo
+
+<!-- #### 2.4.1 API do Bot de Telegram
 <p align="justify">&emsp;&emsp;A API de bot do Telegram permite que bots interajam diretamente com usuários por meio de mensagens e comandos. Ela será usada para um dos deploys, de forma a garantir que a Gaia consiga atingir uma faixa de usuários que não utilizam o Facebook. Para isso a Gaia precisará atender alguns critérios, já que o Telegram exige uma conexão HTTPS para interagir com a API e pede que todos os desenvolvedores suportem os comandos ‘/start’, ‘/help’, e ‘/settings’ em seus bots para facilitar a interação de usuários. </p>
 
 #### 2.4.2 API de Mensagens do Facebook Messenger
@@ -173,12 +224,12 @@ Imagem 03 - Fluxo básico da tecnologia NodeJS
 
 #### 2.4.7 MongoDB
 
-<p align="justify">&emsp;&emsp;MongoDB é um framework de banco de dados noSQL. Ele é orientado a documento, livre de esquemas, não relacional, e open-source. MongoDB trabalha com arquivos JSON que contém toda a informação do banco de dados.</p>
+<p align="justify">&emsp;&emsp;MongoDB é um framework de banco de dados noSQL. Ele é orientado a documento, livre de esquemas, não relacional, e open-source. MongoDB trabalha com arquivos JSON que contém toda a informação do banco de dados.</p> -->
 
 ## 3. Metas e Restrições de Arquitetura
 
 ### 3.1 Restrições Tecnológicas
-
+<!--
 <p align="justify">&emsp;&emsp;Para o desenvolvimenta da Gaia serão utilizados as seguintes tecnologias:</p>
 
 - Rasa: Conjuntos de ferramentas de Machine Learning para a criação de chatbots.
@@ -193,18 +244,18 @@ Imagem 03 - Fluxo básico da tecnologia NodeJS
 - O sistema deve ter integração com o Facebook;
 - O sistema deve conversar com o usuário em linguagem natural;
 - O sistema deve respeitar a personalidade do bot;
-- O sistema deve aprender novos comportamentos de acordo com a resposta do usuário;
+- O sistema deve aprender novos comportamentos de acordo com a resposta do usuário; -->
 
 ## 4. Visão Lógica
 
 ### 4.1 Visão Geral
-
-<p align=”justify”>&emsp;&emsp; A aplicação do ChatBot Gaia é construída com a tecnologia Rasa em linguagem Python no bot e sobre a plataforma Node.js em linguagem JavaScript nos microsserviços. O objetivo do RasaNLU é aplicar algoritmos de linguagem natural para extrair a intenção do usuário (intents) e a partir do Rasa Core é possível gerir o diálogo entre o usuário e o bot. A principal funcionalidade é o policy, que recebe a intent do usuário, atualiza o tracker() e prevê a melhor ação do bot (utter, action, listening). A plataforma Node.js é um ambiente de tempo de execução que executa o código em JavaScript para escrever ferramentas de linha de comando e para scripts do lado do servidor, capaz de executar uma entrada/saída assíncrona, que permite que outro processamento continue antes que a transmissão tenha encerrado.</p>
+<!--
+<p align=”justify”>&emsp;&emsp; A aplicação do ChatBot Gaia é construída com a tecnologia Rasa em linguagem Python no bot e sobre a plataforma Node.js em linguagem JavaScript nos microsserviços. O objetivo do RasaNLU é aplicar algoritmos de linguagem natural para extrair a intenção do usuário (intents) e a partir do Rasa Core é possível gerir o diálogo entre o usuário e o bot. A principal funcionalidade é o policy, que recebe a intent do usuário, atualiza o tracker() e prevê a melhor ação do bot (utter, action, listening). A plataforma Node.js é um ambiente de tempo de execução que executa o código em JavaScript para escrever ferramentas de linha de comando e para scripts do lado do servidor, capaz de executar uma entrada/saída assíncrona, que permite que outro processamento continue antes que a transmissão tenha encerrado.</p> -->
 
 ### 4.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
 #### 4.2.1 Diagrama de pacotes
-
+<!--
 ![](../assets/imgs/architecture/diagramaRasa.png)
 
 Imagem 04 - Diagrama de Pacotes da Gaia
@@ -219,18 +270,18 @@ Imagem 06 - Diagrama de Pacotes do Gaia-Esporte
 
 ![](../assets/imgs/architecture/diagramaPacotesCiclone.png)
 
-Imagem 07 - Diagrama de Pacotes do Gaia-Ciclone
+Imagem 07 - Diagrama de Pacotes do Gaia-Ciclone -->
 
 #### 4.2.2 Diagrama de classe
 
 ##### 4.2.2.1 Diagrama de Classe do Gaia-Esporte
-
+<!--
 ![](../assets/imgs/architecture/diagramaClasseEsporte.png)
 
-Imagem 08 - Diagrama de Classe do Microsserviço Gaia-Esporte
+Imagem 08 - Diagrama de Classe do Microsserviço Gaia-Esporte -->
 
 ##### 4.2.2.2 Diagrama de Classe do Gaia-Ciclone
-
+<!--
 ![](../assets/imgs/architecture/diagramaClasseCiclone.png)
 
-Imagem 09 - Diagrama de Classe do Microsserviço Gaia-Ciclone
+Imagem 09 - Diagrama de Classe do Microsserviço Gaia-Ciclone -->
