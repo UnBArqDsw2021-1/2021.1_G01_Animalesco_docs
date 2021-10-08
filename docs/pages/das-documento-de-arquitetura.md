@@ -1,3 +1,20 @@
+<!--
+
+https://fga-eps-mds.github.io/2019.1-Gaia/#/projeto/DocArquitetura?id=_15-vis%c3%a3o-geral
+https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-4-b/DAS
+https://botlino.github.io/docs/doc-arquitetura
+https://desenhosoftware-2018-2.github.io/wiki/docArquitetura
+https://fga-eps-mds.github.io/2020.1-eSaudeUnB-Wiki/documento_arquitetura/#2-representacao-da-arquitetura
+https://fga-eps-mds.github.io/2020.2-Violeta-Documentacao/Projeto/doc_arquitetura/#15-visao-geral
+https://fga-eps-mds.github.io/2020-2-SiGeD/architecturedocument/#escopo
+http://diatinf.ifrn.edu.br/prof/lib/exe/fetch.php?media=user:1301182:disciplinas:arquitetura:exemplo-arquitetura-02.pdf
+http://site.maruge.com.br/documentacoes/Mar_Doc_Arq_V.3.13.pdf
+http://repositorio.aee.edu.br/bitstream/aee/1106/3/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice2.pdf
+http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%20de%20Software%20do%20SPEU%201-Exemplo-RUP.pdf
+-->
+
+
+
 # <center> Documento de Arquitetura - DAS
 
 #### Histórico de Versão
