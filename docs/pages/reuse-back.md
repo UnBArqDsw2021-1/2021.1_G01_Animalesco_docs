@@ -11,7 +11,7 @@
 
 A construção de um software é um processo que demanda bastante tempo e esforço, e dependendo da complexidade do software, torna o processo mais demorado ainda. Pensando nisso, existe um conceito criado para amenizar essa situação chamada reutilização. "A reutilização de software se baseia no uso de conceitos, produtos ou soluções previamente elaboradas ou adquiridas para criação de um novo software, visando melhorar significativamente a qualidade e a produtividade".(Devmedia, 2011)
 
-No desenvolvimento do banckend foi utilizado o conceito de reutilização de software com o objetivo de otimizar a construção do aplicativo. 
+No desenvolvimento do backend foi utilizado o conceito de reutilização de software com o objetivo de otimizar a construção do aplicativo, foi feito o reuso do framework Django.
 
 ## Django
 
