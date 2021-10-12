@@ -36,7 +36,7 @@ Porém, o mau uso desta prática pode gerar alguns obstáculos, entre eles estã
 
 ## 3. Formas de reuso de software
 
-A reutilização pode ser executada de formas diferentes, dependendo da capacidade do ambiente de implementação. A técnica é mais simples é copiar o código de um lugar para outro. Isso não é aconselhável, pois não é realmente reutilização. Várias cópias de código fonte são difíceis de manter e eventualmente podem divergir umas das outras. A reutilização significa o uso do mesmo código para executar tarefas semelhantes, como forma de aumentar a qualidade e reduzir a sobrecarga.
+A reutilização pode ser executada de formas diferentes, dependendo da capacidade do ambiente de implementação. A técnica mais simples é copiar o código de um lugar para outro. Isso não é aconselhável, pois não é realmente reutilização. Várias cópias de código fonte são difíceis de manter e eventualmente podem divergir umas das outras. A reutilização tem por objetivo realizar o uso de parte de um software/projeto para atender determinada demanda, como forma de aumentar a qualidade e reduzir a sobrecarga.
 
 ### 3.1. Framework
 
