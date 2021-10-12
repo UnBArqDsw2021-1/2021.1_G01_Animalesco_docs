@@ -15,16 +15,16 @@ O Docker é uma plataforma Open Source que facilita a criação e administraçã
 Para o presente projeto, o uso Docker tem grande importância, ele é utilizado como uma das formas de reutilização. O Docker serve para facilitar o dia a dia dos desenvolvedores e profissionais de infra, criando, de forma simplificada, um ambiente onde possam trabalhar alinhados com sua equipe e infraestrutura de servidores e fique simples criar e re-utilizar containers com “serviços” pré-configurados, simples de alterar e que possam ser versionados e mantidos através de simples arquivos de configuração. [2] 
 Ele possui muitos hot spots, e alguns frozen spots, ambos estão sendo utilizados em nossa aplicação. Utilizamos o Docker Compose para orquestrar os containers do Docker.
 
-* Frozen Spots:
-    ** Formatação do arquivo;
-    ** Nome dos arquivos.
+### Frozen Spots:
+* Formatação do arquivo;
+* Nome dos arquivos.
 
-* Hot Spots:
-    ** Imagem para construir o container;
-    ** Dependências;
-    ** Comandos que o container executa ao iniciar;
-    ** Network;
-    ** Variáveis de ambiente.
+### Hot Spots:
+* Imagem para construir o container;
+* Dependências;
+* Comandos que o container executa ao iniciar;
+* Network;
+* Variáveis de ambiente.
 
 
 O arquivo do dockerfile é utilizado para criação de nossas imagens, permitindo definir um ambiente personalizado e próprio para o projeto. Abaixo temos como foi estruturado esse arquivo no projeto.
