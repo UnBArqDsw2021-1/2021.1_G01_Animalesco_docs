@@ -4,6 +4,8 @@
 | :--------: | :----: | :------------------: | :------------: |
 | 11/10/2021 |  0.1   | Criação do documento | Daniela Soares |
 
+<div align="justify">
+
 A reutilização no Frontend se deu por meio de biblioteca como react native.
 
 # React Native
@@ -28,6 +30,7 @@ Exemplo de uso da hook useState
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/165-software-reuse-doc/docs/assets/images/useState.png'>
     <figcaption align='center'>
+</p>
 
 ## Hot Sport
 
@@ -46,8 +49,12 @@ Exemplo de instância de  componentes
     <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/165-software-reuse-doc/docs/assets/images/Alert.png'>
     <figcaption align='center'>
+</p>
 
-# Referências
+# Bibliografia
 
-[1] Pricipais diferenças entre Ract & React Native Disponivel em:<https://www.luby.com.br/mobile/principais-diferencas-entre-react-e-react-native/> Acessado em: 11/10/2021
-[2] Introdução aos Hooks. Disponível em <https://pt-br.reactjs.org/docs/hooks-intro.html#motivation> Acessado em: 11/10/2021
+* [1] Pricipais diferenças entre Ract & React Native Disponivel em:<https://www.luby.com.br/mobile/principais-diferencas-entre-react-e-react-native/> Acessado em: 11/10/2021
+
+* [2] Introdução aos Hooks. Disponível em <https://pt-br.reactjs.org/docs/hooks-intro.html#motivation> Acessado em: 11/10/2021
+
+</div>
