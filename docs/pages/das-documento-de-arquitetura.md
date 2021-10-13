@@ -256,47 +256,53 @@ O sistema deve ser desenvolvido para pessoas brasileiras que possuem algum pet.
 
 ## 4. Visão Lógica
 
-### 4.1 Visão Geral
+<!-- A aplicação do ChatBot Gaia é construída com a tecnologia Rasa em linguagem Python no bot e sobre a plataforma Node.js em linguagem JavaScript nos microsserviços. O objetivo do RasaNLU é aplicar algoritmos de linguagem natural para extrair a intenção do usuário (intents) e a partir do Rasa Core é possível gerir o diálogo entre o usuário e o bot. A principal funcionalidade é o policy, que recebe a intent do usuário, atualiza o tracker() e prevê a melhor ação do bot (utter, action, listening). A plataforma Node.js é um ambiente de tempo de execução que executa o código em JavaScript para escrever ferramentas de linha de comando e para scripts do lado do servidor, capaz de executar uma entrada/saída assíncrona, que permite que outro processamento continue antes que a transmissão tenha encerrado. -->
 
-<!--
-<p align=”justify”>&emsp;&emsp; A aplicação do ChatBot Gaia é construída com a tecnologia Rasa em linguagem Python no bot e sobre a plataforma Node.js em linguagem JavaScript nos microsserviços. O objetivo do RasaNLU é aplicar algoritmos de linguagem natural para extrair a intenção do usuário (intents) e a partir do Rasa Core é possível gerir o diálogo entre o usuário e o bot. A principal funcionalidade é o policy, que recebe a intent do usuário, atualiza o tracker() e prevê a melhor ação do bot (utter, action, listening). A plataforma Node.js é um ambiente de tempo de execução que executa o código em JavaScript para escrever ferramentas de linha de comando e para scripts do lado do servidor, capaz de executar uma entrada/saída assíncrona, que permite que outro processamento continue antes que a transmissão tenha encerrado.</p> -->
+#### 4.1 Diagrama de pacotes
 
-### 4.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
+O diagrama foi desenvolvido de acordo com os Framework Node.Js para o _backend_ e React Native para o _frontend_.
 
-#### 4.2.1 Diagrama de pacotes
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-pacote/diagrama-pacote.png'>
+    <figcaption align='center'>
+        <b>Diagrama de pacotes</b>
+        <br>
+        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
+        <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
+    </figcaption>
+</p>
 
-<!--
-![](../assets/imgs/architecture/diagramaRasa.png)
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-pacote/pacote-back.png'>
+    <figcaption align='center'>
+        <b>Diagrama pacote Back-End</b>
+        <br>
+        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small><br />
+        <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
+    </figcaption>
+</p>
 
-Imagem 04 - Diagrama de Pacotes da Gaia
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-pacote/pacote-front.png'>
+    <figcaption align='center'>
+        <b>Diagrama pacote Front-End</b>
+        <br>
+        <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small><br />
+        <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
+    </figcaption>
+</p>
 
-![](../assets/imgs/architecture/diagramaPacotesGateway.png)
+#### 4.2 Diagrama de classes
 
-Imagem 05 - Diagrama de Pacotes do Gaia-Gateway
+<p align='center'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-classes/diagrama-classes.png'>
+  <figcaption align='center'>
+      <b>Figura 1: Diagrama de classes</b>
+      <br>
+      <small>Autora: Lorrany Souza.</small>
+  </figcaption>
+</p>
 
-![](../assets/imgs/architecture/diagramaPacotesEsporte.png)
-
-Imagem 06 - Diagrama de Pacotes do Gaia-Esporte
-
-![](../assets/imgs/architecture/diagramaPacotesCiclone.png)
-
-Imagem 07 - Diagrama de Pacotes do Gaia-Ciclone -->
-
-#### 4.2.2 Diagrama de classe
-
-##### 4.2.2.1 Diagrama de Classe do Gaia-Esporte
-
-<!--
-![](../assets/imgs/architecture/diagramaClasseEsporte.png)
-
-Imagem 08 - Diagrama de Classe do Microsserviço Gaia-Esporte -->
-
-##### 4.2.2.2 Diagrama de Classe do Gaia-Ciclone
-
-<!--
-![](../assets/imgs/architecture/diagramaClasseCiclone.png)
-
-Imagem 09 - Diagrama de Classe do Microsserviço Gaia-Ciclone -->
 
 ## 5. Visão de Casos de Uso
 
