@@ -37,6 +37,8 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 | 13/10/2021 |  0.16  |        Reescrita e ajuste da Representação Arquitetural         |                Hugo Sobral                |
 | 13/10/2021 |  0.17  |        Adição do diagrama de relacionamentos do projeto         |                Hugo Sobral                |
 | 13/10/2021 |  0.18  |        Escrita dos padrões arquiteturais         |                Hugo Sobral                |
+| 13/10/2021 |  0.19  |        Refatoração das tecnologias         |                Hugo Sobral                |
+| 13/10/2021 |  0.20  |        Escrita das metas e restrições arquiteturais         |                Hugo Sobral                |
 
 
 
@@ -186,7 +188,7 @@ Para o Projeto Animalesco, os dispositivos que assumem o papel de cliente são o
 
 ## 2.4 Tecnologias
 
-Para a realização desse projeto foi utilizado um conjunto de ferramentas, sendo as mais importantes delas o Framework de desenvolvimento de APIs Web `Django REST Framework` e a plataforma de desenvolvimento de aplicativos nativos Expo. Além dessas duas tecnologias foi utilizado o serviço de banco de dados relacional Aurora DB.
+Para a realização desse projeto foi utilizado um conjunto de ferramentas, sendo as mais importantes delas o Framework de desenvolvimento de APIs Web `Django REST Framework` e a plataforma de desenvolvimento de aplicativos nativos `Expo` em conjunto com `React Native`. Além dessas duas tecnologias foi utilizado o serviço de banco de dados relacional Aurora DB.
 
 ### 2.4.1. Django e Django REST Framework
 
@@ -206,7 +208,7 @@ Para realizar a persistência de dados foi utilizado o sistema gerenciador de ba
 
 No desenvolvimento local do projeto foi utilizado uma instância do Postgres enquanto que no ambiente de homologação foi utilizado o serviço de banco de dados Heroku Postgres. Já no ambiente de produção é utilizado o serviço de banco de dados relacional fornecido pela Amazon, e retrocompatível com a API do Postgres, Aurora DB.
 
-### 2.4.3. Expo
+### 2.4.3. Expo e React Native
 
 Na camada de visualização foi utilizado o framework Expo. O Expo é uma estrutura e uma plataforma para aplicações React universais. É um conjunto de ferramentas e serviços criados em torno de plataformas React Native e nativas que ajudam a desenvolver, construir, implantar e iterar rapidamente em aplicativos iOS, Android e web a partir da mesma base de código JavaScript / TypeScript.
 
@@ -214,24 +216,38 @@ A principal motivação para a utilização do Expo foi o requisito de desenvolv
 
 ## 3. Metas e Restrições de Arquitetura
 
-### 3.1 Restrições Tecnológicas
+### 3.1 Metas
 
-<!--
-<p align="justify">&emsp;&emsp;Para o desenvolvimenta da Gaia serão utilizados as seguintes tecnologias:</p>
+#### 3.1.1 Suportabilidade
 
-- Rasa: Conjuntos de ferramentas de Machine Learning para a criação de chatbots.
-- Python: Linguagem base utilizada no Rasa.
-- Node.js: Plataforma de aplicação utilizada nos microsserviços.
-- JavaScript: Linguagem base utilizada no Node.js.
-- MongoDB: Software utilizado para o banco de dados,
+A aplicação poderá ser utilizada sem grandes problemas nos principais sistemas operacionais mobile disponíveis em 2021 (Android e IOS).
 
-### 3.2 Requisitos Não Funcionais
+#### 3.1.2 Usabilidade
 
-- O sistema deve ter integração com o Telegram;
-- O sistema deve ter integração com o Facebook;
-- O sistema deve conversar com o usuário em linguagem natural;
-- O sistema deve respeitar a personalidade do bot;
-- O sistema deve aprender novos comportamentos de acordo com a resposta do usuário; -->
+O sistema deverá ser intuitivo e de simples uso, de forma que a curva de aprendizado para utilizar a aplicação não seja um impedimento para usar o sistema.
+
+#### 3.1.3 Segurança
+
+As informações dos usuários devem estar seguras e protegidas contra invasões ao sistema.
+
+#### 3.1.3 Escalabilidade
+
+O código deve ser estruturado e escalável o suficiente para estar aberto a futuras evoluções com o crescimento do projeto.
+
+### 3.2 Restrições 
+
+#### 3.2.1 Conectividade
+
+É necessária estabelecer conexão com internet para utilização do Animalesco.
+
+#### 3.2.2 Idioma
+
+O sistema deve ser desenvolvido em português do Brasil.
+
+#### 3.2.3 Público
+
+O sistema deve ser desenvolvido para pessoas brasileiras que possuem algum pet.
+
 
 ## 4. Visão Lógica
 
