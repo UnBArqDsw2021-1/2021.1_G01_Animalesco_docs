@@ -13,6 +13,7 @@
 | 16/08/2021 |  0.7   | Escrita do tópico Introdução | Leonardo Gomes |
 | 16/08/2021 |  0.8   | Escrita do tópico Metodologia | Leonardo Gomes |
 | 16/08/2021 |  1.0   | Escrita da conclusão e adição dos diagramas | Leonardo Gomes |
+| 13/10/2021 |  1.1   | Ajuste no diagrama de comunicação relacionado ao calendário | Leonardo Gomes |
 
 <div align="justify">
 
@@ -76,7 +77,8 @@ Message é representado como uma linha no diagrama de comunicação, possui uma 
 
 Para a criação desse diagrama foi utilizado [Lucid](https://lucid.app/).
 
-### 3.1 Criação do pet
+### 3.1 Diagrama versão 2
+#### Criação do pet
 
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/createPet.png'>
@@ -87,12 +89,36 @@ Para a criação desse diagrama foi utilizado [Lucid](https://lucid.app/).
     </figcaption>
 </p>
 
-### 3.2 Calendário do pet
+#### Calendário do pet
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet-V2.png'>
+    <figcaption align='center'>
+        <b>Figura 5: Diagrama de comunicação do calendário do pet, versão 2</b>
+        <br>
+        <small>Autor: Leonardo Gomes</small>
+    </figcaption>
+</p>
+
+
+### 3.2 Diagrama versão 1
+#### Criação do pet
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/createPet.png'>
+    <figcaption align='center'>
+        <b>Figura 5: Diagrama de comunicação da criação do pet</b>
+        <br>
+        <small>Autor: Leonardo Gomes</small>
+    </figcaption>
+</p>
+
+#### Calendário do pet
 
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet.png'>
     <figcaption align='center'>
-        <b>Figura 5: Diagrama de comunicação do calendário do pet</b>
+        <b>Figura 6: Diagrama de comunicação do calendário do pet</b>
         <br>
         <small>Autor: Leonardo Gomes</small>
     </figcaption>
