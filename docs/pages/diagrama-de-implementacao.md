@@ -9,6 +9,7 @@
 | 19/08/2021 |  0.3   | Inclusão do diagrama | Vinícius Oliveira |
 | 20/08/2021 |  0.4   | Melhoria do tópico de introdução | Durval Carvalho |
 | 20/08/2021 |  1.0   | Melhoria do tópico de Objetivo | Durval Carvalho |
+| 13/10/2021 |  1.1   | Ajuste no diagrama de acordo com as anotações da professora | Leonardo Gomes |
 
 <div align="justify">
 
@@ -36,10 +37,23 @@ Desse modo, foi escolhido a elaboração de um diagrama de implementação que i
 
 O diagrama foi desenvolvido de acordo com a proposta do grupo Animalesco.
 
+### Diagrama versão 2
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-implementacao/diagrama-implementacao-v2.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Diagrama de implementação, segunda versão</b>
+        <br>
+        <small>Autor: Leonardo da Silva Gomes, 2021.</small>
+    </figcaption>
+</p>
+
+### Diagrama versão 1
+
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-implementacao/diagrama-implementacao.png'>
     <figcaption align='center'>
-        <b>Figura 1: Diagrama de implementação</b>
+        <b>Figura 2: Diagrama de implementação</b>
         <br>
         <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
     </figcaption>
