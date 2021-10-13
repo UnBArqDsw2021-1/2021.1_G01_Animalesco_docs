@@ -29,6 +29,10 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 | 07/10/2021 |  0.8   |      Escrita da Representação Arquitetural      |                Durval Carvalho                |
 | 10/10/2021 |  0.9   |        Escrita da Visão de Casos de Uso         |                  Rafael Leão                  |
 | 10/10/2021 |  0.10  |         Escrita da Visão de Implantação         |                  Rafael Leão                  |
+| 13/10/2021 |  0.11  |         Escrita do tópico Tecnologias           |                Durval Carvalho                |
+| 13/10/2021 |  0.12  |        Django e Django REST Framework           |                Durval Carvalho                |
+| 13/10/2021 |  0.13  |              Aurora DB e Postgres               |                Durval Carvalho                |
+| 13/10/2021 |  0.14  |                      Expo                       |                Durval Carvalho                |
 
 <hr>
 
@@ -40,7 +44,20 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 &emsp; [1.3 Definições, Acrônimos e Abreviações](#_13-definições-acrônimos-e-abreviações) <br>
 &emsp; [1.4 Referências](#_14-referências) <br>
 &emsp; [1.5 Visão Geral](#_15-visão-geral) <br>
+
 [2. Representação Arquitetural](#_2-representação-arquitetural) <br>
+
+&emsp; [2.4 Tecnologias](#_24-tecnologias) <br>
+&emsp; &emsp; [2.4.1 Django e Django REST Framework](#_241-django-e-django-rest-framework) <br>
+&emsp; &emsp; [2.4.2 Aurora DB](#_242-aurora-db-e-postgres) <br>
+&emsp; &emsp; [2.4.3 Expo](#_243-expo) <br>
+
+
+[5. Visão de Casos de Uso](#_5-visão-de-casos-de-uso) <br>
+&emsp; [5.1. Diagrama de Casos de Uso](#_51-diagrama-de-casos-de-uso) <br>
+[6. Visão de Implantação](#_6-visão-de-implantação) <br>
+
+<!--
 &emsp; [2.1 Diagrama de Relações](#_21-diagrama-de-relações) <br>
 &emsp; [2.2 Representação dos Microsserviços](#_22-representação-dos-microsserviços) <br>
 &emsp; &emsp; [2.2.1 Gaia-Esporte](#_221-gaia-esporte) <br>
@@ -67,9 +84,7 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 &emsp; &emsp; [4.2.2 Diagrama de Classes](#_422-diagrama-de-classes) <br>
 &emsp; &emsp; &emsp; [4.2.2.1 Diagrama de Classe do Gaia-Esporte](#_4221-diagrama-de-classe-do-gaia-esporte) <br>
 &emsp; &emsp; &emsp; [4.2.2.2 Diagrama de Classe do Gaia-Ciclone](#_4222-diagrama-de-classe-do-gaia-ciclone) <br>
-[5. Visão de Casos de Uso](#_5-visão-de-casos-de-uso) <br>
-&emsp; [5.1. Diagrama de Casos de Uso](#_51-diagrama-de-casos-de-uso) <br>
-[6. Visão de Implantação](#_6-visão-de-implantação) <br>
+-->
 
 <hr>
 
@@ -211,43 +226,31 @@ Imagem 01 - Representação da arquitetura através de um diagrama de relações
 
 ## 2.4 Tecnologias
 
+Para a realização desse projeto foi utilizado um conjunto de ferramentas, sendo as mais importantes delas o Framework de desenvolvimento de APIs Web `Django REST Framework` e a plataforma de desenvolvimento de aplicativos nativos Expo. Além dessas duas tecnologias foi utilizado o serviço de banco de dados relacional Aurora DB.
+
 ### 2.4.1. Django e Django REST Framework
 
-### 2.4.2. Aurora DB
+Django é um framework, gratuito e de código aberto, de desenvolvimento Web escrito em Python, de alto nível e que incentiva o desenvolvimento rápido e um design limpo e pragmático.
+
+Django REST Framework (DRF) é um framework para o framework Django. O DRF é um kit de ferramentas poderosas e flexíveis que possibilitam a construção de APIs da Web.
+
+Ambas as tecnologias foram escolhidas para desenvolver as APIs backend utilizada para disponibilziar os serviços utilizados pela camada de visualização. As duas principais motivações para escolher essas duas tecnologias foram:
+
+* Havia participantes no grupo que possuia experiência com ambas ferramentas e estava disposto a realizar treinamentos e fornecer ajuda aos demais membros.
+
+* Ambas ferramentas possibilitam um rápido desenvolvimento, compatível com o tempo de duração do projeto.
+
+### 2.4.2. Aurora DB e Postgres
+
+Para realizar a persistência de dados foi utilizado o sistema gerenciador de banco de dados objeto relacional open source Postgres e o serviço de banco de dados relacional Aurora DB.
+
+No desenvolvimento local do projeto foi utilizado uma instância do Postgres enquanto que no ambiente de homologação foi utilizado o serviço de banco de dados Heroku Postgres. Já no ambiente de produção é utilizado o serviço de banco de dados relacional fornecido pela Amazon, e retrocompatível com a API do Postgres, Aurora DB.
 
 ### 2.4.3. Expo
 
-<!-- #### 2.4.1 API do Bot de Telegram
-<p align="justify">&emsp;&emsp;A API de bot do Telegram permite que bots interajam diretamente com usuários por meio de mensagens e comandos. Ela será usada para um dos deploys, de forma a garantir que a Gaia consiga atingir uma faixa de usuários que não utilizam o Facebook. Para isso a Gaia precisará atender alguns critérios, já que o Telegram exige uma conexão HTTPS para interagir com a API e pede que todos os desenvolvedores suportem os comandos ‘/start’, ‘/help’, e ‘/settings’ em seus bots para facilitar a interação de usuários. </p>
+Na camada de visualização foi utilizado o framework Expo. O Expo é uma estrutura e uma plataforma para aplicações React universais. É um conjunto de ferramentas e serviços criados em torno de plataformas React Native e nativas que ajudam a desenvolver, construir, implantar e iterar rapidamente em aplicativos iOS, Android e web a partir da mesma base de código JavaScript / TypeScript.
 
-#### 2.4.2 API de Mensagens do Facebook Messenger
-<p align="justify">&emsp;&emsp;O Messenger permite que bots mandem e recebam mensagens por meio de sua API. Porém diferente de outras, o Messenger possui uma política chamada de ‘24+1’. Essa política impõe um limite de 24 horas, após o contato do usuário, para que os bots consigam mandar mensagens resposta, sendo permitido o envio de uma úncia mensagem depois desse limite ter expirado. A API do Messenger disponibiliza também um modo, atualmente em beta, de mensagens por inscrição que permite que bots mandem mensagens periódicas para usuários sem que exista um limite.</p>
-
-#### 2.4.3 OpenWeatherMap API
-<p align="justify">&emsp;&emsp;A API do OpenWeatherMap é capaz de fornecer um grande número de informações relacionadas a previsão do tempo e principalmente de condições climáticas atuais com base em localização, tanto pelo nome de capitais quanto pelas coordenadas geográficas. Além disso, a OpenWeatherMaps possui diferentes categorias para requests. A Gaia irá utilizar duas dessas categorias, a Current Weather para o microsserviço clima e a 5 days/3 hours forecast para o cronjob de notificação.</p>
-
-
-#### 2.4.4 OpenCage Geocoder API
-<p align="justify">&emsp;&emsp; A API OpenCage Geocoder converte coordenadas em nome de lugares e vice-versa. Ela será utilizada pela Gaia no microsserviço Gaia-Local. Isso é necessário porque a API externa OpenWeatherMap só consegue fornecer o clima por nome para cidades grandes. Portanto, a OpenCage Geocoder será acessada sempre que o usuário falar o nome de um local, para que o microsserviço Gaia-Clima consiga forncer o clima a partir da latitude e longitude de um lugar.</p>
-
-#### 2.4.5 Rasa
-
-![](../assets/imgs/architecture/diagramaFluxoRASA.jpeg)
-Imagem 02 - Fluxo básico da tecnologia Rasa
-
-<p align="justify">&emsp;&emsp;Rasa é um conjunto de ferramentas para Python para a criação de bots. Ele tem duas principais frentes, o Rasa Core e o Rasa NLU. O Rasa Core baseia a o desenvolvimento em Machine Learning, onde você consegue treinar e atualizar as models “conversando” e provendo feedback para o bot. Já o Rasa NLU é responsável pelo processamento da linguagem natural.</p>
-
-#### 2.4.6 NodeJS
-
-![](../assets/imgs/architecture/diagramaFluxoNodejs.png)
-
-Imagem 03 - Fluxo básico da tecnologia NodeJS
-
-<p align="justify">&emsp;&emsp;Node.js é uma plataforma de aplicação para Javascript, que tem como principal objetivo facilitar a construção de softwares escaláveis. Ele geralmente é usado ao lado do servidor e é orientado para o estilo de programação voltada a evento. Isso faz com que ele seja leve, eficiente e uma boa alternativa para arquitetura de microsserviços.</p>
-
-#### 2.4.7 MongoDB
-
-<p align="justify">&emsp;&emsp;MongoDB é um framework de banco de dados noSQL. Ele é orientado a documento, livre de esquemas, não relacional, e open-source. MongoDB trabalha com arquivos JSON que contém toda a informação do banco de dados.</p> -->
+A principal motivação para a utilização do Expo foi o requisito de desenvolvimento de aplicações nativas para smartphones. Dessa forma, devida ao tempo de duração do projeto e ao requisito de disponibilizar o aplicativo tanto para a plataforma Android e iOS, foi escolhido a ferramenta Expo.
 
 ## 3. Metas e Restrições de Arquitetura
 
