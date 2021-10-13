@@ -36,6 +36,7 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 | 13/10/2021 |  0.15  |        Adiciona Diagrama de Componentes         |                Durval Carvalho                |
 | 13/10/2021 |  0.16  |        Reescrita e ajuste da Representação Arquitetural         |                Hugo Sobral                |
 | 13/10/2021 |  0.17  |        Adição do diagrama de relacionamentos do projeto         |                Hugo Sobral                |
+| 13/10/2021 |  0.18  |        Escrita dos padrões arquiteturais         |                Hugo Sobral                |
 
 
 
@@ -169,62 +170,19 @@ A Figura 2 mostra uma visão macro dos subsistemas que compõe a solução desen
 
 <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/das-documento-de-arquitetura/das-relacionamento.png'>
   <figcaption align='center'>
-      <b>Figura 3: Diagrama com os principais módulos que compõe a arquitetura do sistema Animalesco</b>
+      <b>Figura 3: Diagrama de relacionamentos do sistema Animalesco</b>
       <br>
   </figcaption>
 </p>
 
-<!--
-![](../assets/imgs/architecture/arquiteturaV06.png)
-Imagem 01 - Representação da arquitetura através de um diagrama de relações
-
-<p align="justify">&emsp;&emsp;O estilo arquitetural de microsserviços é uma abordagem que visa implementar uma aplicação como uma suíte de pequenos serviços. Onde cada um executa um processo próprio e se comunica, geralmente, com requests HTTP. Tendo em vista a principal característica desse estilo arquitetural, a independência entre os serviços, o chatbot Gaia terá microsserviços como parte de sua arquitetura. </p>
-<p align="justify">&emsp;&emsp;Além disso, cada serviço interno da Gaia terá seu próprio repositório. Destacando assim, mais uma característica desse estilo arquitetural, onde cada um deles terá seu próprio ambiente, tecnologias, integração contínua e deploy.</p>
-<p align="justify">&emsp;&emsp;Os serviços que serão implementados na Gaia foram pensados para serem modulares, muitas vezes existindo apenas para executar uma função específica. Sendo assim, os serviços internos que fazem parte da Gaia são:</p>
-<ul>
-<li>API Gateway;</li>
-<li>Gaia-Esporte;</li>
-<li>Gaia-Ciclone.</li></ul>
-<p align="justify">&emsp;&emsp;Para a execução completa do projeto será necessário o consumo de dados de fontes externas, sendo elas:</p>
-<ul>
-<li>API Telegram;</li>
-<li>API Facebook;</li>
-<li>API OpenWeatherMaps;</li>
-<li>API OpenCage Geocoder;</li>
-<li>API Aeris Weather;</li></ul>
-<p align="justify">&emsp;&emsp;Além do comportamento interno da Gaia, outro fator importante a ser considerado é a criação do chatbot em si. Para isso, vários fatores precisam ser considerados, como o uso de linguagem natural. Por isso, será utilizado a tecnologia Rasa, que se divide em Rasa Core e Rasa NLU. Rasa Core é de extrema importância para criar um bot baseado em Machine Learning. Já o Rasa NLU é responsável pelo processamento da linguagem natural. Essa combinação vai garantir que a Gaia tenha uma comunicação acessível com o usuário.</p> -->
-<!--
-### 2.2 Representação dos Microsserviços
-
-#### 2.2.1 Gaia-Esporte
-<p align="justify">&emsp;&emsp;O microsserviço Gaia-Esporte é responsável por lidar com o core do projeto, - indicação de esportes. Para isso ele possui diversas funcionalidades. A principal delas é o cronjob de notificação, que irá manter notificações. Isso será feito registrando as preferências do usuário, sendo elas, uma cidade, um esporte, um tempo determinado para a notificação. Além disso, deverá mandar o alerta para o chat com as condições climáticas da localização desejada no período esperado pelo usuário.</p>
-
-<p align="justify">&emsp;&emsp;Para mandar as notificações será preciso saber as condições climáticas. Isso traz a necessidade das funcionalidades referentes ao clima: indicar o clima atual e indicar a previsão do tempo de até cinco dias. Para essas funcionalidades serem possíveis, o microsserviço irá consumir a API Externa OpenWeatherMaps e irá tratar os dados que são recebidos.  </p>
-
-<p align="justify">&emsp;&emsp;Porém, a API OpenWeatherMaps não retorna informações com o nome exato do local como parâmetro - para cidades que não são capitais, mas se tiver a latitude e longitude sim. Portanto, o microsserviço irá fazer requisições para a API externa OpenCage Geocoder, para receber a latitude e longitude exata de um local. Isso é de extrema importância para manter um diálogo fácil com o usuário.</p>
-
-<p align="justify">&emsp;&emsp;A última funcionalidade presente neste microsserviço é a indicação de um esporte ou uma lista de esportes ao usuário, baseado nas condições climáticas da cidade. Ou seja, o usuário perguntará quais são os melhores esportes para serem praticados naquele determinado clima, e o microsserviço terá que comparar as variáveis presentes nas condições climáticas, com a condição climática ideal dos esportes e retornar esse informação ao usuário.</p>
-
-#### 2.2.2 Gaia-Ciclone
-
-<p align="justify">&emsp;&emsp;O microsserviço Gaia-Ciclone é responsável por manter notificações sobre furacões, tufões e ciclones. Ele deve fazer requisições para a API externa Aeris Weather a cada duas horas, no endpoint /tropicalcyclones que retorna a lista de ciclones que estão acontecendo. Sempre que essa lista retornar um objeto, o microsserviço terá que mandar notificações para os usuários que a agendaram anteriormente. Além disso, em sua resposta deve conter o nome da localidade que está sofrendo com as tempestades de vento. Por isso, deverá fazer requisições para a API OpenCage Geocoder.</p>
-
-#### 2.2.3 API Gateway
-<p align="justify">&emsp;&emsp;Dentro de uma arquitetura de microsserviços ter um API Gateway é importante para gerenciar o acesso às API’s de um determinado sistema. Ou seja, ele é um padrão de software que funciona de forma similar a uma fachada sendo o único ponto de acesso, - que controla as entradas e saídas de dados, o tráfego de tarefas e monitora, - para as API’s internas. Sua existência reduz problemas causados pela interação entre cliente e microsserviços, além de conservar o ambiente dos serviços. </p> -->
 
 ### 2.3 Padrões
 
-<!--
-#### 2.3.1 Padrão API Gateway
-<p align="justify">&emsp;&emsp;Uma API Gateway é um serviço responsável por uma única entrada para os serviços internos. Ela organiza e recebe as requisições externas e as distribui para os microsserviços internos. Além disso, ela precisa se preocupar com as prioridades de requisição e com autenticação.</p>
-<p align="justify">&emsp;&emsp;O Padrão API Gateway é bastante similar ao padrão Facade (Fachada), já que também encapsula a arquitetura interna e provê uma API para os usuários. Suas principais responsabilidades são encaminhar as requisições, compor a API, gerenciar os requests utilizando o padrão API Composition, - ao chamar os diferentes microsserviços e agregar os resultados em uma resposta para o usuário. Cada uma dessas responsabilidades possui características próprias e para o entendimento do padrão API Gateway é preciso entender cada uma delas.</p>
-<p align="justify">&emsp;&emsp;O encaminhamento das requisições é uma das funções principais de uma API Gateway. Ela funciona implementando operações que encaminhem as requisições para o microsserviço correto.</p>
-<p align="justify">&emsp;&emsp;A composição da API garante que a API Gateway seja mais do que um conjunto de funções para encaminhar requisições. Essa composição é feita, geralmente, utilizando o padrão API Composition.</p>
-<p align="justify">&emsp;&emsp;Além dessas duas principais responsabilidades a API Gateway lida com funções como autenticação, autorização, respostas de cache, cors e requisições de log.</p>
+#### 2.3.1 Padrão Cliente-Servidor
 
-#### 2.3.2 Padrão API Composition
-<p align="justify">&emsp;&emsp;Ao encaminhar as requisições para os microsserviços internos a API Gateway irá desmembrar a requisição em pedidos menores e irá mandá-los para cada um dos microsserviços correspondentes. A papel do padrão API Composition é  pegar os resultados individuais de cada microsserviço anteriormente solicitado e compor uma resposta única que será mandado para o usuário.</p>
- -->
+O padrão arquitetural Cliente-Servidor descreve a modularização de um sistema de software a partir de diferentes camadas separadas por funcionalidades, isto é, vários serviços clientes requisitam para e recebem informações de um módulo central, o servidor. Serviços que assumem o papel de cliente devem prover ao usuário uma interface que o permita realizar a comunicação e interação com os dados e informações contidas e tratadas no servidor.     
+Idealmente, um servidor deve ser robusto o suficiente para que as camadas de cliente não precisem conhecer os módulos que implementam as tratativas e regras negociais acordadas para o sistema.    
+Para o Projeto Animalesco, os dispositivos que assumem o papel de cliente são os celulares cujo o aplicativo mobile esteja devidamente instalado, enquanto o papel de servidor é tomado pela API REST desenvolvida.
 
 ## 2.4 Tecnologias
 
