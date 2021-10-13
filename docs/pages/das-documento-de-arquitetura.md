@@ -33,6 +33,7 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 | 13/10/2021 |  0.12  |        Django e Django REST Framework           |                Durval Carvalho                |
 | 13/10/2021 |  0.13  |              Aurora DB e Postgres               |                Durval Carvalho                |
 | 13/10/2021 |  0.14  |                      Expo                       |                Durval Carvalho                |
+| 13/10/2021 |  0.15  |        Adiciona Diagrama de Componentes         |                Durval Carvalho                |
 
 <hr>
 
@@ -47,44 +48,34 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 
 [2. Representação Arquitetural](#_2-representação-arquitetural) <br>
 
+&emsp; [2.3 Padrões](#_23-padrões) <br>
+
 &emsp; [2.4 Tecnologias](#_24-tecnologias) <br>
 &emsp; &emsp; [2.4.1 Django e Django REST Framework](#_241-django-e-django-rest-framework) <br>
 &emsp; &emsp; [2.4.2 Aurora DB](#_242-aurora-db-e-postgres) <br>
 &emsp; &emsp; [2.4.3 Expo](#_243-expo) <br>
 
-
-[5. Visão de Casos de Uso](#_5-visão-de-casos-de-uso) <br>
-&emsp; [5.1. Diagrama de Casos de Uso](#_51-diagrama-de-casos-de-uso) <br>
-[6. Visão de Implantação](#_6-visão-de-implantação) <br>
-
-<!--
-&emsp; [2.1 Diagrama de Relações](#_21-diagrama-de-relações) <br>
-&emsp; [2.2 Representação dos Microsserviços](#_22-representação-dos-microsserviços) <br>
-&emsp; &emsp; [2.2.1 Gaia-Esporte](#_221-gaia-esporte) <br>
-&emsp; &emsp; [2.2.2 Gaia-Ciclone](#_222-gaia-ciclone) <br>
-&emsp; &emsp; [2.2.3 API Gateway](#_223-api-gateway) <br>
-&emsp; [2.3 Padrões](#_23-padrões) <br>
-&emsp; &emsp; [2.3.1 Padrão API Gateway](#_231-padrão-api-gateway) <br>
-&emsp; &emsp; [2.3.2 Padrão API Composition](#_232-padrão-api-composition) <br>
-&emsp; [2.4 Tecnologias](#_24-tecnologias) <br>
-&emsp; &emsp; [2.4.1 API de bot do Telegram](#_241-api-de-bot-do-telegram) <br>
-&emsp; &emsp; [2.4.2 API de mensagens do Facebook Messenger](#_242-api-de-mensagens-do-facebook-messenger) <br>
-&emsp; &emsp; [2.4.3 OpenWeatherMap API](#_243-openweathermap-api) <br>
-&emsp; &emsp; [2.4.4 OpenCage Geocoder API](#_244-opencage-geocoder-api) <br>
-&emsp; &emsp; [2.4.5 Rasa](#_245-rasa) <br>
-&emsp; &emsp; [2.4.6 NodeJS](#_246-nodejs) <br>
-&emsp; &emsp; [2.4.7 MongoDB](#_247-mongodb) <br>
-[3. Metas e Restrições da Arquiteura](#_3-metas-e-restrições-da-arquitetura) <br>
+[3. Metas e Restrições da Arquitetura](#_3-metas-e-restrições-da-arquitetura) <br>
 &emsp; [3.1 Restrições Tecnológicas](#_31-restrições-tecnológicas) <br>
 &emsp; [3.2 Requisitos Não Funcionais](#_31-requisitos-não-funcionais) <br>
+
 [4. Visão Lógica](#_4-visão-lógica) <br>
 &emsp; [4.1. Visão Geral](#_41-visão-geral) <br>
 &emsp; [4.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura](#_42-pacotes-de-design-significativos-do-ponto-de-vista-da-arquitetura) <br>
 &emsp; &emsp; [4.2.1 Diagrama de Pacotes](#_421-diagrama-de-pacotes) <br>
 &emsp; &emsp; [4.2.2 Diagrama de Classes](#_422-diagrama-de-classes) <br>
-&emsp; &emsp; &emsp; [4.2.2.1 Diagrama de Classe do Gaia-Esporte](#_4221-diagrama-de-classe-do-gaia-esporte) <br>
-&emsp; &emsp; &emsp; [4.2.2.2 Diagrama de Classe do Gaia-Ciclone](#_4222-diagrama-de-classe-do-gaia-ciclone) <br>
--->
+
+[5. Visão de Casos de Uso](#_5-visão-de-casos-de-uso) <br>
+&emsp; [5.1. Diagrama de Casos de Uso](#_51-diagrama-de-casos-de-uso) <br>
+
+[6. Diagrama de Componentes](#_6-diagrama-de-componentes) <br>
+&emsp; [6.1. Componente de exportação](#_61-componente-de-exportação) <br>
+&emsp; [6.2. Componente de Autorização e Autentificação](#_62-componente-de-autorização-e-autentificação) <br>
+&emsp; [6.3. Componente de roteamento](#_63-componente-de-roteamento) <br>
+&emsp; [6.4. Componente de alertas e notificações](#_64-componente-de-alertas-e-notificações) <br>
+&emsp; [6.5. Componente de tarefas periódicas](#_65-componente-de-tarefas-periódicas) <br>
+
+[7. Visão de Implantação](#_7-visão-de-implantação) <br>
 
 <hr>
 
@@ -331,7 +322,7 @@ A figura abaixo "Diagrama de Caso de Uso", demonstra todos os casos de uso que o
         <b>Diagrama de caso de uso</b>
         <br>
         <small>Autores: João Vitor Farias e Lorrany Souza, 2021.</small>
-    </figcaption>
+    </figcaption>p
 </p>
 
 A abaixo uma lista das especificações dos casos de uso com uma breve descrição de cada um.
@@ -351,7 +342,64 @@ A abaixo uma lista das especificações dos casos de uso com uma breve descriç�
 | UC11 | [Registrar visita ao veterinário](pages/casos-de-uso/UC11.md) | O presente caso de uso descreve o fluxo de atividade que inclui registrar os dados de uma visita ao veterinário. O sistema deve fornecer ao usuário a possibilidade de registrar uma visita ao veterinário, com o intuito manter o controle de quando e como foi a visita ao veterinário.                             |
 | UC12 | [Adicionar lembrete](pages/casos-de-uso/UC12.md)              | O presente caso de uso descreve o fluxo de atividade que inclui adicionar lembrete. O sistema deve permitir a adição de lembretes com o intuito de que sistema lembre o usuário para que o usuário não se esqueça de realizar algo.                                                                                   |
 
-## 6. Visão de Implantação
+
+## 6. Diagrama de Componentes
+
+Para a realização do diagrama de componentes do projeto Animalesco, foi necessário tomar algumas decisões. A primeira grande decisão tomada na diagramação foi a de aumentar o nível de detalhamento das componentes que lidam com regras de negócio.
+
+A segunda  grande decisão foi a de diminuir o nível de detalhamento de algumas partes do diagrama e a de aumentar o nível de detalhamento das partes que envolve regras de negócios. Essa decisão foi tomada pois as partes que lidão com regras de negócios tem maior probabilidade de sofrer mudanças e logo devem ser melhor compreendidas. Dessa forma, pode ser visto que o maior detalhamento está no no grande componente de backend.
+
+Outra decisão tomada foi a de não representar as conexões triviais, para assim evitar a poluição do diagrama. A primeira classe de conexões "escondidas" foi as conexões com o componente de persistência (todos os componentes se comunicam com os bancos de dados). A segunda classe de conexões "escondida" foi a comunicação com o componente de roteamento. O componente de roteamento é responsável por mapear a comunicação do frontend com um módulo ou funcionalidade específica. Desse modo, tal componente está conectado com todos os demais componentes, e a representação de tais conexões iria diminuir a compreensibilidade do diagrama.
+
+Outra decisão do diagrama foi a de utilizar _tags_ para representar alguns módulos do sistema. As principais _tags_ utilizadas e seus respectivo significados foram:
+
+* «sistema» - Representa um sistema em execução um hardware independente (servidor ou smartphone)
+* «subsistema» - Representa um sistema em execução um servidor compartilhado com outros sistemas (servidor ou smartphone)
+* «módulo» - Representa os módulos que pode existir dentro de um componente
+
+O diagrama construído pode ser acessado através da plataforma [Draw.IO](https://app.diagrams.net/). Basta fazer o download do arquivo do diagrama e carregá-lo da plataforma. O arquivo do diagrama está disponível no seguinte link: https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/tree/main/docs/assets/pages/component-diagram
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/component-diagram/diagrama-de-componentes.jpg'>
+
+    <figcaption align='center'>
+        <b>Figura 1: Imagem do diagrama de componentes</b>
+        <br>
+        <small>Fonte: Durval Carvalho</small>
+    </figcaption>
+</p>
+
+### 6.1. Componente de exportação
+
+Esse é o componente responsável por obter dados dos demais componentes e gerar um relatório que será enviado por email.
+
+Como pode ser visto no diagrama, esse serviço utiliza a interface de vários componentes do sistema para obter as informações do relatório e por fim utiliza o componente de envio de emails para finalizar o envio do relatório.
+
+
+### 6.2. Componente de Autorização e Autentificação
+
+Esse é o componente responsável por controlar quem acessar e o que acessa na API do backend. Neste componente irá agrupar toda a lógica de controle de acesso através do uso de _middlewares_.
+
+Como pode ser visualizado no diagrama, toda a comunicação passa por esse componente.
+
+### 6.3. Componente de roteamento
+
+Esse é o componente responsável por conectar todos os componentes internos do backend com as requisições do frontend. Neste componente será mapeado as requisições (_endpoint_ das apis) com as várias controladoras que utilizam os demais componentes.
+
+Esse é um componente chave que possui conexões com todos os demais componentes, porém, visando não diminuir a compreensibilidade do diagrama, tais conexões não foram ilustradas.
+
+### 6.4. Componente de alertas e notificações
+
+Esse é o componente responsável por emitir notificações para o frontend. Assim, esse componente irá grupar toda a lógica de comunicação com o aplicativo ou com a sessão web. Além de agrupar as várias potenciais integrações com serviços de notificações que podem ser contratados.
+
+### 6.5. Componente de tarefas periódicas
+
+Esse é o principal componente do sistema. As principais funcionalidades que mais agregam valor ao nosso produto estão contidas nesse componente. Dessa forma, os demais componentes desse sistema utilizam ou dão suporte as funcionalidades desse componente (emissão de emails, emissão de notificações e emissão de relatórios).
+
+Por ser um componente de extrema importância, esse é o único componente que detalha seus módulos internos, para assim facilitar a compreensão do diagrama.
+
+
+## 7. Visão de Implantação
 
 O animalesco é uma aplicação mobile que segue um modelo de camadas. Temos a camada do Front-end, Back-end e o Banco de Dados. A camada de Front-end realiza requisições à camada de Back-end que interage com o Banco de dados e retorna uma resposta ao Front-end que organiza como esses dados serão mostrados ao usuário.
 
