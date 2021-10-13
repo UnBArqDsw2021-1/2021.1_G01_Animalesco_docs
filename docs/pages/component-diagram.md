@@ -29,9 +29,9 @@ Essa abordagem modular, onde o sistema é visto como um conjunto de blocos traba
 
 Para a diagramação do diagrama de componentes do projeto animalesco, foi necessário tomar algumas decisões.
 
-A primeira grande decisão tomada na diagramação foi a de aumentar o nível de detalhamento das componentes que lidam com regras de negócio e a de 
+A primeira grande decisão tomada na diagramação foi a de aumentar o nível de detalhamento das componentes que lidam com regras de negócio.
 
-A primeira grande decisão foi a de diminuir o nível de detalhamento de algumas partes do diagrama e a de aumentar o nível de detalhamento das partes que envolve regras de negócios. Essa decisão foi tomada pois as partes que lidão com regras de negócios tem maior probabilidade de sofrer mudanças e logo devem ser melhor compreendidas. Dessa forma, pode ser visto que o maior detalhamento está no no grande componente de backend.
+A segunda  grande decisão foi a de diminuir o nível de detalhamento de algumas partes do diagrama e a de aumentar o nível de detalhamento das partes que envolve regras de negócios. Essa decisão foi tomada pois as partes que lidão com regras de negócios tem maior probabilidade de sofrer mudanças e logo devem ser melhor compreendidas. Dessa forma, pode ser visto que o maior detalhamento está no no grande componente de backend.
 
 Outra decisão tomada foi a de não representar as conexões triviais, para assim evitar a poluição do diagrama. A primeira classe de conexões "escondidas" foi as conexões com o componente de persistência (todos os componentes se comunicam com os bancos de dados). A segunda classe de conexões "escondida" foi a comunicação com o componente de roteamento. O componente de roteamento é responsável por mapear a comunicação do frontend com um módulo ou funcionalidade específica. Desse modo, tal componente está conectado com todos os demais componentes, e a representação de tais conexões iria diminuir a compreensibilidade do diagrama.
 
@@ -49,7 +49,7 @@ O diagrama construído pode ser acessado através da [plataforma Draw.IO](https:
 
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/component-diagram/diagrama-de-componentes.jpg'>
-    
+
     <figcaption align='center'>
         <b>Figura 1: Imagem do diagrama de componentes</b>
         <br>
@@ -70,7 +70,7 @@ Como pode ser visto no diagrama, esse serviço utiliza a interface de vários co
 
 ### 3.1.2. Componente de Autorização e Autentificação
 
-Esse é o componente responsável por controlar quem acessar e o que acessa na API do backend. Neste componente irá agrupar toda a lógica de controle de acesso através do uso de _middlewares_. 
+Esse é o componente responsável por controlar quem acessar e o que acessa na API do backend. Neste componente irá agrupar toda a lógica de controle de acesso através do uso de _middlewares_.
 
 Como pode ser visualizado no diagrama, toda a comunicação passa por esse componente.
 
@@ -92,7 +92,7 @@ Por ser um componente de extrema importância, esse é o único componente que d
 
 ## 5. Conclusão
 
-Após todo o processo de estudo, análise e diagramação, foi adquirido uma maior compreensão do sistema e de como suas partes se comunicam. 
+Após todo o processo de estudo, análise e diagramação, foi adquirido uma maior compreensão do sistema e de como suas partes se comunicam.
 
 Uma vez com o diagrama de componentes definido, a probabilidade do desenvolvimento de um produto altamente modularizado e testável aumenta, tendo impacto direto na qualidade da solução como um todo.
 
