@@ -34,6 +34,10 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 | 13/10/2021 |  0.13  |              Aurora DB e Postgres               |                Durval Carvalho                |
 | 13/10/2021 |  0.14  |                      Expo                       |                Durval Carvalho                |
 | 13/10/2021 |  0.15  |        Adiciona Diagrama de Componentes         |                Durval Carvalho                |
+| 13/10/2021 |  0.16  |        Reescrita e ajuste da Representação Arquitetural         |                Hugo Sobral                |
+| 13/10/2021 |  0.17  |        Adição do diagrama de relacionamentos do projeto         |                Hugo Sobral                |
+
+
 
 <hr>
 
@@ -137,9 +141,9 @@ Para melhor entendimento do documento, o texto foi dividido em X partes, das qua
 
 ## 2. Representação Arquitetural
 
-Com o advento e o sucesso da Web, a maneira de entregar serviços de interface de usuários mudou de uma aplicação desktop pesada para um interfaces leves servidas via web. Porém, as aplicações instaláveis não deixaram de existir, sendo os aplicativos mobile um grande exemplo disso. Dessa maneira, a criação de uma dois produtos de software, muitas vezes multiplataforma (Android, Windows, Linux, IOS, macOS, etc) se tornou complexa e redundante, sendo necessário rescrever várias vezes a mesma lógica de negócio em vários base de código diferentes. (NEWMAN, 2021)
+Com o advento e o sucesso da rede mundial de computadores, a maneira de entregar serviços de interface de usuários mudou de aplicações desktop para interfaces web. Um outro marco importante para o modelo de consumo de softwares foi a popularização de smartphones: a partir deste momento a grande tendência de desenvolvimento se tornou as aplicações mobile. A partir desta perspectiva, pode-se destacar uma das grandes problemáticas do desenvolvimento mobile: a criação de produtos de software multiplataforma (Android e IOS, por exemplo) se tornou complexa e redundante, sendo necessário a reescrita e refatoração da mesma lógica de negócio em diversas bases de código diferentes. (NEWMAN, 2021)
 
-Dado o devido problema, uma solução criada e amplamente utiliza nas aplicações de software modernas é a utilização de uma única API do lado do servidor, cuja responsabilidade é aplicar as diversas lógicas de negócios e realizar a comunicação com a camada de persistência de dados. Esse serviço do lado do servidor irá servir as funcionalidades para as várias aplicações de interfaces de usuários, por meio de uma API REST, utilizando o protocolo HTTP.
+Dado o devido problema, uma solução criada e amplamente utiliza em aplicações modernas de software é a utilização de uma única API do lado do servidor, cuja a responsabilidade é aplicar o processamento das informações a partir das regras negociais mapeadas e realizar a comunicação com a camada de persistência de dados. Tal serviço, tido como servidor, provê as funcionalidades por meio de uma API REST para as várias aplicações mobile disponíveis e distribuidas para os usuários, estas tidas como o lado do cliente.
 
 <p align='center'>
   <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/das-documento-de-arquitetura/bff.png'>
@@ -159,9 +163,16 @@ Esse padrão arquitetural é derivado do estilo arquitetural N-Camandas, onde é
   </figcaption>
 </p>
 
-A Figura 2 mostra uma visão macro dos subsistemas que compõe a solução desenvolvida no projeto Animalesco. Na camada mais alta, está presente um cluster de serviços de interface de usuários. Um cluster é um conjunto de instância de um mesmo serviço, com a finalidade de aumentar a disponibildiade do serviço para cenários de alto volume de acesso. A camada logo abaixo é a camada do serviço de API Gateway, cuja finalidade é distribuir a carga de acesso da camada de cima para as várias instâncias da camada de baixo. A camada logo abaixo é a camada das APIs, cuja finalidade é disponibilizar os serviços e funcionalidades para a camada de serviços de interface gráfica. E por fim, a última camada é a camada de persistência de dados, que no diagrama é representado pelo serviço denominado Aurora DB, forneceido pela AWS Amazon, cuja finalidade é atuar como um banco de dados.
+A Figura 2 mostra uma visão macro dos subsistemas que compõe a solução desenvolvida no projeto Animalesco. Na camada mais alta, está presente um cluster de serviços de interface de usuários. Um cluster é um conjunto de instâncias de um mesmo serviço com a finalidade de aumentar a disponibildiade do serviço para cenários de alto volume de acesso. A camada logo abaixo é a camada do serviço de API Gateway, cuja finalidade é distribuir a carga de acesso da camada de cima para as várias instâncias da camada de baixo. A camada logo abaixo é a camada das APIs, cuja finalidade é disponibilizar os serviços e funcionalidades para a camada de serviços de interface gráfica. E por fim, a última camada é a camada de persistência de dados, que no diagrama é representado pelo serviço denominado Aurora DB, forneceido pela AWS Amazon, cuja finalidade é atuar como um banco de dados.
 
 ### 2.1 Diagrama de Relações
+
+<img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/das-documento-de-arquitetura/das-relacionamento.png'>
+  <figcaption align='center'>
+      <b>Figura 3: Diagrama com os principais módulos que compõe a arquitetura do sistema Animalesco</b>
+      <br>
+  </figcaption>
+</p>
 
 <!--
 ![](../assets/imgs/architecture/arquiteturaV06.png)
