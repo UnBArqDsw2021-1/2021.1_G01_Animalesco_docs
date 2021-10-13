@@ -36,6 +36,8 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 | 13/10/2021 |  0.15  |        Adiciona Diagrama de Componentes         |                Durval Carvalho                |
 | 13/10/2021 |  0.16  |        Reescrita e ajuste da Representação Arquitetural         |                Hugo Sobral                |
 | 13/10/2021 |  0.17  |        Adição do diagrama de relacionamentos do projeto         |                Hugo Sobral                |
+| 13/10/2021 |  0.18  |           Adição da Visão de Processos          |                Leonardo Gomes                 |
+| 13/10/2021 |  0.19  |     Adição da descrição do tópico de Visão de Implementação      |               Leonardo Gomes              |
 
 
 
@@ -72,14 +74,17 @@ http://www.facom.ufu.br/~flavio/pds1/files/2016-01/Documento%20de%20Arquitetura%
 [5. Visão de Casos de Uso](#_5-visão-de-casos-de-uso) <br>
 &emsp; [5.1. Diagrama de Casos de Uso](#_51-diagrama-de-casos-de-uso) <br>
 
-[6. Diagrama de Componentes](#_6-diagrama-de-componentes) <br>
-&emsp; [6.1. Componente de exportação](#_61-componente-de-exportação) <br>
-&emsp; [6.2. Componente de Autorização e Autentificação](#_62-componente-de-autorização-e-autentificação) <br>
-&emsp; [6.3. Componente de roteamento](#_63-componente-de-roteamento) <br>
-&emsp; [6.4. Componente de alertas e notificações](#_64-componente-de-alertas-e-notificações) <br>
-&emsp; [6.5. Componente de tarefas periódicas](#_65-componente-de-tarefas-periódicas) <br>
+[6. Visão de Implementação](#_6-visão-de-implementação) <br>
+&emsp; [6.1. Diagrama de Componentes](#_61-diagrama-de-componentes) <br>
+&emsp; &emsp; [6.1.1. Componente de exportação](#_611-componente-de-exportação) <br>
+&emsp; &emsp; [6.1.2. Componente de Autorização e Autentificação](#_612-componente-de-autorização-e-autentificação) <br>
+&emsp; &emsp; [6.1.3. Componente de roteamento](#_613-componente-de-roteamento) <br>
+&emsp; &emsp; [6.1.4. Componente de alertas e notificações](#_614-componente-de-alertas-e-notificações) <br>
+&emsp; &emsp; [6.1.5. Componente de tarefas periódicas](#_615-componente-de-tarefas-periódicas) <br>
 
 [7. Visão de Implantação](#_7-visão-de-implantação) <br>
+
+[8. Visão de Processos](#_8-visão-de-processos) <br>
 
 <hr>
 
@@ -353,8 +358,11 @@ A abaixo uma lista das especificações dos casos de uso com uma breve descriç�
 | UC11 | [Registrar visita ao veterinário](pages/casos-de-uso/UC11.md) | O presente caso de uso descreve o fluxo de atividade que inclui registrar os dados de uma visita ao veterinário. O sistema deve fornecer ao usuário a possibilidade de registrar uma visita ao veterinário, com o intuito manter o controle de quando e como foi a visita ao veterinário.                             |
 | UC12 | [Adicionar lembrete](pages/casos-de-uso/UC12.md)              | O presente caso de uso descreve o fluxo de atividade que inclui adicionar lembrete. O sistema deve permitir a adição de lembretes com o intuito de que sistema lembre o usuário para que o usuário não se esqueça de realizar algo.                                                                                   |
 
+## 6. Visão de Implementação
 
-## 6. Diagrama de Componentes
+A visão de implementação descreve como o sistema proposto será implementado, foi feito um [Diagrama de Componentes](pages/component-diagram.md) que detalha desde as conexões mais complexas, as conexões mais simples, incluindo comunicação entre interfaces, listagem dos principais componentes arquiteturais e níveis de interfaces.
+
+### 6.1. Diagrama de Componentes
 
 Para a realização do diagrama de componentes do projeto Animalesco, foi necessário tomar algumas decisões. A primeira grande decisão tomada na diagramação foi a de aumentar o nível de detalhamento das componentes que lidam com regras de negócio.
 
@@ -380,37 +388,68 @@ O diagrama construído pode ser acessado através da plataforma [Draw.IO](https:
     </figcaption>
 </p>
 
-### 6.1. Componente de exportação
+#### 6.1.1 Componente de exportação
 
 Esse é o componente responsável por obter dados dos demais componentes e gerar um relatório que será enviado por email.
 
 Como pode ser visto no diagrama, esse serviço utiliza a interface de vários componentes do sistema para obter as informações do relatório e por fim utiliza o componente de envio de emails para finalizar o envio do relatório.
 
 
-### 6.2. Componente de Autorização e Autentificação
+#### 6.1.2. Componente de Autorização e Autentificação
 
 Esse é o componente responsável por controlar quem acessar e o que acessa na API do backend. Neste componente irá agrupar toda a lógica de controle de acesso através do uso de _middlewares_.
 
 Como pode ser visualizado no diagrama, toda a comunicação passa por esse componente.
 
-### 6.3. Componente de roteamento
+#### 6.1.3. Componente de roteamento
 
 Esse é o componente responsável por conectar todos os componentes internos do backend com as requisições do frontend. Neste componente será mapeado as requisições (_endpoint_ das apis) com as várias controladoras que utilizam os demais componentes.
 
 Esse é um componente chave que possui conexões com todos os demais componentes, porém, visando não diminuir a compreensibilidade do diagrama, tais conexões não foram ilustradas.
 
-### 6.4. Componente de alertas e notificações
+#### 6.1.4. Componente de alertas e notificações
 
 Esse é o componente responsável por emitir notificações para o frontend. Assim, esse componente irá grupar toda a lógica de comunicação com o aplicativo ou com a sessão web. Além de agrupar as várias potenciais integrações com serviços de notificações que podem ser contratados.
 
-### 6.5. Componente de tarefas periódicas
+#### 6.1.5. Componente de tarefas periódicas
 
 Esse é o principal componente do sistema. As principais funcionalidades que mais agregam valor ao nosso produto estão contidas nesse componente. Dessa forma, os demais componentes desse sistema utilizam ou dão suporte as funcionalidades desse componente (emissão de emails, emissão de notificações e emissão de relatórios).
 
 Por ser um componente de extrema importância, esse é o único componente que detalha seus módulos internos, para assim facilitar a compreensão do diagrama.
 
 
-## 7. Visão de Implantação
+## 7. Visão de processos
+
+A visão de processos descreve a decomposição do sistema em grupos de processos incluindo suas responsabilidades, colaborações e alocação de elementos lógicos. Essa visão de processos, bem como os objetos e mensagens trocadas são representados com classes e diagramas de interação, usando a notação de processo.
+
+No animalesco foi possível elaborar alguns diagramas que podem trazer uma visão mais detalhada dos processos no projeto, sendo eles o [Diagrama de Comunicação](pages/communication-diagram.md) e o [Diagrama de Sequência](pages/diagrama-de-sequencia.md)).
+
+### 7.1 Diagramas de Comunicação
+
+#### Criação do pet
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/createPet.png'>
+    <figcaption align='center'>
+        <b>Diagrama de comunicação da criação do pet</b>
+        <br>
+        <small>Autor: Leonardo Gomes</small>
+    </figcaption>
+</p>
+
+#### Calendário do pet
+
+<p align='center'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet-V2.png'>
+    <figcaption align='center'>
+        <b>Diagrama de comunicação do calendário do pet, versão 2</b>
+        <br>
+        <small>Autor: Leonardo Gomes</small>
+    </figcaption>
+</p>
+
+
+## 8. Visão de Implantação
 
 O animalesco é uma aplicação mobile que segue um modelo de camadas. Temos a camada do Front-end, Back-end e o Banco de Dados. A camada de Front-end realiza requisições à camada de Back-end que interage com o Banco de dados e retorna uma resposta ao Front-end que organiza como esses dados serão mostrados ao usuário.
 
