@@ -18,7 +18,7 @@ A criação do digrama foi feito por meio de uma ferramenta online chamada Draw.
 
 ### Diagrama de Classes v1
 <p align='center'>
-  <img src='../assets/pages/diagrama-classes/diagrama-classes.png'>
+  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-classes/diagrama-classes.png'>
   <figcaption align='center'>
       <b>Figura 1: Diagrama de classes versão 1 feita pelo Draw.io</b>
       <br>

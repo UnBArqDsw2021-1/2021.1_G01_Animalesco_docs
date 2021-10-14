@@ -54,6 +54,10 @@
   - [GRASP's](pages/patterns/GRASP.md)
   - [Princípios S.O.L.I.D](pages/patterns/SOLID.md)
 
+
+- **Arquitetura do Software**
+  - [Documento de Arquitetura de Software](pages/das-documento-de-arquitetura.md)
+
 - **Entregas**
 
   - [Entrega I](pages/entregas/entrega1.md)
