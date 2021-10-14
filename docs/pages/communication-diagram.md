@@ -92,7 +92,7 @@ Para a criação desse diagrama foi utilizado [Lucid](https://lucid.app/).
 #### Calendário do pet
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet-V2.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet-v2.png'>
     <figcaption align='center'>
         <b>Figura 5: Diagrama de comunicação do calendário do pet, versão 2</b>
         <br>

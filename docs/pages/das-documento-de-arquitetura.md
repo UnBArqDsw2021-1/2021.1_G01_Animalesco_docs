@@ -317,7 +317,7 @@ A figura abaixo "Diagrama de Caso de Uso", demonstra todos os casos de uso que o
         <b>Diagrama de caso de uso</b>
         <br>
         <small>Autores: João Vitor Farias e Lorrany Souza, 2021.</small>
-    </figcaption>p
+    </figcaption>
 </p>
 
 Abaixo uma lista das especificações dos casos de uso com uma breve descrição de cada um.
@@ -418,7 +418,7 @@ No _Animalesco_ foi possível elaborar alguns diagramas que podem trazer uma vis
 #### Calendário do pet
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet-V2.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet-v2.png'>
     <figcaption align='center'>
         <b>Diagrama de comunicação do calendário do pet, versão 2</b>
         <br>
