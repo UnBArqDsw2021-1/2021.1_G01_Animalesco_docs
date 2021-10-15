@@ -21,14 +21,14 @@ São considerados aqueles pontos que permanecem fixos em todas as instanciaçõe
 Exemplo de uso da hook useEffect
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/165-software-reuse-doc/docs/assets/images/useEffect.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/useEffect.png'>
     <figcaption align='center'>
 </p>
 
 Exemplo de uso da hook useState
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/165-software-reuse-doc/docs/assets/images/useState.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/useState.png'>
     <figcaption align='center'>
 </p>
 
@@ -41,13 +41,13 @@ São considerados aqueles pontos que são projetados para serem genéricos, dand
 Exemplo de instância de  componentes
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/165-software-reuse-doc/docs/assets/images/components.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/components.png'>
     <figcaption align='center'>
     <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/165-software-reuse-doc/docs/assets/images/GoBackHeader.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/GoBackHeader.png'>
     <figcaption align='center'>
     <p align='center'>
-    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/165-software-reuse-doc/docs/assets/images/Alert.png'>
+    <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/images/Alert.png'>
     <figcaption align='center'>
 </p>
 
