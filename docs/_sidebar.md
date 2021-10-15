@@ -58,6 +58,12 @@
 - **Arquitetura do Software**
   - [Documento de Arquitetura de Software](pages/das-documento-de-arquitetura.md)
 
+- **Reutilização de Software**
+  - [Reutilização de Software](pages/software-reuse.md)
+  - [Reutilização de Software no FrontEnd](pages/reuse-front.md)
+  - [Reutilização de Software no BackEnd](pages/reuse-back.md)
+  - [Reutilização de Software por Docker](pages/reuse-docker.md)
+
 - **Entregas**
 
   - [Entrega I](pages/entregas/entrega1.md)
