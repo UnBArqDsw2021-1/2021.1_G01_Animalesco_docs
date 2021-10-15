@@ -255,8 +255,6 @@ O sistema deve ser desenvolvido para pessoas brasileiras que possuem algum pet.
 
 ## 4. Visão Lógica
 
-<!-- A aplicação do ChatBot Gaia é construída com a tecnologia Rasa em linguagem Python no bot e sobre a plataforma Node.js em linguagem JavaScript nos microsserviços. O objetivo do RasaNLU é aplicar algoritmos de linguagem natural para extrair a intenção do usuário (intents) e a partir do Rasa Core é possível gerir o diálogo entre o usuário e o bot. A principal funcionalidade é o policy, que recebe a intent do usuário, atualiza o tracker() e prevê a melhor ação do bot (utter, action, listening). A plataforma Node.js é um ambiente de tempo de execução que executa o código em JavaScript para escrever ferramentas de linha de comando e para scripts do lado do servidor, capaz de executar uma entrada/saída assíncrona, que permite que outro processamento continue antes que a transmissão tenha encerrado. -->
-
 #### 4.1 Diagrama de pacotes
 
 O diagrama foi desenvolvido de acordo com os Framework Django para o _backend_ e React Native para o _frontend_.
@@ -264,7 +262,7 @@ O diagrama foi desenvolvido de acordo com os Framework Django para o _backend_ e
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-pacote/diagrama-pacote.png'>
     <figcaption align='center'>
-        <b>Diagrama de pacotes</b>
+        <b>Figura 4: Diagrama de pacotes</b>
         <br>
         <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small>
         <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
@@ -274,7 +272,7 @@ O diagrama foi desenvolvido de acordo com os Framework Django para o _backend_ e
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-pacote/pacote-back.png'>
     <figcaption align='center'>
-        <b>Diagrama pacote Back-End</b>
+        <b>Figura 5: Diagrama pacote Back-End</b>
         <br>
         <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small><br />
         <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
@@ -284,7 +282,7 @@ O diagrama foi desenvolvido de acordo com os Framework Django para o _backend_ e
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-pacote/pacote-front.png'>
     <figcaption align='center'>
-        <b>Diagrama pacote Front-End</b>
+        <b>Figura 6: Diagrama pacote Front-End</b>
         <br>
         <small>Autor: Vinícius Rodrigues Oliveira, 2021.</small><br />
         <small>Ajustes: Rafael Leão Teixeira de Magalhães, 2021.</small>
@@ -296,7 +294,7 @@ O diagrama foi desenvolvido de acordo com os Framework Django para o _backend_ e
 <p align='center'>
   <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/diagrama-classes/diagrama-classes.png'>
   <figcaption align='center'>
-      <b>Figura 1: Diagrama de classes</b>
+      <b>Figura 7: Diagrama de classes</b>
       <br>
       <small>Autora: Lorrany Souza.</small>
   </figcaption>
@@ -314,7 +312,7 @@ A figura abaixo "Diagrama de Caso de Uso", demonstra todos os casos de uso que o
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/use-case/use_case_diagram.png'>
     <figcaption align='center'>
-        <b>Diagrama de caso de uso</b>
+        <b>Figura 8: Diagrama de caso de uso</b>
         <br>
         <small>Autores: João Vitor Farias e Lorrany Souza, 2021.</small>
     </figcaption>
@@ -360,7 +358,7 @@ O diagrama construído pode ser acessado através da plataforma [Draw.IO](https:
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/component-diagram/diagrama-de-componentes.jpg'>
     <figcaption align='center'>
-        <b>Figura 1: Imagem do diagrama de componentes</b>
+        <b>Figura 9: Imagem do diagrama de componentes</b>
         <br>
         <small>Fonte: Durval Carvalho</small>
     </figcaption>
@@ -409,7 +407,7 @@ No _Animalesco_ foi possível elaborar alguns diagramas que podem trazer uma vis
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/createPet.png'>
     <figcaption align='center'>
-        <b>Diagrama de comunicação da criação do pet</b>
+        <b>Figura 10: Diagrama de comunicação da criação do pet</b>
         <br>
         <small>Autor: Leonardo Gomes</small>
     </figcaption>
@@ -420,7 +418,7 @@ No _Animalesco_ foi possível elaborar alguns diagramas que podem trazer uma vis
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/communication-diagram/pet-v2.png'>
     <figcaption align='center'>
-        <b>Diagrama de comunicação do calendário do pet, versão 2</b>
+        <b>Figura 11: Diagrama de comunicação do calendário do pet, versão 2</b>
         <br>
         <small>Autor: Leonardo Gomes</small>
     </figcaption>
@@ -434,7 +432,7 @@ O _Animalesco_ é uma aplicação mobile que segue um modelo de camadas. Temos a
 <p align='center'>
     <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/das-documento-de-arquitetura/implantacao.png'>
     <figcaption align='center'>
-        <b>Diagrama de Implantação</b>
+        <b>Figura 12: Diagrama de Implantação</b>
         <br>
         <small>Autor: Rafael Leão, 2021.</small>
     </figcaption>

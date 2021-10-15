@@ -2,7 +2,7 @@
 
 ## Estilos e Padrões Arquiteturais
 
-01. [Documento de arquitetura de software](pages/patterns/GRASP.md)
+01. [Documento de Arquitetura de Software](pages/das-documento-de-arquitetura.md)
 
 ## Reutilização de Software
 
@@ -17,14 +17,9 @@
 
 ### Estilos e Padrões Arquiteturais
 
-<!-- <p align='center'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/c_IrIZGX4M8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</p> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jtppKFsi-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Reutilização de Software
 
-<!-- <p align='center'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/S9alHnLFum4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vx2rfiOeVkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

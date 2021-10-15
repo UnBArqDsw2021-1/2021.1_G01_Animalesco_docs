@@ -140,10 +140,48 @@ Uma aplicação para realizar o controle e acompanhamento para com a saúde dos 
 </p>
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-13.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-14.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-15.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-16.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-17.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-18.png'>
+</p>
+
+<p align='center'>
+    <img src='https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/page-19.png'>
+</p>
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione o(s)s vídeo(s) da Entrega Final.
+<p align='center'>
+    <a href="https://youtu.be/7jtppKFsi-I" target="_blank">
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/entrega4_video1.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
+
+<p align='center'>
+    <a href="https://youtu.be/Vx2rfiOeVkA" target="_blank">
+        <img src="https://github.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/blob/main/docs/assets/images/entrega4_video2.png" 
+             style="max-width:600px;width:100%">
+    </a>
+</p>
 
 ## Descritivo dos Principais Aspectos Técnicos 
 **Principal(is) Metodologia(s) Adotada(s)**:  <br>
@@ -193,5 +231,3 @@ Nessa aba você verá um QR code que você poderá conectar com o aplicativo em 
 Na mesma aba você a partir da sidebar, você conseguirá conectar ao emaulador de sua preferência.
 
 
-## Informações Complementares 
-Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
